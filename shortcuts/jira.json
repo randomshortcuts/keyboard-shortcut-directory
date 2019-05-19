@@ -1,0 +1,154 @@
+{
+  "program": "jira",
+  "groups": [{
+    "group": "Global Shortcuts",
+    "shortcuts": [{
+      "command": "Go to Dashboard",
+      "shortcut": "g d"
+    }, {
+      "command": "Browse to a Project",
+      "shortcut": "g p"
+    }, {
+      "command": "Go to Agile",
+      "shortcut": "g a/g h"
+    }, {
+      "command": "Go to Issue Navigator",
+      "shortcut": "g i"
+    }, {
+      "command": "Administration Search Dialog Box",
+      "shortcut": "g g"
+    }, {
+      "command": "Quick Search",
+      "shortcut": "/"
+    }, {
+      "command": "Create an Issue",
+      "shortcut": "c"
+    }, {
+      "command": "Open shortcut help",
+      "shortcut": "?"
+    }, {
+      "command": "Dashboards drop-down menu",
+      "shortcut": "ctrl+alt+d"
+    }, {
+      "command": "Projects drop-down menu",
+      "shortcut": "ctrl+alt+p"
+    }, {
+      "command": "Issues drop-down menu",
+      "shortcut": "ctrl+alt+i"
+    }, {
+      "command": "Agile drop-down menu",
+      "shortcut": "ctrl+alt+g"
+    }, {
+      "command": "Form Submit",
+      "shortcut": "ctrl+alt+s"
+    }, {
+      "command": "Cancel Form",
+      "shortcut": "ctrl+alt+`"
+    }]
+  }, {
+    "group": "Agile Shortcuts",
+    "shortcuts": [{
+      "command": "Next Issue",
+      "shortcut": "j"
+    }, {
+      "command": "Previous Issue",
+      "shortcut": "k"
+    }, {
+      "command": "Next Column",
+      "shortcut": "n"
+    }, {
+      "command": "Previous Column",
+      "shortcut": "p"
+    }, {
+      "command": "Expand/Collapse All Swimlanes",
+      "shortcut": "-"
+    }, {
+      "command": "Hide/Show Detail View",
+      "shortcut": "t"
+    }, {
+      "command": "View Issue",
+      "shortcut": "o"
+    }, {
+      "command": "Add a New Line",
+      "shortcut": "ent"
+    }, {
+      "command": "Submit changes",
+      "shortcut": "ent"
+    }, {
+      "command": "Cancel changes",
+      "shortcut": "esc"
+    }, {
+      "command": "Assign to Me",
+      "shortcut": "i"
+    }, {
+      "command": "Send to Top",
+      "shortcut": "s t"
+    }, {
+      "command": "Send to Bottom",
+      "shortcut": "s b"
+    }, {
+      "command": "Edit Issue",
+      "shortcut": "e"
+    }, {
+      "command": "Projector Mode",
+      "shortcut": "z"
+    }]
+  }, {
+    "group": "Issue Actions and Navigator Shortcuts",
+    "shortcuts": [{
+      "command": "View selected Issue",
+      "shortcut": "o/ent"
+    }, {
+      "command": "Next Issue",
+      "shortcut": "j"
+    }, {
+      "command": "Previous Issue",
+      "shortcut": "k"
+    }, {
+      "command": "Back to the Navigator",
+      "shortcut": "u"
+    }, {
+      "command": "Hide/Show Left Section",
+      "shortcut": "["
+    }, {
+      "command": "Next Activity",
+      "shortcut": "n"
+    }, {
+      "command": "Previous Activity",
+      "shortcut": "p"
+    }, {
+      "command": "Focus search field",
+      "shortcut": "f"
+    }, {
+      "command": "Escape field",
+      "shortcut": "esc"
+    }, {
+      "command": "Edit Issue",
+      "shortcut": "e"
+    }, {
+      "command": "Assign Issue",
+      "shortcut": "a"
+    }, {
+      "command": "Comment on Issue",
+      "shortcut": "m"
+    }, {
+      "command": "Edit Issue Labels",
+      "shortcut": "l"
+    }, {
+      "command": "Share Issue",
+      "shortcut": "s"
+    }, {
+      "command": "Operations dialog box",
+      "shortcut": "."
+    }, {
+      "command": "Back to the Navigator",
+      "shortcut": "u"
+    }, {
+      "command": "Hide/Show Left Section",
+      "shortcut": "["
+    }, {
+      "command": "Focus Search Field",
+      "shortcut": "f"
+    }]
+  }]
+}

@@ -1,0 +1,277 @@
+{
+  "program": "github",
+  "groups": [{
+    "group": "Site wide shortcuts",
+    "shortcuts": [{
+      "shortcut": "/",
+      "command": "Focus the search bar."
+    }, {
+      "shortcut": "g n",
+      "command": "Go to your notifications."
+    }, {
+      "shortcut": "h",
+      "command": "Opens and focuses on a user, issue, or pull request hovercard"
+    }, {
+      "shortcut": "esc",
+      "command": "When focused on a user, issue, or pull request hovercard, closes the hovercard and refocuses on the element the hovercard is in"
+    }]
+  }, {
+    "group": "Repositories",
+    "shortcuts": [{
+      "shortcut": "g c",
+      "command": "Go to the Code tab"
+    }, {
+      "shortcut": "g i",
+      "command": "Go to the Issues tab."
+    }, {
+      "shortcut": "g p",
+      "command": "Go to the Pull requests tab."
+    }, {
+      "shortcut": "g b",
+      "command": "Go to the Projects tab."
+    }, {
+      "shortcut": "g w",
+      "command": "Go to the Wiki tab."
+    }]
+  }, {
+    "group": "Source code editing",
+    "shortcuts": [{
+      "shortcut": "cmd+f",
+      "command": "Start searching in file editor"
+    }, {
+      "shortcut": "cmd+g",
+      "command": "Find next"
+    }, {
+      "shortcut": "shift+cmd+g",
+      "command": "Find previous"
+    }, {
+      "shortcut": "cmd+opt+f",
+      "command": "Replace"
+    }, {
+      "shortcut": "shift+cmd+opt+f",
+      "command": "Replace all"
+    }, {
+      "shortcut": "alt+g",
+      "command": "Jump to line"
+    }, {
+      "shortcut": "cmd+z",
+      "command": "Undo"
+    }, {
+      "shortcut": "cmd+y",
+      "command": "Redo"
+    }]
+  }, {
+    "group": "Source code browsing",
+    "shortcuts": [{
+      "shortcut": "t",
+      "command": "Activates the file finder"
+    }, {
+      "shortcut": "l",
+      "command": "Jump to a line in your code"
+    }, {
+      "shortcut": "w",
+      "command": "Switch to a new branch or tag"
+    }, {
+      "shortcut": "y",
+      "command": "Expand a URL to its canonical form."
+    }, {
+      "shortcut": "i",
+      "command": "Show or hide comments on diffs."
+    }, {
+      "shortcut": "b",
+      "command": "Open blame view."
+    }]
+  }, {
+    "group": "Comments",
+    "shortcuts": [{
+      "shortcut": "cmd+b",
+      "command": "Inserts Markdown formatting for bolding text"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Inserts Markdown formatting for italicizing text"
+    }, {
+      "shortcut": "cmd+k",
+      "command": "Inserts Markdown formatting for creating a link"
+    }, {
+      "shortcut": "ctrl+shift+p",
+      "command": "Toggles between the Write and Preview comment tabs"
+    }, {
+      "shortcut": "ctrl+ent",
+      "command": "Submits a comment"
+    }, {
+      "shortcut": "ctrl+. ctrl+(saved reply number)",
+      "command": "Opens saved replies menu and then autofills comment field with a saved reply."
+    }, {
+      "shortcut": "cmd+g",
+      "command": "Insert a suggestion."
+    }, {
+      "shortcut": "r",
+      "command": "Quote the selected text in your reply."
+    }]
+  }, {
+    "group": "Issue and pull request lists",
+    "shortcuts": [{
+      "shortcut": "c",
+      "command": "Create an issue"
+    }, {
+      "shortcut": "cmd+/",
+      "command": "Focus your cursor on the issues or pull requests search bar. For more information, see \"Using search to filter issues and pull requests.\""
+    }, {
+      "shortcut": "u",
+      "command": "Filter by author"
+    }, {
+      "shortcut": "l",
+      "command": "Filter by or edit labels. For more information, see \"Filtering issues and pull requests by labels.\""
+    }, {
+      "shortcut": "m",
+      "command": "Filter by or edit milestones. For more information, see \"Filtering issues and pull requests by milestone.\""
+    }, {
+      "shortcut": "a",
+      "command": "Filter by or edit assignee. For more information, see \"Filtering issues and pull requests by assignees.\""
+    }, {
+      "shortcut": "o/ent",
+      "command": "Open issue"
+    }]
+  }, {
+    "group": "Issues and pull requests",
+    "shortcuts": [{
+      "shortcut": "q",
+      "command": "Request a reviewer. For more information, see \"Requesting a pull request review.\""
+    }, {
+      "shortcut": "m",
+      "command": "Set a milestone. For more information, see \"Associating milestones with issues and pull requests.\""
+    }, {
+      "shortcut": "l",
+      "command": "Apply a label. For more information, see \"Applying labels to issues and pull requests.\""
+    }, {
+      "shortcut": "a",
+      "command": "Set an assignee. For more information, see \"Assigning issues and pull requests to other GitHub users.\""
+    }]
+  }, {
+    "group": "Changes in pull requests",
+    "shortcuts": [{
+      "shortcut": "c",
+      "command": "Open the list of commits in the pull request"
+    }, {
+      "shortcut": "t",
+      "command": "Open the list of changed files in the pull request"
+    }, {
+      "shortcut": "j",
+      "command": "Move selection down in the list"
+    }, {
+      "shortcut": "k",
+      "command": "Move selection up in the list"
+    }, {
+      "shortcut": "cmd+shift+ent",
+      "command": "Add a single comment on a pull request diff"
+    }, {
+      "shortcut": "alt (click)",
+      "command": "Toggle between collapsing and expanding all outdated review comments in a pull request by holding down alt and clicking Show outdated or Hide outdated ."
+    }]
+  }, {
+    "group": "Project boards",
+    "shortcuts": [{
+      "shortcut": "ent/space",
+      "command": "Start moving the focused column"
+    }, {
+      "shortcut": "esc",
+      "command": "Cancel the move in progress"
+    }, {
+      "shortcut": "ent",
+      "command": "Complete the move in progress"
+    }, {
+      "shortcut": "left/h",
+      "command": "Move column to the left"
+    }, {
+      "shortcut": "cmd+left/cmd+h",
+      "command": "Move column to the leftmost position"
+    }, {
+      "shortcut": "right/l",
+      "command": "Move column to the right"
+    }, {
+      "shortcut": "cmd+right/cmd+l",
+      "command": "Move column to the rightmost position"
+    }, {
+      "shortcut": "ent/space",
+      "command": "Start moving the focused card"
+    }, {
+      "shortcut": "esc",
+      "command": "Cancel the move in progress"
+    }, {
+      "shortcut": "ent",
+      "command": "Complete the move in progress"
+    }, {
+      "shortcut": "down/j",
+      "command": "Move card down"
+    }, {
+      "shortcut": "cmd+down/cmd+j",
+      "command": "Move card to the bottom of the column"
+    }, {
+      "shortcut": "up/k",
+      "command": "Move card up"
+    }, {
+      "shortcut": "cmd+up/cmd+k",
+      "command": "Move card to the top of the column"
+    }, {
+      "shortcut": "left/h",
+      "command": "Move card to the bottom of the column on the left"
+    }, {
+      "shortcut": "shift+h",
+      "command": "Move card to the top of the column on the left"
+    }, {
+      "shortcut": "cmd+left/cmd+h",
+      "command": "Move card to the bottom of the leftmost column"
+    }, {
+      "shortcut": "cmd+shift+h",
+      "command": "Move card to the top of the leftmost column"
+    }, {
+      "shortcut": "right",
+      "command": "Move card to the bottom of the column on the right"
+    }, {
+      "shortcut": "shift+l",
+      "command": "Move card to the top of the column on the right"
+    }, {
+      "shortcut": "cmd+right/cmd+l",
+      "command": "Move card to the bottom of the rightmost column"
+    }, {
+      "shortcut": "cmd+shift+l",
+      "command": "Move card to the bottom of the rightmost column"
+    }]
+  }, {
+    "group": "Notifications",
+    "shortcuts": [{
+      "shortcut": "e/i/y",
+      "command": "Mark as read"
+    }, {
+      "shortcut": "shift+m",
+      "command": "Mute thread"
+    }]
+  }, {
+    "group": "Network Graph",
+    "shortcuts": [{
+      "shortcut": "left/h",
+      "command": "Scroll left"
+    }, {
+      "shortcut": "right/l",
+      "command": "Scroll right"
+    }, {
+      "shortcut": "up/k",
+      "command": "Scroll up"
+    }, {
+      "shortcut": "down/j",
+      "command": "Scroll down"
+    }, {
+      "shortcut": "shift+h",
+      "command": "Scroll all the way left"
+    }, {
+      "shortcut": "shift+l",
+      "command": "Scroll all the way right"
+    }, {
+      "shortcut": "shift+k",
+      "command": "Scroll all the way up"
+    }, {
+      "shortcut": "shift+j",
+      "command": "Scroll all the way down"
+    }]
+  }]
+}

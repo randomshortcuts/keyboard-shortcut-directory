@@ -1,0 +1,166 @@
+{
+  "program": "figma",
+  "groups": [{
+    "group": "File & Properties",
+    "shortcuts": [{
+      "command": "Export",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Save",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Place",
+      "shortcut": "cmd+shift+k"
+    }, {
+      "command": "Color Picker",
+      "shortcut": "ctrl+c/ctrl+i"
+    }, {
+      "command": "Enter Image Crop Mode",
+      "shortcut": "(hold) opt (then double-click)"
+    }]
+  }, {
+    "group": "View",
+    "shortcuts": [{
+      "command": "Pan",
+      "shortcut": "(hold) ⎵ (then drag)"
+    }, {
+      "command": "Zoom In",
+      "shortcut": "+"
+    }, {
+      "command": "Zoom Out",
+      "shortcut": "–"
+    }, {
+      "command": "Zoom to Fit",
+      "shortcut": "1/9"
+    }, {
+      "command": "Zoom to Selection",
+      "shortcut": "2"
+    }, {
+      "command": "Zoom 100%",
+      "shortcut": "0"
+    }, {
+      "command": "Rename Layer",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Show Rulers",
+      "shortcut": "shift+r"
+    }, {
+      "command": "Pixel Preview",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "Show Layout Grids",
+      "shortcut": "ctrl+g"
+    }, {
+      "command": "Show Layers Panel",
+      "shortcut": "cmd+shift+\\"
+    }, {
+      "command": "Show Figma UI",
+      "shortcut": "cmd+\\"
+    }, {
+      "command": "Show Pixel Grid",
+      "shortcut": "cmd+'"
+    }, {
+      "command": "Show Transparency Checkerboard",
+      "shortcut": "ctrl+shift+'"
+    }, {
+      "command": "Outline Mode",
+      "shortcut": "cmd+y/ctrl+shift+3"
+    }]
+  }, {
+    "group": "Vector",
+    "shortcuts": [{
+      "command": "Move Tool",
+      "shortcut": "v"
+    }, {
+      "command": "Pen Tool",
+      "shortcut": "p"
+    }, {
+      "command": "Paint Bucket",
+      "shortcut": "b"
+    }, {
+      "command": "Bend Tool",
+      "shortcut": "cmd+drag"
+    }, {
+      "command": "Join Selection",
+      "shortcut": "cmd+j"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "opt+drag"
+    }, {
+      "command": "Exit Vector Edit Mode",
+      "shortcut": "esc/ret"
+    }]
+  }, {
+    "group": "Text",
+    "shortcuts": [{
+      "command": "Type Tool",
+      "shortcut": "t"
+    }, {
+      "command": "Toggle Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Toggle Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Toggle Bold",
+      "shortcut": "cmd+b"
+    }]
+  }, {
+    "group": "Object",
+    "shortcuts": [{
+      "command": "Move Tool",
+      "shortcut": "v"
+    }, {
+      "command": "Pen Tool",
+      "shortcut": "p"
+    }, {
+      "command": "Rectangle Tool",
+      "shortcut": "r"
+    }, {
+      "command": "Ellipse Tool",
+      "shortcut": "o"
+    }, {
+      "command": "Line Tool",
+      "shortcut": "l"
+    }, {
+      "command": "Frame Tool",
+      "shortcut": "a/f"
+    }, {
+      "command": "Slice Tool",
+      "shortcut": "s"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "cmd+d/opt (then drag)"
+    }, {
+      "command": "Group Selection",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Ungroup Selection",
+      "shortcut": "cmd+shift+g"
+    }, {
+      "command": "Toggle Visibility",
+      "shortcut": "cmd+shift+h"
+    }, {
+      "command": "Toggle Lock",
+      "shortcut": "cmd+shift+l"
+    }, {
+      "command": "Flatten Selection",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Outline Stroke",
+      "shortcut": "cmd+shift+o"
+    }, {
+      "command": "Toggle Mask",
+      "shortcut": "opt+cmd+m"
+    }]
+  }]
+}

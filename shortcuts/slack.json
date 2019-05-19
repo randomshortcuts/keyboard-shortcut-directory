@@ -1,0 +1,157 @@
+{
+  "program": "Slack",
+  "groups": [{
+    "group": "Navigation",
+    "shortcuts": [{
+      "command": "Quick Switcher",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Open direct messages menu",
+      "shortcut": "cmd+shift+k"
+    }, {
+      "command": "Browse all channels",
+      "shortcut": "cmd+shift+l"
+    }, {
+      "command": "Open all threads view",
+      "shortcut": "cmd+shift+t"
+    }, {
+      "command": "Previous channel or DM",
+      "shortcut": "opt+up"
+    }, {
+      "command": "Next channel or DM",
+      "shortcut": "opt+down"
+    }, {
+      "command": "Previous unread channel or DM",
+      "shortcut": "opt+shift+up"
+    }, {
+      "command": "Next unread channel or DM",
+      "shortcut": "opt+shift+down"
+    }, {
+      "command": "Previous channel or DM visited",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Next channel or DM visited",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Open preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Open or close right pane",
+      "shortcut": "cmd+."
+    }, {
+      "command": "Channel info pane",
+      "shortcut": "cmd+shift+i"
+    }, {
+      "command": "Activity",
+      "shortcut": "cmd+shift+i"
+    }, {
+      "command": "Directory",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Starred items",
+      "shortcut": "cmd+shift+s"
+    }, {
+      "command": "Search current channel or conversation",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Open previous search",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Toggle full screen",
+      "shortcut": "ctrl+cmd+f"
+    }]
+  }, {
+    "group": "All Unreads navigation",
+    "shortcuts": [{
+      "command": "Open All Unreads view",
+      "shortcut": "cmd+shift+a"
+    }, {
+      "command": "Mark messages as unread",
+      "shortcut": "opt (then click a message)"
+    }, {
+      "command": "Open direct messages menu",
+      "shortcut": "right/left"
+    }, {
+      "command": "Toggle current channel read or unread",
+      "shortcut": "r"
+    }]
+  }, {
+    "group": "Mark messages read or unread",
+    "shortcuts": [{
+      "command": "Mark all messages in current channel or DM as read",
+      "shortcut": "esc"
+    }, {
+      "command": "Mark all messages as read",
+      "shortcut": "shift+esc"
+    }, {
+      "command": "Set a message as your oldest unread message",
+      "shortcut": "opt (then click a message)"
+    }]
+  }, {
+    "group": "Message shortcuts",
+    "shortcuts": [{
+      "command": "Edit your last message",
+      "shortcut": "up"
+    }, {
+      "command": "Start search for an emoji",
+      "shortcut": ": (then type at least three characters)"
+    }, {
+      "command": "Select text to beginning of current line",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Select text to end of current line",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Add emoji reactions to a message",
+      "shortcut": "cmd+shift+\\"
+    }, {
+      "command": "Bold selected text",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italicize selected text",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Strikethrough selected text",
+      "shortcut": "cmd+shift+x"
+    }, {
+      "command": "Quote selected text",
+      "shortcut": "cmd+shift+>"
+    }, {
+      "command": "Codeblock selected text",
+      "shortcut": "cmd+shift+c"
+    }, {
+      "command": "Turn selected text into a numbered list",
+      "shortcut": "cmd+shift+7"
+    }, {
+      "command": "Turn selected text into a bulleted list",
+      "shortcut": "cmd+shift+8"
+    }, {
+      "command": "Set or edit your status",
+      "shortcut": "cmd+shift+y"
+    }]
+  }, {
+    "group": "Files and snippets",
+    "shortcuts": [{
+      "command": "Upload file",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Create a new snippet",
+      "shortcut": "cmd+shift+ret"
+    }]
+  }, {
+    "group": "Call actions",
+    "shortcuts": [{
+      "command": "Toggle mute on and off (hold to talk when muted)",
+      "shortcut": "m"
+    }, {
+      "command": "Toggle video on and off",
+      "shortcut": "v"
+    }, {
+      "command": "Show invite list",
+      "shortcut": "+/a"
+    }, {
+      "command": "View and select an emoji reaction",
+      "shortcut": "e 1-9"
+    }]
+  }]
+}

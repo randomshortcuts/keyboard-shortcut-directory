@@ -1,0 +1,19 @@
+{
+  "name": "keyboard-shortcuts",
+  "version": "1.0.0",
+  "description": "A JSON directory of keyboard shortcuts, written in a consistent syntax.",
+  "main": "parseShortcuts.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "parse": "node parseShortcuts.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

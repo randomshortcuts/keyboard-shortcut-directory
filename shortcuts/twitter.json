@@ -1,0 +1,91 @@
+{
+  "program": "Twitter",
+  "groups": [{
+    "group": "Actions",
+    "shortcuts": [{
+      "command": "New Tweet",
+      "shortcut": "n"
+    }, {
+      "command": "Like",
+      "shortcut": "l"
+    }, {
+      "command": "Reply",
+      "shortcut": "r"
+    }, {
+      "command": "Retweet",
+      "shortcut": "t"
+    }, {
+      "command": "Direct Message",
+      "shortcut": "n"
+    }, {
+      "command": "Mute User",
+      "shortcut": "u"
+    }, {
+      "command": "Block User",
+      "shortcut": "b"
+    }, {
+      "command": "Open Tweet details",
+      "shortcut": "enter"
+    }, {
+      "command": "Expand photo",
+      "shortcut": "o"
+    }, {
+      "command": "Search",
+      "shortcut": "/"
+    }, {
+      "command": "Send Tweet",
+      "shortcut": "cmd+ret"
+    }]
+  }, {
+    "group": "Navigation",
+    "shortcuts": [{
+      "command": "Show keyboard shortcuts",
+      "shortcut": "?"
+    }, {
+      "command": "Next Tweet",
+      "shortcut": "j"
+    }, {
+      "command": "Previous Tweet",
+      "shortcut": "k"
+    }, {
+      "command": "Page down",
+      "shortcut": "space"
+    }, {
+      "command": "Load new Tweets",
+      "shortcut": "."
+    }]
+  }, {
+    "group": "Timelines",
+    "shortcuts": [{
+      "command": "Home",
+      "shortcut": "g p"
+    }, {
+      "command": "Moments",
+      "shortcut": "g o"
+    }, {
+      "command": "Notifications",
+      "shortcut": "g n"
+    }, {
+      "command": "Mentions",
+      "shortcut": "g r"
+    }, {
+      "command": "Profile",
+      "shortcut": "g p"
+    }, {
+      "command": "Likes",
+      "shortcut": "g l"
+    }, {
+      "command": "Lists",
+      "shortcut": "g i"
+    }, {
+      "command": "Messages",
+      "shortcut": "g m"
+    }, {
+      "command": "Settings",
+      "shortcut": "g s"
+    }, {
+      "command": "Go to user...",
+      "shortcut": "g u"
+    }]
+  }]
+}

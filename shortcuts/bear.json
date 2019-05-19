@@ -1,0 +1,238 @@
+{
+  "program": "Bear",
+  "groups": [{
+    "group": "Text Styles",
+    "shortcuts": [{
+      "command": "Headings",
+      "shortcut": "opt+cmd+1-opt+cmd+6"
+    }, {
+      "command": "Line separator",
+      "shortcut": "opt+cmd+s"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Strikethrough",
+      "shortcut": "shift+cmd+e"
+    }, {
+      "command": "Link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Unordered list",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Ordered list",
+      "shortcut": "shift+cmd+l"
+    }, {
+      "command": "Quote",
+      "shortcut": "shift+cmd+u"
+    }, {
+      "command": "Todo",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Inline code",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Code block",
+      "shortcut": "ctrl+cmd+c"
+    }, {
+      "command": "Marker/Highlighter ",
+      "shortcut": "shift+cmd+m"
+    }, {
+      "command": "Insert file",
+      "shortcut": "shift+cmd+v"
+    }]
+  }, {
+    "group": "Todos",
+    "shortcuts": [{
+      "command": "Toggle Todo",
+      "shortcut": "shift+cmd+t"
+    }, {
+      "command": "Mark Todo as completed",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Mark Todo as incomplete",
+      "shortcut": "ctrl+cmd+t"
+    }]
+  }, {
+    "group": "Structure",
+    "shortcuts": [{
+      "command": "Shift line right",
+      "shortcut": "opt+]"
+    }, {
+      "command": "Shift line left",
+      "shortcut": "opt+["
+    }, {
+      "command": "Move line up",
+      "shortcut": "opt+cmd+up"
+    }, {
+      "command": "Move line down",
+      "shortcut": "opt+cmd+down"
+    }]
+  }, {
+    "group": "Lists",
+    "shortcuts": [{
+      "command": "Shift the list element right",
+      "shortcut": "tab"
+    }, {
+      "command": "Shift the list element left",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "End the list",
+      "shortcut": "shift+ret"
+    }]
+  }, {
+    "group": "Dates",
+    "shortcuts": [{
+      "command": "Long Form Date with time",
+      "shortcut": "shift+cmd+7"
+    }, {
+      "command": "Long Form Date",
+      "shortcut": "shift+cmd+8"
+    }, {
+      "command": "Short Form Date",
+      "shortcut": "shift+cmd+9"
+    }, {
+      "command": "Hours",
+      "shortcut": "shift+cmd+0"
+    }]
+  }, {
+    "group": "Control",
+    "shortcuts": [{
+      "command": "Select all",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "End editing",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Print note",
+      "shortcut": "cmd+p"
+    }]
+  }, {
+    "group": "Zoom",
+    "shortcuts": [{
+      "command": "Zoom in",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Actual size",
+      "shortcut": "cmd+0"
+    }]
+  }, {
+    "group": "Panels and search",
+    "shortcuts": [{
+      "command": "Toggle information panel",
+      "shortcut": "shift+cmd+i"
+    }, {
+      "command": "Search inside the current note",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Search and replace inside current note",
+      "shortcut": "opt+cmd+f"
+    }, {
+      "command": "Search inside the note list",
+      "shortcut": "shift+cmd+f"
+    }]
+  }, {
+    "group": "Navigation",
+    "shortcuts": [{
+      "command": "Create a new note",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Create a new note in a new window",
+      "shortcut": "opt+cmd+n"
+    }, {
+      "command": "Move the selection in the note and tags list",
+      "shortcut": "up/down"
+    }, {
+      "command": "Move the selection between the sidebar, the note list and the editor; open/close nested tags",
+      "shortcut": "left/right"
+    }, {
+      "command": "Edit the selected note",
+      "shortcut": "ret"
+    }, {
+      "command": "Search in the current note list",
+      "shortcut": "opt+cmd+f"
+    }, {
+      "command": "Delete the selected note",
+      "shortcut": "opt+delete"
+    }, {
+      "command": "Restore selected note",
+      "shortcut": "shift+cmd+r"
+    }, {
+      "command": "Pin/unpin selected note",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Select all notes in the list",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Empty Trash",
+      "shortcut": "shift+cmd+delete"
+    }, {
+      "command": "Select notes in the sidebar",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Select untagged in the sidebar",
+      "shortcut": "cmd+2"
+    }, {
+      "command": "Select Todo in the sidebar",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Select Today in the sidebar",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Select Archive in the sidebar",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Select Trash in the sidebar",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Navigate back in visualized notes history",
+      "shortcut": "opt+cmd+left"
+    }, {
+      "command": "Navigate forward in visualized note history",
+      "shortcut": "opt+cmd+right"
+    }]
+  }, {
+    "group": "Saving and importing",
+    "shortcuts": [{
+      "command": "Export selected note",
+      "shortcut": "shift+cmd+s"
+    }, {
+      "command": "Import notes",
+      "shortcut": "shift+cmd+o"
+    }, {
+      "command": "Mark Todo as incomplete",
+      "shortcut": "ctrl+cmd+t"
+    }]
+  }, {
+    "group": "Window",
+    "shortcuts": [{
+      "command": "Show sidebar, note list and editor",
+      "shortcut": "ctrl+1"
+    }, {
+      "command": "Show note list and editor",
+      "shortcut": "ctrl+2"
+    }, {
+      "command": "Show editor only",
+      "shortcut": "ctrl+3"
+    }, {
+      "command": "Show preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Enter fullscreen",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": "Open main window",
+      "shortcut": "cmd+\\"
+    }]
+  }]
+}

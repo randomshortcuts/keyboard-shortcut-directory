@@ -1,0 +1,487 @@
+{
+  "program": "Mojave",
+  "groups": [{
+    "group": "Cut, copy, paste, and other common shortcuts",
+    "shortcuts": [{
+      "command": " Cut the selected item and copy it to the Clipboard",
+      "shortcut": "cmd+x"
+    }, {
+      "command": " Copy the selected item to the Clipboard. This also works for files in the Finder",
+      "shortcut": "cmd+c"
+    }, {
+      "command": " Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder",
+      "shortcut": "cmd+v"
+    }, {
+      "command": " Undo the previous command. You can then press Shift + Command + Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands",
+      "shortcut": "cmd+z"
+    }, {
+      "command": " Select All items",
+      "shortcut": "cmd+a"
+    }, {
+      "command": " Find items in a document or open a Find window",
+      "shortcut": "cmd+f"
+    }, {
+      "command": " Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press Shift + Command + G",
+      "shortcut": "cmd+g"
+    }, {
+      "command": " Hide the windows of the front app. To view the front app but hide all other apps, press Option + Command + H",
+      "shortcut": "cmd+h"
+    }, {
+      "command": " Minimize the front window to the Dock. To minimize all windows of the front app, press Option + Command + M",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "nbsp;Open the selected item, or open a dialog to select a file to open",
+      "shortcut": "cmd+o"
+    }, {
+      "command": " Print the current document",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Save the current document",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Open a new tab",
+      "shortcut": "cmd+t"
+    }, {
+      "command": " Close the front window. To close all windows of the app, press Option + Command + W",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "<a href='https://support.apple.com/HT201276'>Force quit</a> an app",
+      "shortcut": "opt+cmd+esc"
+    }, {
+      "command": "Show or hide the <a href='https://support.apple.com/kb/HT201744'>Spotlight</a> search field. To perform a Spotlight search from a Finder window, press Command +Option +Space. (If you <a href='https://support.apple.com/guide/mac-help/type-in-another-language-with-input-sources-mchlp1406'>use multiple input sources</a> to type in different languages, these shortcuts change input sources instead of showing Spotlight. Learn how to <a href='https://support.apple.com/guide/mac-help/change-a-conflicting-keyboard-shortcut-mh35591'>change a conflicting keyboard shortcut</a>.",
+      "shortcut": "cmd+space"
+    }, {
+      "command": "Show the Character Viewer, from which you can choose <a href='https://support.apple.com/kb/HT201586'>emoji and other symbols</a>",
+      "shortcut": "ctrl+cmd+space"
+    }, {
+      "command": "Use the app in full screen, if supported by the app",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": " Use <a href='https://support.apple.com/guide/mac-help/quick-look-files-and-folders-mh14119'>Quick Look</a> to preview the selected item",
+      "shortcut": "space"
+    }, {
+      "command": " Switch to the next most recently used app among your open apps.&nbsp",
+      "shortcut": "cmd+tab"
+    }, {
+      "command": "In <a href='https://support.apple.com/kb/HT201475'>macOS Mojave</a>, take a screenshot or make a screen recording. In earlier macOS versions, use Shift + Command + 3 or Shift + Command + 4 for screenshots. <a href='https://support.apple.com/kb/HT201361'>Learn more about screenshots</a>",
+      "shortcut": "shift+cmd+5"
+    }, {
+      "command": "Create a new folder in the Finder",
+      "shortcut": "shift+cmd+n"
+    }, {
+      "command": " Open preferences for the front app",
+      "shortcut": "cmd+,"
+    }]
+  }, {
+    "group": "Sleep, log out, and shut down shortcuts",
+    "shortcuts": [{
+      "command": "Turn on your Mac or wake it from sleep. Press and hold for 1.5 seconds to put your Mac to sleep.* Continue holding to force your Mac to turn off.",
+      "shortcut": "power"
+    }, {
+      "command": "Put your Mac to sleep.",
+      "shortcut": "opt+cmd+power"
+    }, {
+      "command": "Put your displays to sleep.",
+      "shortcut": "ctrl+shift+power"
+    }, {
+      "command": "Display a dialog asking whether you want to restart, sleep, or shut down.",
+      "shortcut": "ctrl+power"
+    }, {
+      "command": "Force your Mac to restart, without prompting to save any open and unsaved documents.",
+      "shortcut": "ctrl+cmd+power"
+    }, {
+      "command": "Quit all apps, then shut down your Mac. If any open documents have unsaved changes, you will be asked whether you want to save them.",
+      "shortcut": "ctrl+opt+cmd+power"
+    }, {
+      "command": "Log out of your macOS user account. You will be asked to confirm. To log out immediately without confirming, press Option + Shift + Command + Q.",
+      "shortcut": "shift+cmd+q"
+    }]
+  }, {
+    "group": "Finder and system shortcuts",
+    "shortcuts": [{
+      "command": "Duplicate the selected files.",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Eject the selected disk or volume.",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Start a Spotlight search in the Finder window.",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Show the Get Info window for a selected file.",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "(1) When an alias is selected the Finder: show the original file for the selected alias. (2) In some apps, such as Calendar or Safari, refresh or reload the page. (3) In <a href='https://support.apple.com/kb/HT201541'>Software Update preferences</a>, check for software updates again.",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Open the Computer window.",
+      "shortcut": "shift+cmd+c"
+    }, {
+      "command": "Open the desktop folder.",
+      "shortcut": "shift+cmd+d"
+    }, {
+      "command": "Open the Recents window, showing all of the files you viewed or changed recently.",
+      "shortcut": "shift+cmd+f"
+    }, {
+      "command": "Open a Go to Folder window.",
+      "shortcut": "shift+cmd+g"
+    }, {
+      "command": "Open the Home folder of the current macOS user account.",
+      "shortcut": "shift+cmd+h"
+    }, {
+      "command": "Open iCloud Drive.",
+      "shortcut": "shift+cmd+i"
+    }, {
+      "command": "Open the Network window.",
+      "shortcut": "shift+cmd+k"
+    }, {
+      "command": "Open the Downloads folder.",
+      "shortcut": "opt+cmd+l"
+    }, {
+      "command": "Create a new folder.",
+      "shortcut": "shift+cmd+n"
+    }, {
+      "command": "Open the Documents folder.",
+      "shortcut": "shift+cmd+o"
+    }, {
+      "command": "Show or hide the Preview pane in Finder windows.",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Open the AirDrop window.",
+      "shortcut": "shift+cmd+r"
+    }, {
+      "command": "Show or hide the tab bar in Finder windows.",
+      "shortcut": "shift+cmd+t"
+    }, {
+      "command": "Add selected Finder item to the Dock (OS X Mavericks or later)",
+      "shortcut": "ctrl+shift+cmd+t"
+    }, {
+      "command": "Open the Utilities folder.",
+      "shortcut": "shift+cmd+u"
+    }, {
+      "command": "Show or hide the Dock.",
+      "shortcut": "opt+cmd+d"
+    }, {
+      "command": "Add the selected item to the sidebar (OS X Mavericks or later).",
+      "shortcut": "ctrl+cmd+t"
+    }, {
+      "command": "Hide or show the path bar in Finder windows.",
+      "shortcut": "opt+cmd+p"
+    }, {
+      "command": "Hide or show the Sidebar in Finder windows.",
+      "shortcut": "opt+cmd+s"
+    }, {
+      "command": "Hide or show the status bar in Finder windows.",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Show View Options.",
+      "shortcut": "cmd+j"
+    }, {
+      "command": "Open the Connect to Server window.",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Make an alias of the selected item.",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Open a new Finder window.",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Create a new Smart Folder.",
+      "shortcut": "opt+cmd+n"
+    }, {
+      "command": "Show or hide the tab bar when a single tab is open in the current Finder window.",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Show or hide the toolbar when a single tab is open in the current Finder window.",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Move: Move the files in the Clipboard from their original location to the current location.",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Use Quick Look to preview the selected files.",
+      "shortcut": "cmd+y"
+    }, {
+      "command": "View a Quick Look slideshow of the selected files.",
+      "shortcut": "opt+cmd+y"
+    }, {
+      "command": "View the items in the Finder window as icons.",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "View the items in a Finder window as a list.",
+      "shortcut": "cmd+2"
+    }, {
+      "command": "View the items in a Finder window in columns.",
+      "shortcut": "cmd+3"
+    }, {
+      "command": "View the items in a Finder window with Cover Flow.",
+      "shortcut": "cmd+4"
+    }, {
+      "command": "Go to the previous folder.",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Go to the next folder.",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Open the folder that contains the current folder.",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Open the folder that contains the current folder in a new window.",
+      "shortcut": "cmd+ctrl+up"
+    }, {
+      "command": "Open the selected item.",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Open the selected folder. This works only when in list view.",
+      "shortcut": "right"
+    }, {
+      "command": "Close the selected folder. This works only when in list view.",
+      "shortcut": "left"
+    }, {
+      "command": "Move the selected item to the Trash.",
+      "shortcut": "cmd+delete"
+    }, {
+      "command": "Empty the Trash.",
+      "shortcut": "shift+cmd+delete"
+    }, {
+      "command": "Empty the Trash without confirmation dialog.",
+      "shortcut": "opt+shift+cmd+delete"
+    }, {
+      "command": "Turn <a href='https://support.apple.com/kb/HT204592'>target display mode</a> on or off.",
+      "shortcut": "cmd+brightup"
+    }, {
+      "command": "Turn <a href='https://support.apple.com/kb/HT202351#mirroring'>video mirroring</a> on or off when your Mac is connected to more than one display.",
+      "shortcut": "cmd+brightdown"
+    }, {
+      "command": "Open Displays preferences. This works with either Brightness key.",
+      "shortcut": "opt+brightup"
+    }, {
+      "command": "Change the brightness of your external display, if supported by your display.",
+      "shortcut": "ctrl+brightup/ctrl+brightdown"
+    }, {
+      "command": "Adjust the display brightness in smaller steps. Add the Control key to this shortcut to make the adjustment on your external display, if supported by your display",
+      "shortcut": "opt+shift+brightup/opt+shift+brightdown"
+    }, {
+      "command": "Open Mission Control preferences.",
+      "shortcut": "opt+missionctrl"
+    }, {
+      "command": "Show the desktop.",
+      "shortcut": "cmd+missionctrl"
+    }, {
+      "command": "Show all windows of the front app.",
+      "shortcut": "ctrl+down"
+    }, {
+      "command": "Open Sound preferences. This works with any of the volume keys.",
+      "shortcut": "opt+volup"
+    }, {
+      "command": "Adjust the sound volume in smaller steps.",
+      "shortcut": "opt+shift+volup/opt+shift+voldown"
+    }, {
+      "command": "Open Keyboard preferences. This works with either Keyboard Brightness key.",
+      "shortcut": "opt+keybrightup"
+    }, {
+      "command": "Adjust the keyboard brightness in smaller steps.",
+      "shortcut": "opt+shift+keybrightup/opt+shift+keybrightdown"
+    }, {
+      "command": "Open the item in a separate window, then close the original window.",
+      "shortcut": "opt (while double-clicking)"
+    }, {
+      "command": "Open a folder in a separate tab or window.",
+      "shortcut": "cmd (while double-clicking)"
+    }, {
+      "command": "Move the dragged item to the other volume, instead of copying it.",
+      "shortcut": "cmd (while dragging to another volume)"
+    }, {
+      "command": "Copy the dragged item. The pointer changes while you drag the item.",
+      "shortcut": "opt (while dragging)"
+    }, {
+      "command": "Make an alias of the dragged item. The pointer changes while you drag the item.",
+      "shortcut": "opt+cmd (while dragging)"
+    }, {
+      "command": "Open all folders within the selected folder. This works only when in list view.",
+      "shortcut": "opt (then click a disclosure triangle)"
+    }, {
+      "command": "See the folders that contain the current folder.",
+      "shortcut": "cmd (click a window title)"
+    }]
+  }, {
+    "group": "Document shortcuts",
+    "shortcuts": [{
+      "command": "Boldface the selected text, or turn boldfacing on or off",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italicize the selected text, or turn italics on or off",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Add a web link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Underline the selected text, or turn underlining on or off",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Show or hide the Fonts window",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Select the Desktop folder from within an Open dialog or Save dialog",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Show or hide the definition of the selected word",
+      "shortcut": "ctrl+cmd+d"
+    }, {
+      "command": "Display the Spelling and Grammar window",
+      "shortcut": "shift+cmd+:"
+    }, {
+      "command": "Find misspelled words in the document",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Delete the word to the left of the insertion point",
+      "shortcut": "opt+delete"
+    }, {
+      "command": "Delete the character to the left of the insertion point. Or use Delete",
+      "shortcut": "ctrl+h"
+    }, {
+      "command": "Delete the character to the right of the insertion point. Or use Fn-Delete",
+      "shortcut": "ctrl+d"
+    }, {
+      "command": "Forward delete on keyboards that don't have a Forward Delete  key. Or use Control + D",
+      "shortcut": "fn+delete"
+    }, {
+      "command": "Delete the text between the insertion point and the end of the line or paragraph",
+      "shortcut": "ctrl+k"
+    }, {
+      "command": "Page Up: Scroll up one page",
+      "shortcut": "fn+up"
+    }, {
+      "command": "Page Down: Scroll down one page",
+      "shortcut": "fn+down"
+    }, {
+      "command": "Home: Scroll to the beginning of a document",
+      "shortcut": "fn+left"
+    }, {
+      "command": "End: Scroll to the end of a document",
+      "shortcut": "fn+right"
+    }, {
+      "command": "Move the insertion point to the beginning of the document",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Move the insertion point to the end of the document",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Move the insertion point to the beginning of the current line",
+      "shortcut": "cmd+left"
+    }, {
+      "command": "Move the insertion point to the end of the current line",
+      "shortcut": "cmd+right"
+    }, {
+      "command": "Move the insertion point to the beginning of the previous word",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Move the insertion point to the end of the next word",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Select the text between the insertion point and the beginning of the document",
+      "shortcut": "shift+cmd+up"
+    }, {
+      "command": "Select the text between the insertion point and the end of the document",
+      "shortcut": "shift+cmd+down"
+    }, {
+      "command": "Select the text between the insertion point and the beginning of the current line",
+      "shortcut": "shift+cmd+left"
+    }, {
+      "command": "Select the text between the insertion point and the end of the current line",
+      "shortcut": "shift+cmd+right"
+    }, {
+      "command": "Extend text selection to the nearest character at the same horizontal location on the line above",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Extend text selection to the nearest character at the same horizontal location on the line below",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Extend text selection one character to the left",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Extend text selection one character to the right",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Extend text selection to the beginning of the current paragraph, then to the beginning of the following paragraph if pressed again",
+      "shortcut": "opt+shift+up"
+    }, {
+      "command": "Extend text selection to the end of the current paragraph, then to the end of the following paragraph if pressed again",
+      "shortcut": "opt+shift+down"
+    }, {
+      "command": "Extend text selection to the beginning of the current word, then to the beginning of the following word if pressed again",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Extend text selection to the end of the current word, then to the end of the following word if pressed again",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Move to the beginning of the line or paragraph",
+      "shortcut": "ctrl+a"
+    }, {
+      "command": "Move to the end of a line or paragraph",
+      "shortcut": "ctrl+e"
+    }, {
+      "command": "Move one character forward",
+      "shortcut": "ctrl+f"
+    }, {
+      "command": "Move one character backward",
+      "shortcut": "ctrl+b"
+    }, {
+      "command": "Center the cursor or selection in the visible area",
+      "shortcut": "ctrl+l"
+    }, {
+      "command": "Move up one line",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "Move down one line",
+      "shortcut": "ctrl+n"
+    }, {
+      "command": "Insert a new line after the insertion point",
+      "shortcut": "ctrl+o"
+    }, {
+      "command": "Swap the character behind the insertion point with the character in front of the insertion point",
+      "shortcut": "ctrl+t"
+    }, {
+      "command": "Left align",
+      "shortcut": "cmd+shift+["
+    }, {
+      "command": "Right align",
+      "shortcut": "cmd+shift+]"
+    }, {
+      "command": "Center align",
+      "shortcut": "shift+cmd+|"
+    }, {
+      "command": "Go to the search field",
+      "shortcut": "opt+cmd+f"
+    }, {
+      "command": "Show or hide a toolbar in the app",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Copy Style: Copy the formatting settings of the selected item to the Clipboard",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste Style: Apply the copied style to the selected item",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Paste and Match Style: Apply the style of the surrounding content to the item pasted within that content",
+      "shortcut": "opt+shift+cmd+v"
+    }, {
+      "command": "Show or hide the inspector window",
+      "shortcut": "opt+cmd+i"
+    }, {
+      "command": "Page setup: Display a window for selecting document settings",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Display the Save As dialog, or duplicate the current document",
+      "shortcut": "shift+cmd+s"
+    }, {
+      "command": "Decrease the size of the selected item",
+      "shortcut": "shift+cmd+-"
+    }, {
+      "command": "Increase the size of the selected item. Command + Equal sign (=) performs the same function",
+      "shortcut": "shift+cmd++"
+    }, {
+      "command": "Open the Help menu",
+      "shortcut": "shift+cmd+?"
+    }]
+  }]
+}

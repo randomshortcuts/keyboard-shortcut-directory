@@ -1,0 +1,81 @@
+{
+  "program": "Trello",
+  "groups": [{
+    "shortcuts": [{
+      "command": "Navigate cards",
+      "shortcut": "right/down/left/up"
+    }, {
+      "command": "Open header boards menu",
+      "shortcut": "b"
+    }, {
+      "command": "Focus search box",
+      "shortcut": "/"
+    }, {
+      "command": "Archive card",
+      "shortcut": "c"
+    }, {
+      "command": "Due date",
+      "shortcut": "d"
+    }, {
+      "command": "Quick edit mode",
+      "shortcut": "e"
+    }, {
+      "command": "Close menu",
+      "shortcut": "escape"
+    }, {
+      "command": "Save text",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Open card",
+      "shortcut": "ret"
+    }, {
+      "command": "Open card filter menu",
+      "shortcut": "f"
+    }, {
+      "command": "Label",
+      "shortcut": "l"
+    }, {
+      "command": "Toggle label names",
+      "shortcut": ";"
+    }, {
+      "command": "Add or remove members",
+      "shortcut": "m"
+    }, {
+      "command": "Move card to bottom of adjacent list",
+      "shortcut": ",/."
+    }, {
+      "command": "Move card to top of adjacent list",
+      "shortcut": "</>"
+    }, {
+      "command": "My cards filter",
+      "shortcut": "q"
+    }, {
+      "command": "Watch",
+      "shortcut": "s"
+    }, {
+      "command": "Assign self",
+      "shortcut": "space"
+    }, {
+      "command": "Edit title",
+      "shortcut": "t"
+    }, {
+      "command": "Vote",
+      "shortcut": "v"
+    }, {
+      "command": "Toggle board menu",
+      "shortcut": "w"
+    }, {
+      "command": "Open shortcuts page",
+      "shortcut": "?"
+    }, {
+      "command": "Autocomplete members",
+      "shortcut": "@"
+    }, {
+      "command": "Autocomplete labels",
+      "shortcut": "#"
+    }, {
+      "command": "Autocomplete position",
+      "shortcut": "^"
+    }]
+  }]
+}

@@ -1,0 +1,262 @@
+{
+  "program": "things",
+  "groups": [{
+    "group": "Create new items",
+    "shortcuts": [{
+      "shortcut": "cmd+n",
+      "command": "Create a new to-do"
+    }, {
+      "shortcut": "space",
+      "command": "Create a new to-do below selection"
+    }, {
+      "shortcut": "cmd+v",
+      "command": "Paste plain text to create new to-dos"
+    }, {
+      "shortcut": "cmd+shift+c",
+      "command": "Create a checklist in an open to-do"
+    }, {
+      "shortcut": "cmd+shift+n",
+      "command": "Create a new heading in a project"
+    }, {
+      "shortcut": "cmd+opt+n",
+      "command": "Create a new project"
+    }, {
+      "shortcut": "ctrl+space",
+      "command": "Open Quick Entry"
+    }, {
+      "shortcut": "opt+ctrl+space",
+      "command": "Open Quick Entry with Autofill"
+    }]
+  }, {
+    "group": "Edit items",
+    "shortcuts": [{
+      "shortcut": "ret",
+      "command": "Open a to-do or project"
+    }, {
+      "shortcut": "cmd+ret",
+      "command": "Save and close"
+    }, {
+      "shortcut": "esc",
+      "command": "Save and close"
+    }, {
+      "shortcut": "cmd+d",
+      "command": "Duplicate a to-do or project"
+    }, {
+      "shortcut": "cmd+c",
+      "command": "Copy a to-do or project"
+    }, {
+      "shortcut": "cmd+v",
+      "command": "Paste a to-do or project"
+    }, {
+      "shortcut": "cmd+.",
+      "command": "Complete selected items"
+    }, {
+      "shortcut": "cmd+opt+.",
+      "command": "Cancel selected items"
+    }, {
+      "shortcut": "del",
+      "command": "Delete selected items"
+    }, {
+      "shortcut": "cmd+l",
+      "command": "Move completed to Logbook"
+    }]
+  }, {
+    "group": "Select items",
+    "shortcuts": [{
+      "shortcut": "up",
+      "command": "Select item above"
+    }, {
+      "shortcut": "down",
+      "command": "Select item below"
+    }, {
+      "shortcut": "shift+up",
+      "command": "Extend selection upwards"
+    }, {
+      "shortcut": "shift+down",
+      "command": "Extend selection downwards"
+    }, {
+      "shortcut": "opt+shift+up",
+      "command": "Extend selection to the top"
+    }, {
+      "shortcut": "opt+shift+down",
+      "command": "Extend selection to the bottom"
+    }, {
+      "shortcut": "cmd+a",
+      "command": "Select everything"
+    }]
+  }, {
+    "group": "Move items",
+    "shortcuts": [{
+      "shortcut": "cmd+shift+m",
+      "command": "Move selection to another list"
+    }, {
+      "shortcut": "cmd+opt+v",
+      "command": "Move copied to-dos and projects"
+    }, {
+      "shortcut": "cmd+up",
+      "command": "Move selection up"
+    }, {
+      "shortcut": "cmd+down",
+      "command": "Move selection down"
+    }, {
+      "shortcut": "cmd+opt+up",
+      "command": "Move selection to top of list"
+    }, {
+      "shortcut": "cmd+opt+down",
+      "command": "Move selection to bottom of list"
+    }]
+  }, {
+    "group": "Edit dates",
+    "shortcuts": [{
+      "shortcut": "cmd+s",
+      "command": "Show Jump Start"
+    }, {
+      "shortcut": "cmd+t",
+      "command": "Start Today"
+    }, {
+      "shortcut": "cmd+e",
+      "command": "Start This Evening"
+    }, {
+      "shortcut": "cmd+r",
+      "command": "Start Anytime"
+    }, {
+      "shortcut": "cmd+o",
+      "command": "Start Someday"
+    }, {
+      "shortcut": "ctrl+]",
+      "command": "Start date +1 day (Help)"
+    }, {
+      "shortcut": "ctrl+[",
+      "command": "Start date -1 day (Help)"
+    }, {
+      "shortcut": "ctrl+shift+]",
+      "command": "Start date + 1 week (Help)"
+    }, {
+      "shortcut": "ctrl+shift+[",
+      "command": "Start date - 1 week (Help)"
+    }, {
+      "shortcut": "cmd+shift+d",
+      "command": "Direct access to set a Deadline"
+    }, {
+      "shortcut": "ctrl+.",
+      "command": "Deadline +1 day"
+    }, {
+      "shortcut": "ctrl+,",
+      "command": "Deadline -1 day"
+    }, {
+      "shortcut": "ctrl+shift+>",
+      "command": "Deadline +1 week (Help)"
+    }, {
+      "shortcut": "ctrl+shift+<",
+      "command": "Deadline -1 week (Help)"
+    }, {
+      "shortcut": "cmd+shift+r",
+      "command": "Make to-do or project repeating"
+    }]
+  }, {
+    "group": "Control windows",
+    "shortcuts": [{
+      "shortcut": "cmd+ctrl+n",
+      "command": "Open new window"
+    }, {
+      "shortcut": "cmd+shift+`",
+      "command": "Cycle through open windows"
+    }, {
+      "shortcut": "cmd+w",
+      "command": "Close current window"
+    }, {
+      "shortcut": "cmd+opt+w",
+      "command": "Close all windows"
+    }, {
+      "shortcut": "cmd+/",
+      "command": "Hide or show sidebar"
+    }, {
+      "shortcut": "cmd+opt+t",
+      "command": "Hide or show toolbar"
+    }, {
+      "shortcut": "cmd+ctrl+f",
+      "command": "Full screen"
+    }]
+  }, {
+    "group": "Navigate",
+    "shortcuts": [{
+      "shortcut": "cmd+1",
+      "command": "Go to Inbox"
+    }, {
+      "shortcut": "cmd+2",
+      "command": "Go to Today"
+    }, {
+      "shortcut": "cmd+3",
+      "command": "Go to Upcoming"
+    }, {
+      "shortcut": "cmd+4",
+      "command": "Go to Anytime"
+    }, {
+      "shortcut": "cmd+5",
+      "command": "Go to Someday"
+    }, {
+      "shortcut": "cmd+6",
+      "command": "Go to Logbook"
+    }, {
+      "shortcut": "cmd+shift+l",
+      "command": "Show to-do in list"
+    }, {
+      "shortcut": "right",
+      "command": "Enter a selected project"
+    }, {
+      "shortcut": "left",
+      "command": "Return to previous list"
+    }, {
+      "shortcut": "opt+up",
+      "command": "Scroll to top"
+    }, {
+      "shortcut": "opt+down",
+      "command": "Scroll to bottom"
+    }, {
+      "shortcut": "cmd+opt+ctrl+up",
+      "command": "Navigate up in the sidebar"
+    }, {
+      "shortcut": "cmd+opt+ctrl+down",
+      "command": "Navigate down in the sidebar"
+    }]
+  }, {
+    "group": "Search",
+    "shortcuts": [{
+      "shortcut": "any key",
+      "command": "Start typing to begin a search"
+    }, {
+      "shortcut": "cmd+f",
+      "command": "Find"
+    }]
+  }, {
+    "group": "Tags",
+    "shortcuts": [{
+      "shortcut": "cmd+ctrl+t",
+      "command": "Open tag window"
+    }, {
+      "shortcut": "esc",
+      "command": "Close tag window"
+    }, {
+      "shortcut": "cmd+shift+t",
+      "command": "Direct access to add a tag"
+    }, {
+      "shortcut": "ctrl+shortcut",
+      "command": "Toggle a tag for selected to-do"
+    }, {
+      "shortcut": "opt+ctrl+shortcut",
+      "command": "Filter for a tag"
+    }, {
+      "shortcut": "cmd+click any tag",
+      "command": "Select multiple tags"
+    }, {
+      "shortcut": "ctrl+esc",
+      "command": "Destroy previous filter"
+    }]
+  }, {
+    "group": "Links",
+    "shortcuts": [{
+      "shortcut": "cmd+opt+ret",
+      "command": "Open a link"
+    }]
+  }]
+}

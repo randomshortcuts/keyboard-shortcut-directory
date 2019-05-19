@@ -1,0 +1,163 @@
+{
+  "program": "framerx",
+  "groups": [{
+    "group": "Tools",
+    "shortcuts": [{
+      "shortcut": "f",
+      "command": "Frame"
+    }, {
+      "shortcut": "u",
+      "command": "Round"
+    }, {
+      "shortcut": "t",
+      "command": "Text"
+    }, {
+      "shortcut": "s",
+      "command": "Stack"
+    }, {
+      "shortcut": "l",
+      "command": "Link"
+    }, {
+      "shortcut": "space (drag)",
+      "command": "Pan Canvas"
+    }]
+  }, {
+    "group": "Graphic",
+    "shortcuts": [{
+      "shortcut": "g",
+      "command": "Graphic"
+    }, {
+      "shortcut": "p",
+      "command": "Path"
+    }, {
+      "shortcut": "r",
+      "command": "Rectangle"
+    }, {
+      "shortcut": "o",
+      "command": "Oval"
+    }, {
+      "shortcut": "v",
+      "command": "Vector"
+    }, {
+      "shortcut": "cmd+g",
+      "command": "Group"
+    }, {
+      "shortcut": "shift+cmd+g",
+      "command": "Ungroup"
+    }]
+  }, {
+    "group": "Layout",
+    "shortcuts": [{
+      "shortcut": "cmd+ret",
+      "command": "Add Frame"
+    }, {
+      "shortcut": "opt+cmd+ret",
+      "command": "Add Stack"
+    }, {
+      "shortcut": "cmd+left",
+      "command": "Remove Wrapper"
+    }, {
+      "shortcut": "opt+cmd+up",
+      "command": "Move Forward"
+    }, {
+      "shortcut": "opt+cmd+down",
+      "command": "Move Backward"
+    }]
+  }, {
+    "group": "Components",
+    "shortcuts": [{
+      "shortcut": "cmd+k",
+      "command": "Create from Design"
+    }, {
+      "shortcut": "shift+cmd+k",
+      "command": "Create from Code"
+    }]
+  }, {
+    "group": "Text",
+    "shortcuts": [{
+      "shortcut": "cmd+b",
+      "command": "Bold"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Italic"
+    }, {
+      "shortcut": "cmd+u",
+      "command": "Underline"
+    }, {
+      "shortcut": "cmd+t",
+      "command": "Select Typeface"
+    }]
+  }, {
+    "group": "Editing",
+    "shortcuts": [{
+      "shortcut": "cmd+arrows",
+      "command": "Object Size"
+    }, {
+      "shortcut": "shift+cmd+arrows",
+      "command": "Object Size by 10"
+    }, {
+      "shortcut": "0-9",
+      "command": "Opacity"
+    }, {
+      "shortcut": "opt",
+      "command": "Show Distance"
+    }, {
+      "shortcut": "cmd+d",
+      "command": "Duplicate In Place"
+    }, {
+      "shortcut": "opt (drag)",
+      "command": "Duplicate Selected Object"
+    }, {
+      "shortcut": "opt+cmd+c",
+      "command": "Copy Style"
+    }, {
+      "shortcut": "opt+cmd+v",
+      "command": "Paste Style"
+    }, {
+      "shortcut": "ctrl+c",
+      "command": "Color Picker"
+    }, {
+      "shortcut": "cmd+a",
+      "command": "Select All Layers"
+    }, {
+      "shortcut": "shift+cmd+a",
+      "command": "Select All Siblings"
+    }, {
+      "shortcut": "opt+cmd+a",
+      "command": "Select All Children"
+    }]
+  }, {
+    "group": "View",
+    "shortcuts": [{
+      "shortcut": "z",
+      "command": "Zoom"
+    }, {
+      "shortcut": "cmd++",
+      "command": "Zoom In"
+    }, {
+      "shortcut": "cmd+-",
+      "command": "Zoom Out"
+    }, {
+      "shortcut": "cmd+1",
+      "command": "Zoom to Fit"
+    }, {
+      "shortcut": "cmd+2",
+      "command": "Zoom to Selection"
+    }, {
+      "shortcut": "cmd+0",
+      "command": "Reset Zoom"
+    }]
+  }, {
+    "group": "Window",
+    "shortcuts": [{
+      "shortcut": "cmd+m",
+      "command": "Minimize"
+    }, {
+      "shortcut": "shift+cmd+1",
+      "command": "Welcome"
+    }, {
+      "shortcut": "cmd+p",
+      "command": "Preview"
+    }]
+  }]
+}

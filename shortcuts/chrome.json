@@ -1,0 +1,208 @@
+{
+  "program": "Chrome",
+  "groups": [{
+    "group": "Tab and window shortcuts",
+    "shortcuts": [{
+      "command": "Open a new window",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Open a new window in Incognito mode",
+      "shortcut": "cmd+shift+n"
+    }, {
+      "command": "Open a new tab, and jump to it",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Reopen the last closed tab, and jump to it",
+      "shortcut": "cmd+shift+t"
+    }, {
+      "command": "Jump to the next open tab",
+      "shortcut": "cmd+opt+right"
+    }, {
+      "command": "Jump to the previous open tab",
+      "shortcut": "cmd+opt+left"
+    }, {
+      "command": "Jump to a specific tab",
+      "shortcut": "cmd+1-cmd+8"
+    }, {
+      "command": "Jump to the last tab",
+      "shortcut": "cmd+9"
+    }, {
+      "command": "Open the previous page in your browsing history for the current tab",
+      "shortcut": "cmd+[/cmd+left"
+    }, {
+      "command": "Open the next page in your browsing history for the current tab",
+      "shortcut": "cmd+]/cmd+right"
+    }, {
+      "command": "Closes the current tab or pop-up",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Closes the current window",
+      "shortcut": "cmd+shift+w"
+    }, {
+      "command": "Minimize the window",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "Hide Google Chrome",
+      "shortcut": "cmd+h"
+    }, {
+      "command": "Quit Google Chrome",
+      "shortcut": "cmd+q"
+    }]
+  }, {
+    "group": "Google Chrome feature shortcuts",
+    "shortcuts": [{
+      "command": "Show or hide the Bookmarks Bar",
+      "shortcut": "cmd+shift+b"
+    }, {
+      "command": "Open the Bookmark Manager",
+      "shortcut": "cmd+opt+b"
+    }, {
+      "command": "Open the Settings page in a new tab",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Open the History page in a new tab",
+      "shortcut": "cmd+y"
+    }, {
+      "command": "Open the Downloads page in a new tab",
+      "shortcut": "cmd+shift+j"
+    }, {
+      "command": "Open the Find Bar to search the current page",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Jump to the next match to your Find Bar search",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Jump to the previous match to your Find Bar search",
+      "shortcut": "cmd+shift+g"
+    }, {
+      "command": "When Find Bar is open, search for selected text",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Open Developer Tools",
+      "shortcut": "cmd+opt+i"
+    }, {
+      "command": "Open the Clear Browsing Data options",
+      "shortcut": "cmd+shift+delete"
+    }, {
+      "command": "Log in as a different user or browse as a Guest",
+      "shortcut": "cmd+shift+m"
+    }]
+  }, {
+    "group": "Address Bar shortcuts",
+    "shortcuts": [{
+      "command": "Search with your default search engine",
+      "shortcut": "(type a search term, then press) enter"
+    }, {
+      "command": "Search using a different search engine",
+      "shortcut": "(type a search engine name and press) tab"
+    }, {
+      "command": "Add www. and .com to a site name, and open it in the current tab",
+      "shortcut": "(type a site name, then press) ctrl+enter"
+    }, {
+      "command": "Add www. and .com to a site name, and open it in a new tab",
+      "shortcut": "(type a site name then press) ctrl+shift+enter"
+    }, {
+      "command": "Open the website in a new background tab",
+      "shortcut": "(type a web address, then press) cmd+enter"
+    }, {
+      "command": "Jump to the address bar",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Remove predictions from your address bar",
+      "shortcut": "down (to highlight, then) shift+fn+delete"
+    }]
+  }, {
+    "group": "Webpage shortcuts",
+    "shortcuts": [{
+      "command": "Open options to print the current page",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Open options to save the current page",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Open the Page Setup dialog",
+      "shortcut": "cmd+opt+p"
+    }, {
+      "command": "Reload your current page, ignoring cached content",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Stop the page loading",
+      "shortcut": "esc"
+    }, {
+      "command": "Browse clickable items moving forward",
+      "shortcut": "tab"
+    }, {
+      "command": "Browse clickable items moving backward",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Open a file from your computer in Google Chrome",
+      "shortcut": "cmd+o (then select a file)"
+    }, {
+      "command": "Display non-editable HTML source code for the current page",
+      "shortcut": "cmd+opt+u"
+    }, {
+      "command": "Open the JavaScript Console",
+      "shortcut": "cmd+opt+j"
+    }, {
+      "command": "Save your current webpage as a bookmark",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Save all open tabs as bookmarks in a new folder",
+      "shortcut": "cmd+ctrl+d"
+    }, {
+      "command": "Turn full-screen mode on or off",
+      "shortcut": "cmd+ctrl+f"
+    }, {
+      "command": "Make everything on the page bigger",
+      "shortcut": "cmd+\\+"
+    }, {
+      "command": "Make everything on the page smaller",
+      "shortcut": "cmd+\\-"
+    }, {
+      "command": "Return everything on the page to the default size",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Scroll down a webpage, a screen at a time",
+      "shortcut": "space"
+    }, {
+      "command": "Scroll up a webpage, a screen at a time",
+      "shortcut": "shift+space"
+    }, {
+      "command": "Search the web",
+      "shortcut": "cmd+opt+f"
+    }, {
+      "command": "Move your cursor to the front of the previous word in a text field",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Move your cursor to the back of the next word in a text field",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Delete the previous word in a text field",
+      "shortcut": "opt+del"
+    }, {
+      "command": "Open your home page in the current tab",
+      "shortcut": "cmd+shift+h"
+    }]
+  }, {
+    "group": "Mouse shortcuts",
+    "shortcuts": [{
+      "command": "Open a link in a current tab (mouse only)",
+      "shortcut": "(drag a link to a tab)"
+    }, {
+      "command": "Open a link in new background tab",
+      "shortcut": "cmd (then click a link)"
+    }, {
+      "command": "Open a link, and jump to it",
+      "shortcut": "cmd+shift (then click a link)"
+    }, {
+      "command": "Open a link in a new window",
+      "shortcut": "shift (then click a link)"
+    }, {
+      "command": "Return a tab to its original position",
+      "shortcut": "esc (while dragging)"
+    }, {
+      "command": "Download the target of a link",
+      "shortcut": "opt (then click a link)"
+    }]
+  }]
+}

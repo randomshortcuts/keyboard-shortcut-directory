@@ -1,0 +1,280 @@
+{
+  "program": "Gmail",
+  "groups": [{
+    "group": "Compose & Chat",
+    "shortcuts": [{
+      "command": "Previous message in an open conversation",
+      "shortcut": "p"
+    }, {
+      "command": "Next message in an open conversation",
+      "shortcut": "n"
+    }, {
+      "command": "Focus main window",
+      "shortcut": "shift+esc"
+    }, {
+      "command": "Focus latest chat or compose",
+      "shortcut": "esc"
+    }, {
+      "command": "Send",
+      "shortcut": "cmd+enter"
+    }, {
+      "command": "Add CC recipients",
+      "shortcut": "cmd+shift+c"
+    }, {
+      "command": "Add BCC recipients",
+      "shortcut": "cmd+shift+b"
+    }, {
+      "command": "Access custom from",
+      "shortcut": "cmd+shift+f"
+    }, {
+      "command": "Insert a link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Go to next misspelled word",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Open spelling suggestions",
+      "shortcut": "cmd+m"
+    }]
+  }, {
+    "group": "Formatting Text",
+    "shortcuts": [{
+      "command": "Previous font",
+      "shortcut": "cmd+shift+5"
+    }, {
+      "command": "Next font",
+      "shortcut": "cmd+shift+6"
+    }, {
+      "command": "Decrease text size",
+      "shortcut": "cmd+shift+-"
+    }, {
+      "command": "Increase text size",
+      "shortcut": "cmd+shift++"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italics",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Numbered List",
+      "shortcut": "cmd+shift+7"
+    }, {
+      "command": "Bulleted List",
+      "shortcut": "cmd+shift+8"
+    }, {
+      "command": "Quote",
+      "shortcut": "cmd+shift+9"
+    }, {
+      "command": "Indent Less",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Indent More",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Align left",
+      "shortcut": "cmd+shift+l"
+    }, {
+      "command": "Align center",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Align right",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Remove formatting",
+      "shortcut": "cmd+\\"
+    }]
+  }, {
+    "group": "Actions",
+    "shortcuts": [{
+      "command": "Move focus to toolbar",
+      "shortcut": ","
+    }, {
+      "command": "Select conversation",
+      "shortcut": "x"
+    }, {
+      "command": "Toggle star (or rotate among superstars)",
+      "shortcut": "s"
+    }, {
+      "command": "Archive",
+      "shortcut": "e"
+    }, {
+      "command": "Mute conversation",
+      "shortcut": "m"
+    }, {
+      "command": "Report as spam",
+      "shortcut": "!"
+    }, {
+      "command": "Delete",
+      "shortcut": "#"
+    }, {
+      "command": "Reply",
+      "shortcut": "r"
+    }, {
+      "command": "Reply in a new window",
+      "shortcut": "shift+r"
+    }, {
+      "command": "Reply all",
+      "shortcut": "a"
+    }, {
+      "command": "Reply all in a new window",
+      "shortcut": "shift+a"
+    }, {
+      "command": "Forward",
+      "shortcut": "f"
+    }, {
+      "command": "Forward in a new window",
+      "shortcut": "shift+f"
+    }, {
+      "command": "Update conversation",
+      "shortcut": "shift+n"
+    }, {
+      "command": "Archive conversation and go previous/next",
+      "shortcut": "]/["
+    }, {
+      "command": "Undo last action",
+      "shortcut": "z"
+    }, {
+      "command": "Mark as read",
+      "shortcut": "shift+i"
+    }, {
+      "command": "Mark as unread",
+      "shortcut": "shift+u"
+    }, {
+      "command": "Mark unread from the selected message",
+      "shortcut": "_"
+    }, {
+      "command": "Mark as important",
+      "shortcut": "="
+    }, {
+      "command": "Mark as not important",
+      "shortcut": "-"
+    }, {
+      "command": "Snooze",
+      "shortcut": "b"
+    }, {
+      "command": "Expand entire conversation",
+      "shortcut": ";"
+    }, {
+      "command": "Collapse entire conversation",
+      "shortcut": ":"
+    }, {
+      "command": "Add conversation to tasks",
+      "shortcut": "shift+t"
+    }]
+  }, {
+    "group": "Hangouts",
+    "shortcuts": [{
+      "command": "Show menu",
+      "shortcut": "h m"
+    }, {
+      "command": "Show archived hangouts",
+      "shortcut": "h a"
+    }, {
+      "command": "Show Hangout requests",
+      "shortcut": "h i"
+    }, {
+      "command": "Focus on the conversation list",
+      "shortcut": "h c"
+    }, {
+      "command": "Open phone",
+      "shortcut": "h p"
+    }]
+  }, {
+    "group": "Jumping",
+    "shortcuts": [{
+      "command": "Go to inbox",
+      "shortcut": "g i"
+    }, {
+      "command": "Go to starred conversations",
+      "shortcut": "g s"
+    }, {
+      "command": "Go to Sent messages",
+      "shortcut": "g t"
+    }, {
+      "command": "Go to Drafts",
+      "shortcut": "g d"
+    }, {
+      "command": "Go to all mail",
+      "shortcut": "g a"
+    }, {
+      "command": "Switch between the Calendar/Keep/Tasks sidebar and your inbox",
+      "shortcut": "cmd+opt+,"
+    }, {
+      "command": "Go to Tasks",
+      "shortcut": "g k"
+    }, {
+      "command": "Go to label",
+      "shortcut": "g l"
+    }]
+  }, {
+    "group": "Threadlist Selection",
+    "shortcuts": [{
+      "command": "Select all conversations",
+      "shortcut": "* a"
+    }, {
+      "command": "Deselect all conversations",
+      "shortcut": "* n"
+    }, {
+      "command": "Select read conversations",
+      "shortcut": "* r"
+    }, {
+      "command": "Select unread conversations",
+      "shortcut": "* u"
+    }, {
+      "command": "Select starred conversations",
+      "shortcut": "* s"
+    }, {
+      "command": "Select unstarred conversations",
+      "shortcut": "* t"
+    }]
+  }, {
+    "group": "Navigation",
+    "shortcuts": [{
+      "command": "Back to threadlist",
+      "shortcut": "u"
+    }, {
+      "command": "Newer conversation",
+      "shortcut": "k"
+    }, {
+      "command": "Open conversation",
+      "shortcut": "o/enter"
+    }, {
+      "command": "Go to next inbox section",
+      "shortcut": "`"
+    }, {
+      "command": "Go to previous inbox section",
+      "shortcut": "~"
+    }]
+  }, {
+    "group": "Application",
+    "shortcuts": [{
+      "command": "Compose",
+      "shortcut": "c"
+    }, {
+      "command": "Compose in a new tab",
+      "shortcut": "d"
+    }, {
+      "command": "Search mail",
+      "shortcut": "/"
+    }, {
+      "command": "Search chat contacts",
+      "shortcut": "g"
+    }, {
+      "command": "Open \"more actions\" menu",
+      "shortcut": "."
+    }, {
+      "command": "Open \"move to\" menu",
+      "shortcut": "v"
+    }, {
+      "command": "Open \"label as\" menu",
+      "shortcut": "l"
+    }, {
+      "command": "Open keyboard shortcuts help",
+      "shortcut": "?"
+    }]
+  }]
+}

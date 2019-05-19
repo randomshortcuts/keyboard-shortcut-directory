@@ -1,0 +1,235 @@
+{
+  "program": "Chrome DevTools",
+  "groups": [{
+    "group": "Opening DevTools",
+    "shortcuts": [{
+      "command": "Open whatever panel you used last",
+      "shortcut": "cmd+opt+i"
+    }, {
+      "command": "Open the Console panel",
+      "shortcut": "cmd+opt+j"
+    }, {
+      "command": "Open the Elements panel",
+      "shortcut": "cmd+opt+c"
+    }]
+  }, {
+    "group": "Global shortcuts",
+    "shortcuts": [{
+      "command": "Show Settings",
+      "shortcut": "fn+f1"
+    }, {
+      "command": "Focus the next panel",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Focus the previous panel",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Switch back to whatever docking tools used last",
+      "shortcut": "cmd+shift+d"
+    }, {
+      "command": "Toggle Device Mode",
+      "shortcut": "cmd+shift+m"
+    }, {
+      "command": "Toggle Inspect Element Mode",
+      "shortcut": "cmd+shift+c"
+    }, {
+      "command": "Open the Command Menu",
+      "shortcut": "cmd+shift+p"
+    }, {
+      "command": "Toggle the Drawer",
+      "shortcut": "escape"
+    }, {
+      "command": "Normal reload",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Hard reload",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Search for text within the current panel. Not supported in the Audits, Application, and Security panels  Command + F",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Opens the Search tab in the Drawer",
+      "shortcut": "cmd+opt+f"
+    }, {
+      "command": "Open a file in the Sources panel",
+      "shortcut": "cmd+o/cmd+p"
+    }, {
+      "command": "Zoom in",
+      "shortcut": "cmd+shift++"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Restore default zoom level",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Run snippet",
+      "shortcut": "cmd+o (to open the cmd menu, then type !, followed by the name of the script, then) enter"
+    }]
+  }, {
+    "group": "Elements panel",
+    "shortcuts": [{
+      "command": "Undo change",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo change",
+      "shortcut": "cmd+shift+z"
+    }, {
+      "command": "Select the element above / below the currently-selected element",
+      "shortcut": "up/down"
+    }, {
+      "command": "Expand the currently-selected node. If the node is already expanded, this shortcut selects the element below it",
+      "shortcut": "right"
+    }, {
+      "command": "Collapse the currently-selected node. If the node is already collapsed, this shortcut selects the element above it",
+      "shortcut": "left"
+    }, {
+      "command": "Expand or collapse the currently-selected node and all of its children",
+      "shortcut": "(hold) opt (then click the arrow icon next to the element's name)"
+    }, {
+      "command": "Toggle Edit Attributes mode on the currently-selected element",
+      "shortcut": "enter"
+    }, {
+      "command": "Select the next / previous attribute after entering Edit Attributes mode",
+      "shortcut": "tab/shift+tab"
+    }, {
+      "command": "Hide the currently-selected element",
+      "shortcut": "h"
+    }, {
+      "command": "Toggle Edit as HTML mode on the currently-selected element",
+      "shortcut": "fn+f2"
+    }]
+  }, {
+    "group": "Styles panel",
+    "shortcuts": [{
+      "command": "Go to the line where a property value is declared",
+      "shortcut": "(hold) cmd (then click the property value)"
+    }, {
+      "command": "Cycle through the RBGA, HSLA, and Hex representations of a color value",
+      "shortcut": "(hold) shift (then click the col/preview box next to the value)"
+    }, {
+      "command": "Select the next / previous property or value",
+      "shortcut": "(click a property name / value then press) tab/shift+tab"
+    }, {
+      "command": "Increment / decrement a property value by 0.1",
+      "shortcut": "(click a value then press) opt+up/opt+down"
+    }, {
+      "command": "Increment / decrement a property value by 1",
+      "shortcut": "(click a value then press) up/down"
+    }, {
+      "command": "Increment / decrement a property value by 10",
+      "shortcut": "(click a value then press) shift+up/shift+down"
+    }, {
+      "command": "Increment / decrement a property value by 100",
+      "shortcut": "(click a value then press) cmd+up/cmd+down"
+    }]
+  }, {
+    "group": "Sources panel",
+    "shortcuts": [{
+      "command": "Pause script execution (if currently running) or resume (if currently paused)",
+      "shortcut": "f8/cmd+\\"
+    }, {
+      "command": "Step over next function call",
+      "shortcut": "f10/cmd+'"
+    }, {
+      "command": "Step into next function call",
+      "shortcut": "f11/cmd+;"
+    }, {
+      "command": "Step out of current function",
+      "shortcut": "shift+f11/cmd+shift+;"
+    }, {
+      "command": "Continue to a certain line of code while paused",
+      "shortcut": "(hold) cmd (then click the line of code)"
+    }, {
+      "command": "Select the call frame below / above the currently-selected frame",
+      "shortcut": "ctrl+./ctrl+,"
+    }, {
+      "command": "Save changes to local modifications",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Save all changes",
+      "shortcut": "cmd+opt+s"
+    }, {
+      "command": "Go to line",
+      "shortcut": "ctrl+g"
+    }, {
+      "command": "Jump to a line number of the currently-open file",
+      "shortcut": "cmd+o (to open the cmd menu, type:followed by the line number, then press) enter"
+    }, {
+      "command": "Jump to a column of the currently-open file (for example line 5, column 9)",
+      "shortcut": "cmd+o (to open the cmd menu, type:then the line number, then another :, then the column number, then) enter"
+    }, {
+      "command": "Go to a function declaration (if currently-open file is HTML or a script), or a rule set (if currently-open file is a stylesheet)",
+      "shortcut": "cmd+shift+o (then type in the name of the declaration / rule set, / select it from the list of options)"
+    }, {
+      "command": "Close the active tab",
+      "shortcut": "opt+w"
+    }]
+  }, {
+    "group": "Code Editor",
+    "shortcuts": [{
+      "command": "Delete all characters in the last word, up to the cursor",
+      "shortcut": "opt+delete"
+    }, {
+      "command": "Add or remove a line-of-code breakpoint",
+      "shortcut": "(focus your cursor on the line and then press) cmd+b"
+    }, {
+      "command": "Go to matching bracket",
+      "shortcut": "ctrl+m"
+    }, {
+      "command": "Toggle single-line comment. If multiple lines are selected, DevTools adds a comment to the start of each line",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Select / de-select the next occurrence of whatever word the cursor is on. Each occurrence is highlighted simultaneously",
+      "shortcut": "cmd+d/cmd+u"
+    }]
+  }, {
+    "group": "Performance panel",
+    "shortcuts": [{
+      "command": "Start / stop recording",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Save recording",
+      "shortcut": "ctrl+s"
+    }, {
+      "command": "Load recording",
+      "shortcut": "cmd+o"
+    }]
+  }, {
+    "group": "Memory panel",
+    "shortcuts": [{
+      "command": "Start / stop recording",
+      "shortcut": "cmd+e"
+    }]
+  }, {
+    "group": "Console panel",
+    "shortcuts": [{
+      "command": "Accept autocomplete suggestion",
+      "shortcut": "right/tab"
+    }, {
+      "command": "Reject autocomplete suggestion",
+      "shortcut": "escape"
+    }, {
+      "command": "Get previous statement",
+      "shortcut": "up"
+    }, {
+      "command": "Get next statement",
+      "shortcut": "down"
+    }, {
+      "command": "Focus the Console",
+      "shortcut": "ctrl+`"
+    }, {
+      "command": "Clear the Console",
+      "shortcut": "cmd+k/opt+l"
+    }, {
+      "command": "Force a multi-line entry. Note that DevTools should detect multi-line scenarios by default, so this shortcut is now usually unnecessary",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Execute",
+      "shortcut": "ret"
+    }, {
+      "command": "Expand all sub-properties of an object that's been logged to the Console",
+      "shortcut": "(hold) alt (then click expand)"
+    }]
+  }]
+}

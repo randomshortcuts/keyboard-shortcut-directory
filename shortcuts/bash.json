@@ -1,0 +1,115 @@
+{
+  "program": "Bash",
+  "groups": [{
+    "group": "Cursor",
+    "shortcuts": [{
+      "command": "Move to the start of the current line",
+      "shortcut": "ctrl+a"
+    }, {
+      "command": "Move backward a character",
+      "shortcut": "ctrl+b"
+    }, {
+      "command": "Move to the end of the current line",
+      "shortcut": "ctrl+e"
+    }, {
+      "command": "Move forward a character",
+      "shortcut": "ctrl+f"
+    }, {
+      "command": "Move ‘forward’ through the history list, fetching the previous command",
+      "shortcut": "ctrl+n"
+    }, {
+      "command": "Move ‘back’ through the history list, fetching the previous command",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "Move back to the start of the current or previous word",
+      "shortcut": "alt+b"
+    }, {
+      "command": "Move forward to the end of the next word",
+      "shortcut": "alt+f"
+    }]
+  }, {
+    "group": "Processes",
+    "shortcuts": [{
+      "command": "Kill the command you just ran",
+      "shortcut": "ctrl+c"
+    }, {
+      "command": "Clear the screen",
+      "shortcut": "ctrl+l"
+    }, {
+      "command": "Send an EOF marker, unless disabled by an option, this will close the current shell (EXIT)",
+      "shortcut": "ctrl+d"
+    }]
+  }, {
+    "group": "Editing",
+    "shortcuts": [{
+      "command": "Clear the screen and redraw the current line, leaving the current line at the top of the screen",
+      "shortcut": "ctrl+l"
+    }, {
+      "command": "Delete the Word behind the cursor position",
+      "shortcut": "alt+del"
+    }, {
+      "command": "Delete the word after the cursor position",
+      "shortcut": "alt+d"
+    }, {
+      "command": "Delete character under the cursor",
+      "shortcut": "ctrl+d"
+    }, {
+      "command": "Delete character in front of the cursor",
+      "shortcut": "ctrl+h"
+    }, {
+      "command": "Cut the word behind the cursor",
+      "shortcut": "ctrl+w"
+    }, {
+      "command": "Cut the line in front of the the cursor",
+      "shortcut": "ctrl+k"
+    }, {
+      "command": "Cut everything before the cursor",
+      "shortcut": "ctrl+u"
+    }, {
+      "command": "Drag the word before point past the word after point, moving point past that word as well",
+      "shortcut": "alt+t"
+    }, {
+      "command": "Drag the character before the cursor forward over the character at the cursor, moving the cursor forward as well",
+      "shortcut": "ctrl+t"
+    }, {
+      "command": "Swap the last two words before the cursor",
+      "shortcut": "esc+t"
+    }, {
+      "command": "Paste the last cut string",
+      "shortcut": "ctrl+y"
+    }, {
+      "command": "Capitalize the character under the cursor and move to the end of the word",
+      "shortcut": "alt+c"
+    }, {
+      "command": "Undo all changes made to this line",
+      "shortcut": "alt+r"
+    }, {
+      "command": "Undo",
+      "shortcut": "ctrl+_"
+    }, {
+      "command": "Auto-complete the name of files and directories",
+      "shortcut": "tab"
+    }]
+  }, {
+    "group": "History",
+    "shortcuts": [{
+      "command": "Search backward starting at the current line and moving 'up' through the history as necessary",
+      "shortcut": "ctrl+r"
+    }, {
+      "command": "Move back through the history list, fetching the previous command",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "Move forward through the history list, fetching the next command",
+      "shortcut": "ctrl+n"
+    }, {
+      "command": "Search forward starting at the current line and moving ‘down’ through the history as necessary",
+      "shortcut": "ctrl+s"
+    }, {
+      "command": "Execute the current line",
+      "shortcut": "ctrl+o"
+    }, {
+      "command": "Abort the current command and play the alert sound",
+      "shortcut": "ctrl+g"
+    }]
+  }]
+}
