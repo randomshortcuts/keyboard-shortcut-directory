@@ -1,7 +1,7 @@
 {
   "program": "github",
   "groups": [{
-    "group": "Site wide shortcuts",
+    "title": "Site wide shortcuts",
     "shortcuts": [{
       "shortcut": "/",
       "command": "Focus the search bar."
@@ -16,7 +16,7 @@
       "command": "When focused on a user, issue, or pull request hovercard, closes the hovercard and refocuses on the element the hovercard is in"
     }]
   }, {
-    "group": "Repositories",
+    "title": "Repositories",
     "shortcuts": [{
       "shortcut": "g c",
       "command": "Go to the Code tab"
@@ -34,7 +34,7 @@
       "command": "Go to the Wiki tab."
     }]
   }, {
-    "group": "Source code editing",
+    "title": "Source code editing",
     "shortcuts": [{
       "shortcut": "cmd+f",
       "command": "Start searching in file editor"
@@ -61,7 +61,7 @@
       "command": "Redo"
     }]
   }, {
-    "group": "Source code browsing",
+    "title": "Source code browsing",
     "shortcuts": [{
       "shortcut": "t",
       "command": "Activates the file finder"
@@ -82,7 +82,7 @@
       "command": "Open blame view."
     }]
   }, {
-    "group": "Comments",
+    "title": "Comments",
     "shortcuts": [{
       "shortcut": "cmd+b",
       "command": "Inserts Markdown formatting for bolding text"
@@ -109,7 +109,7 @@
       "command": "Quote the selected text in your reply."
     }]
   }, {
-    "group": "Issue and pull request lists",
+    "title": "Issue and pull request lists",
     "shortcuts": [{
       "shortcut": "c",
       "command": "Create an issue"
@@ -133,7 +133,7 @@
       "command": "Open issue"
     }]
   }, {
-    "group": "Issues and pull requests",
+    "title": "Issues and pull requests",
     "shortcuts": [{
       "shortcut": "q",
       "command": "Request a reviewer. For more information, see \"Requesting a pull request review.\""
@@ -148,7 +148,7 @@
       "command": "Set an assignee. For more information, see \"Assigning issues and pull requests to other GitHub users.\""
     }]
   }, {
-    "group": "Changes in pull requests",
+    "title": "Changes in pull requests",
     "shortcuts": [{
       "shortcut": "c",
       "command": "Open the list of commits in the pull request"
@@ -169,7 +169,7 @@
       "command": "Toggle between collapsing and expanding all outdated review comments in a pull request by holding down alt and clicking Show outdated or Hide outdated ."
     }]
   }, {
-    "group": "Project boards",
+    "title": "Project boards",
     "shortcuts": [{
       "shortcut": "ent/space",
       "command": "Start moving the focused column"
@@ -238,7 +238,7 @@
       "command": "Move card to the bottom of the rightmost column"
     }]
   }, {
-    "group": "Notifications",
+    "title": "Notifications",
     "shortcuts": [{
       "shortcut": "e/i/y",
       "command": "Mark as read"
@@ -247,7 +247,7 @@
       "command": "Mute thread"
     }]
   }, {
-    "group": "Network Graph",
+    "title": "Network Graph",
     "shortcuts": [{
       "shortcut": "left/h",
       "command": "Scroll left"

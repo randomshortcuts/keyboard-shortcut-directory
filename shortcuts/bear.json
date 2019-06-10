@@ -1,7 +1,7 @@
 {
   "program": "Bear",
   "groups": [{
-    "group": "Text Styles",
+    "title": "Text Styles",
     "shortcuts": [{
       "command": "Headings",
       "shortcut": "opt+cmd+1-opt+cmd+6"
@@ -49,7 +49,7 @@
       "shortcut": "shift+cmd+v"
     }]
   }, {
-    "group": "Todos",
+    "title": "Todos",
     "shortcuts": [{
       "command": "Toggle Todo",
       "shortcut": "shift+cmd+t"
@@ -61,7 +61,7 @@
       "shortcut": "ctrl+cmd+t"
     }]
   }, {
-    "group": "Structure",
+    "title": "Structure",
     "shortcuts": [{
       "command": "Shift line right",
       "shortcut": "opt+]"
@@ -76,7 +76,7 @@
       "shortcut": "opt+cmd+down"
     }]
   }, {
-    "group": "Lists",
+    "title": "Lists",
     "shortcuts": [{
       "command": "Shift the list element right",
       "shortcut": "tab"
@@ -88,7 +88,7 @@
       "shortcut": "shift+ret"
     }]
   }, {
-    "group": "Dates",
+    "title": "Dates",
     "shortcuts": [{
       "command": "Long Form Date with time",
       "shortcut": "shift+cmd+7"
@@ -103,7 +103,7 @@
       "shortcut": "shift+cmd+0"
     }]
   }, {
-    "group": "Control",
+    "title": "Control",
     "shortcuts": [{
       "command": "Select all",
       "shortcut": "cmd+a"
@@ -115,7 +115,7 @@
       "shortcut": "cmd+p"
     }]
   }, {
-    "group": "Zoom",
+    "title": "Zoom",
     "shortcuts": [{
       "command": "Zoom in",
       "shortcut": "cmd++"
@@ -127,7 +127,7 @@
       "shortcut": "cmd+0"
     }]
   }, {
-    "group": "Panels and search",
+    "title": "Panels and search",
     "shortcuts": [{
       "command": "Toggle information panel",
       "shortcut": "shift+cmd+i"
@@ -142,7 +142,7 @@
       "shortcut": "shift+cmd+f"
     }]
   }, {
-    "group": "Navigation",
+    "title": "Navigation",
     "shortcuts": [{
       "command": "Create a new note",
       "shortcut": "cmd+n"
@@ -202,7 +202,7 @@
       "shortcut": "opt+cmd+right"
     }]
   }, {
-    "group": "Saving and importing",
+    "title": "Saving and importing",
     "shortcuts": [{
       "command": "Export selected note",
       "shortcut": "shift+cmd+s"
@@ -214,7 +214,7 @@
       "shortcut": "ctrl+cmd+t"
     }]
   }, {
-    "group": "Window",
+    "title": "Window",
     "shortcuts": [{
       "command": "Show sidebar, note list and editor",
       "shortcut": "ctrl+1"

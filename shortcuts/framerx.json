@@ -1,7 +1,7 @@
 {
   "program": "framerx",
   "groups": [{
-    "group": "Tools",
+    "title": "Tools",
     "shortcuts": [{
       "shortcut": "f",
       "command": "Frame"
@@ -22,7 +22,7 @@
       "command": "Pan Canvas"
     }]
   }, {
-    "group": "Graphic",
+    "title": "Graphic",
     "shortcuts": [{
       "shortcut": "g",
       "command": "Graphic"
@@ -46,7 +46,7 @@
       "command": "Ungroup"
     }]
   }, {
-    "group": "Layout",
+    "title": "Layout",
     "shortcuts": [{
       "shortcut": "cmd+ret",
       "command": "Add Frame"
@@ -64,7 +64,7 @@
       "command": "Move Backward"
     }]
   }, {
-    "group": "Components",
+    "title": "Components",
     "shortcuts": [{
       "shortcut": "cmd+k",
       "command": "Create from Design"
@@ -73,7 +73,7 @@
       "command": "Create from Code"
     }]
   }, {
-    "group": "Text",
+    "title": "Text",
     "shortcuts": [{
       "shortcut": "cmd+b",
       "command": "Bold"
@@ -88,7 +88,7 @@
       "command": "Select Typeface"
     }]
   }, {
-    "group": "Editing",
+    "title": "Editing",
     "shortcuts": [{
       "shortcut": "cmd+arrows",
       "command": "Object Size"
@@ -127,7 +127,7 @@
       "command": "Select All Children"
     }]
   }, {
-    "group": "View",
+    "title": "View",
     "shortcuts": [{
       "shortcut": "z",
       "command": "Zoom"
@@ -148,7 +148,7 @@
       "command": "Reset Zoom"
     }]
   }, {
-    "group": "Window",
+    "title": "Window",
     "shortcuts": [{
       "shortcut": "cmd+m",
       "command": "Minimize"

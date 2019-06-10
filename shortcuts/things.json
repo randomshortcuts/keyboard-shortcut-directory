@@ -1,7 +1,7 @@
 {
   "program": "things",
   "groups": [{
-    "group": "Create new items",
+    "title": "Create new items",
     "shortcuts": [{
       "shortcut": "cmd+n",
       "command": "Create a new to-do"
@@ -28,7 +28,7 @@
       "command": "Open Quick Entry with Autofill"
     }]
   }, {
-    "group": "Edit items",
+    "title": "Edit items",
     "shortcuts": [{
       "shortcut": "ret",
       "command": "Open a to-do or project"
@@ -61,7 +61,7 @@
       "command": "Move completed to Logbook"
     }]
   }, {
-    "group": "Select items",
+    "title": "Select items",
     "shortcuts": [{
       "shortcut": "up",
       "command": "Select item above"
@@ -85,7 +85,7 @@
       "command": "Select everything"
     }]
   }, {
-    "group": "Move items",
+    "title": "Move items",
     "shortcuts": [{
       "shortcut": "cmd+shift+m",
       "command": "Move selection to another list"
@@ -106,7 +106,7 @@
       "command": "Move selection to bottom of list"
     }]
   }, {
-    "group": "Edit dates",
+    "title": "Edit dates",
     "shortcuts": [{
       "shortcut": "cmd+s",
       "command": "Show Jump Start"
@@ -154,7 +154,7 @@
       "command": "Make to-do or project repeating"
     }]
   }, {
-    "group": "Control windows",
+    "title": "Control windows",
     "shortcuts": [{
       "shortcut": "cmd+ctrl+n",
       "command": "Open new window"
@@ -178,7 +178,7 @@
       "command": "Full screen"
     }]
   }, {
-    "group": "Navigate",
+    "title": "Navigate",
     "shortcuts": [{
       "shortcut": "cmd+1",
       "command": "Go to Inbox"
@@ -220,7 +220,7 @@
       "command": "Navigate down in the sidebar"
     }]
   }, {
-    "group": "Search",
+    "title": "Search",
     "shortcuts": [{
       "shortcut": "any key",
       "command": "Start typing to begin a search"
@@ -229,7 +229,7 @@
       "command": "Find"
     }]
   }, {
-    "group": "Tags",
+    "title": "Tags",
     "shortcuts": [{
       "shortcut": "cmd+ctrl+t",
       "command": "Open tag window"
@@ -253,7 +253,7 @@
       "command": "Destroy previous filter"
     }]
   }, {
-    "group": "Links",
+    "title": "Links",
     "shortcuts": [{
       "shortcut": "cmd+opt+ret",
       "command": "Open a link"

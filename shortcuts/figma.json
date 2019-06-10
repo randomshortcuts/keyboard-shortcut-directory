@@ -1,7 +1,7 @@
 {
   "program": "figma",
   "groups": [{
-    "group": "File & Properties",
+    "title": "File & Properties",
     "shortcuts": [{
       "command": "Export",
       "shortcut": "cmd+shift+e"
@@ -19,7 +19,7 @@
       "shortcut": "(hold) opt (then double-click)"
     }]
   }, {
-    "group": "View",
+    "title": "View",
     "shortcuts": [{
       "command": "Pan",
       "shortcut": "(hold) ⎵ (then drag)"
@@ -67,7 +67,7 @@
       "shortcut": "cmd+y/ctrl+shift+3"
     }]
   }, {
-    "group": "Vector",
+    "title": "Vector",
     "shortcuts": [{
       "command": "Move Tool",
       "shortcut": "v"
@@ -91,7 +91,7 @@
       "shortcut": "esc/ret"
     }]
   }, {
-    "group": "Text",
+    "title": "Text",
     "shortcuts": [{
       "command": "Type Tool",
       "shortcut": "t"
@@ -106,7 +106,7 @@
       "shortcut": "cmd+b"
     }]
   }, {
-    "group": "Object",
+    "title": "Object",
     "shortcuts": [{
       "command": "Move Tool",
       "shortcut": "v"

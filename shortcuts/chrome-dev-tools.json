@@ -1,7 +1,7 @@
 {
   "program": "Chrome DevTools",
   "groups": [{
-    "group": "Opening DevTools",
+    "title": "Opening DevTools",
     "shortcuts": [{
       "command": "Open whatever panel you used last",
       "shortcut": "cmd+opt+i"
@@ -13,7 +13,7 @@
       "shortcut": "cmd+opt+c"
     }]
   }, {
-    "group": "Global shortcuts",
+    "title": "Global shortcuts",
     "shortcuts": [{
       "command": "Show Settings",
       "shortcut": "fn+f1"
@@ -67,7 +67,7 @@
       "shortcut": "cmd+o (to open the cmd menu, then type !, followed by the name of the script, then) enter"
     }]
   }, {
-    "group": "Elements panel",
+    "title": "Elements panel",
     "shortcuts": [{
       "command": "Undo change",
       "shortcut": "cmd+z"
@@ -100,7 +100,7 @@
       "shortcut": "fn+f2"
     }]
   }, {
-    "group": "Styles panel",
+    "title": "Styles panel",
     "shortcuts": [{
       "command": "Go to the line where a property value is declared",
       "shortcut": "(hold) cmd (then click the property value)"
@@ -124,7 +124,7 @@
       "shortcut": "(click a value then press) cmd+up/cmd+down"
     }]
   }, {
-    "group": "Sources panel",
+    "title": "Sources panel",
     "shortcuts": [{
       "command": "Pause script execution (if currently running) or resume (if currently paused)",
       "shortcut": "f8/cmd+\\"
@@ -166,7 +166,7 @@
       "shortcut": "opt+w"
     }]
   }, {
-    "group": "Code Editor",
+    "title": "Code Editor",
     "shortcuts": [{
       "command": "Delete all characters in the last word, up to the cursor",
       "shortcut": "opt+delete"
@@ -184,7 +184,7 @@
       "shortcut": "cmd+d/cmd+u"
     }]
   }, {
-    "group": "Performance panel",
+    "title": "Performance panel",
     "shortcuts": [{
       "command": "Start / stop recording",
       "shortcut": "cmd+e"
@@ -196,13 +196,13 @@
       "shortcut": "cmd+o"
     }]
   }, {
-    "group": "Memory panel",
+    "title": "Memory panel",
     "shortcuts": [{
       "command": "Start / stop recording",
       "shortcut": "cmd+e"
     }]
   }, {
-    "group": "Console panel",
+    "title": "Console panel",
     "shortcuts": [{
       "command": "Accept autocomplete suggestion",
       "shortcut": "right/tab"

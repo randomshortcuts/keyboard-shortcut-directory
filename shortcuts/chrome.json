@@ -1,7 +1,7 @@
 {
   "program": "Chrome",
   "groups": [{
-    "group": "Tab and window shortcuts",
+    "title": "Tab and window shortcuts",
     "shortcuts": [{
       "command": "Open a new window",
       "shortcut": "cmd+n"
@@ -49,7 +49,7 @@
       "shortcut": "cmd+q"
     }]
   }, {
-    "group": "Google Chrome feature shortcuts",
+    "title": "Google Chrome feature shortcuts",
     "shortcuts": [{
       "command": "Show or hide the Bookmarks Bar",
       "shortcut": "cmd+shift+b"
@@ -88,7 +88,7 @@
       "shortcut": "cmd+shift+m"
     }]
   }, {
-    "group": "Address Bar shortcuts",
+    "title": "Address Bar shortcuts",
     "shortcuts": [{
       "command": "Search with your default search engine",
       "shortcut": "(type a search term, then press) enter"
@@ -112,7 +112,7 @@
       "shortcut": "down (to highlight, then) shift+fn+delete"
     }]
   }, {
-    "group": "Webpage shortcuts",
+    "title": "Webpage shortcuts",
     "shortcuts": [{
       "command": "Open options to print the current page",
       "shortcut": "cmd+p"
@@ -184,7 +184,7 @@
       "shortcut": "cmd+shift+h"
     }]
   }, {
-    "group": "Mouse shortcuts",
+    "title": "Mouse shortcuts",
     "shortcuts": [{
       "command": "Open a link in a current tab (mouse only)",
       "shortcut": "(drag a link to a tab)"

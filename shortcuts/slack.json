@@ -1,7 +1,7 @@
 {
   "program": "Slack",
   "groups": [{
-    "group": "Navigation",
+    "title": "Navigation",
     "shortcuts": [{
       "command": "Quick Switcher",
       "shortcut": "cmd+k"
@@ -61,7 +61,7 @@
       "shortcut": "ctrl+cmd+f"
     }]
   }, {
-    "group": "All Unreads navigation",
+    "title": "All Unreads navigation",
     "shortcuts": [{
       "command": "Open All Unreads view",
       "shortcut": "cmd+shift+a"
@@ -76,7 +76,7 @@
       "shortcut": "r"
     }]
   }, {
-    "group": "Mark messages read or unread",
+    "title": "Mark messages read or unread",
     "shortcuts": [{
       "command": "Mark all messages in current channel or DM as read",
       "shortcut": "esc"
@@ -88,7 +88,7 @@
       "shortcut": "opt (then click a message)"
     }]
   }, {
-    "group": "Message shortcuts",
+    "title": "Message shortcuts",
     "shortcuts": [{
       "command": "Edit your last message",
       "shortcut": "up"
@@ -130,7 +130,7 @@
       "shortcut": "cmd+shift+y"
     }]
   }, {
-    "group": "Files and snippets",
+    "title": "Files and snippets",
     "shortcuts": [{
       "command": "Upload file",
       "shortcut": "cmd+u"
@@ -139,7 +139,7 @@
       "shortcut": "cmd+shift+ret"
     }]
   }, {
-    "group": "Call actions",
+    "title": "Call actions",
     "shortcuts": [{
       "command": "Toggle mute on and off (hold to talk when muted)",
       "shortcut": "m"

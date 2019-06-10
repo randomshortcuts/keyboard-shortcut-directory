@@ -1,7 +1,7 @@
 {
   "program": "Mojave",
   "groups": [{
-    "group": "Cut, copy, paste, and other common shortcuts",
+    "title": "Cut, copy, paste, and other common shortcuts",
     "shortcuts": [{
       "command": " Cut the selected item and copy it to the Clipboard",
       "shortcut": "cmd+x"
@@ -73,7 +73,7 @@
       "shortcut": "cmd+,"
     }]
   }, {
-    "group": "Sleep, log out, and shut down shortcuts",
+    "title": "Sleep, log out, and shut down shortcuts",
     "shortcuts": [{
       "command": "Turn on your Mac or wake it from sleep. Press and hold for 1.5 seconds to put your Mac to sleep.* Continue holding to force your Mac to turn off.",
       "shortcut": "power"
@@ -97,7 +97,7 @@
       "shortcut": "shift+cmd+q"
     }]
   }, {
-    "group": "Finder and system shortcuts",
+    "title": "Finder and system shortcuts",
     "shortcuts": [{
       "command": "Duplicate the selected files.",
       "shortcut": "cmd+d"
@@ -304,7 +304,7 @@
       "shortcut": "cmd (click a window title)"
     }]
   }, {
-    "group": "Document shortcuts",
+    "title": "Document shortcuts",
     "shortcuts": [{
       "command": "Boldface the selected text, or turn boldfacing on or off",
       "shortcut": "cmd+b"

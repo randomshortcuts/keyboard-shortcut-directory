@@ -64,7 +64,7 @@ Before parsing, make sure your JSON is in this format:
   "program": "Bash",
   "groups": [
     {
-      "group": "Cursor",
+      "title": "Cursor",
       "shortcuts": [
         {
         "command": "Move to the start of the current line",

@@ -1,6 +1,7 @@
 {
   "program": "Trello",
   "groups": [{
+    "title": "All shortcuts",
     "shortcuts": [{
       "command": "Navigate cards",
       "shortcut": "right/down/left/up"

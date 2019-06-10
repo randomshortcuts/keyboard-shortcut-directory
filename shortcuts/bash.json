@@ -1,7 +1,7 @@
 {
   "program": "Bash",
   "groups": [{
-    "group": "Cursor",
+    "title": "Cursor",
     "shortcuts": [{
       "command": "Move to the start of the current line",
       "shortcut": "ctrl+a"
@@ -28,7 +28,7 @@
       "shortcut": "alt+f"
     }]
   }, {
-    "group": "Processes",
+    "title": "Processes",
     "shortcuts": [{
       "command": "Kill the command you just ran",
       "shortcut": "ctrl+c"
@@ -40,7 +40,7 @@
       "shortcut": "ctrl+d"
     }]
   }, {
-    "group": "Editing",
+    "title": "Editing",
     "shortcuts": [{
       "command": "Clear the screen and redraw the current line, leaving the current line at the top of the screen",
       "shortcut": "ctrl+l"
@@ -91,7 +91,7 @@
       "shortcut": "tab"
     }]
   }, {
-    "group": "History",
+    "title": "History",
     "shortcuts": [{
       "command": "Search backward starting at the current line and moving 'up' through the history as necessary",
       "shortcut": "ctrl+r"

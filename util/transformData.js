@@ -5,7 +5,7 @@ function transformData(data) {
     program: data.program,
     groups: data.groups.map(group => {
       return {
-        title: group.group,
+        title: group.title,
         shortcuts: group.shortcuts.map(shortcut => {
           return {
             command: shortcut.command,

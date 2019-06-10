@@ -1,7 +1,7 @@
 {
   "program": "jira",
   "groups": [{
-    "group": "Global Shortcuts",
+    "title": "Global Shortcuts",
     "shortcuts": [{
       "command": "Go to Dashboard",
       "shortcut": "g d"
@@ -46,7 +46,7 @@
       "shortcut": "ctrl+alt+`"
     }]
   }, {
-    "group": "Agile Shortcuts",
+    "title": "Agile Shortcuts",
     "shortcuts": [{
       "command": "Next Issue",
       "shortcut": "j"
@@ -94,7 +94,7 @@
       "shortcut": "z"
     }]
   }, {
-    "group": "Issue Actions and Navigator Shortcuts",
+    "title": "Issue Actions and Navigator Shortcuts",
     "shortcuts": [{
       "command": "View selected Issue",
       "shortcut": "o/ent"

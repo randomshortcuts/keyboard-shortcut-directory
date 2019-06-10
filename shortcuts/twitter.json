@@ -1,7 +1,7 @@
 {
   "program": "Twitter",
   "groups": [{
-    "group": "Actions",
+    "title": "Actions",
     "shortcuts": [{
       "command": "New Tweet",
       "shortcut": "n"
@@ -37,7 +37,7 @@
       "shortcut": "cmd+ret"
     }]
   }, {
-    "group": "Navigation",
+    "title": "Navigation",
     "shortcuts": [{
       "command": "Show keyboard shortcuts",
       "shortcut": "?"
@@ -55,7 +55,7 @@
       "shortcut": "."
     }]
   }, {
-    "group": "Timelines",
+    "title": "Timelines",
     "shortcuts": [{
       "command": "Home",
       "shortcut": "g p"

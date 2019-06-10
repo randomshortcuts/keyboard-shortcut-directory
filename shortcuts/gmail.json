@@ -1,7 +1,7 @@
 {
   "program": "Gmail",
   "groups": [{
-    "group": "Compose & Chat",
+    "title": "Compose & Chat",
     "shortcuts": [{
       "command": "Previous message in an open conversation",
       "shortcut": "p"
@@ -37,7 +37,7 @@
       "shortcut": "cmd+m"
     }]
   }, {
-    "group": "Formatting Text",
+    "title": "Formatting Text",
     "shortcuts": [{
       "command": "Previous font",
       "shortcut": "cmd+shift+5"
@@ -88,7 +88,7 @@
       "shortcut": "cmd+\\"
     }]
   }, {
-    "group": "Actions",
+    "title": "Actions",
     "shortcuts": [{
       "command": "Move focus to toolbar",
       "shortcut": ","
@@ -166,7 +166,7 @@
       "shortcut": "shift+t"
     }]
   }, {
-    "group": "Hangouts",
+    "title": "Hangouts",
     "shortcuts": [{
       "command": "Show menu",
       "shortcut": "h m"
@@ -184,7 +184,7 @@
       "shortcut": "h p"
     }]
   }, {
-    "group": "Jumping",
+    "title": "Jumping",
     "shortcuts": [{
       "command": "Go to inbox",
       "shortcut": "g i"
@@ -211,7 +211,7 @@
       "shortcut": "g l"
     }]
   }, {
-    "group": "Threadlist Selection",
+    "title": "Threadlist Selection",
     "shortcuts": [{
       "command": "Select all conversations",
       "shortcut": "* a"
@@ -232,7 +232,7 @@
       "shortcut": "* t"
     }]
   }, {
-    "group": "Navigation",
+    "title": "Navigation",
     "shortcuts": [{
       "command": "Back to threadlist",
       "shortcut": "u"
@@ -250,7 +250,7 @@
       "shortcut": "~"
     }]
   }, {
-    "group": "Application",
+    "title": "Application",
     "shortcuts": [{
       "command": "Compose",
       "shortcut": "c"
