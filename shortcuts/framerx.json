@@ -18,7 +18,7 @@
       "shortcut": "l",
       "command": "Link"
     }, {
-      "shortcut": "space (drag)",
+      "shortcut": "(hold) space (then drag)",
       "command": "Pan Canvas"
     }]
   }, {
@@ -105,7 +105,7 @@
       "shortcut": "cmd+d",
       "command": "Duplicate In Place"
     }, {
-      "shortcut": "opt (drag)",
+      "shortcut": "opt (then drag)",
       "command": "Duplicate Selected Object"
     }, {
       "shortcut": "opt+cmd+c",
