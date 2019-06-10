@@ -55,6 +55,33 @@ Listed below are examples of formatted keyboard shortcuts and their parsed meani
 | e/y                | `e` or `y`       |
 | F1-F12             | `F1` through `F12` |
 
+## Parsing Shortcuts
+
+Before parsing, make sure your JSON is in this format:
+
+```json
+{
+  "program": "Bash",
+  "groups": [
+    {
+      "group": "Cursor",
+      "shortcuts": [
+        {
+        "command": "Move to the start of the current line",
+        "shortcut": "ctrl+a"
+        }
+      ]
+    }
+  ]
+}
+```
+To parse all shortcuts in `./shortcuts`, run `npm run parse`.
+
+To parse one program's shortcuts (e.g. `./shortcuts/program-name.json`), run `npm run parse -- program-name`
+
+
+
+
 ## Contributing
 
 Pull requests are welcome!
