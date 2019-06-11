@@ -1,1 +1,91 @@
-{"program":"spotify","groups":[{"title":"How can we help you?","shortcuts":[]},{"title":"Keyboard shortcuts","shortcuts":[{"command":"Create new playlist","shortcut":"cmd-n"},{"command":"Cut","shortcut":"cmd-x"},{"command":"Copy","shortcut":"cmd-c"},{"command":"Copy (alternative link)","shortcut":"cmd-alt-c"},{"command":"Paste","shortcut":"cmd-v"},{"command":"Delete","shortcut":"del, backspace"},{"command":"Select all","shortcut":"cmd-a"},{"command":"Play/pause","shortcut":"space"},{"command":"Next track","shortcut":"ctrl-cmd-right"},{"command":"Previous track","shortcut":"ctrl-cmd-left"},{"command":"Volume up","shortcut":"cmd-up"},{"command":"Volume down","shortcut":"cmd-down"},{"command":"Mute","shortcut":"cmd-shift-down"},{"command":"Max volume","shortcut":"cmd-shift-up"},{"command":"Show help","shortcut":"cmd-shift-?"},{"command":"Filter (in Songs and Playlists)","shortcut":"cmd-f"},{"command":"Give focus to search field","shortcut":"cmd-alt-f, cmd-l"},{"command":"Go back ","shortcut":"cmd-alt-left, cmd-["},{"command":"Go forward ","shortcut":"cmd-alt-right, cmd-]"},{"command":"Play selected row","shortcut":"ent"},{"command":"Preferences","shortcut":"cmd-,"},{"command":"Logout active user","shortcut":"cmd-shift-w"},{"command":"Quit","shortcut":"cmd-q"},{"command":"Hide window","shortcut":"cmd-h"},{"command":"Hide other applications' windows","shortcut":"cmd-alt-h"},{"command":"Close window","shortcut":"cmd-w"},{"command":"Minimize window","shortcut":"cmd-m"},{"command":"Restore from minimized","shortcut":"cmd-alt-1"}]}]}
+{
+  "program": "spotify",
+  "groups": [{
+    "title": "Keyboard shortcuts",
+    "shortcuts": [{
+      "command": "Create new playlist",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Copy (alternative link)",
+      "shortcut": "cmd+alt+c"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Delete",
+      "shortcut": "del, backspace"
+    }, {
+      "command": "Select all",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Play/pause",
+      "shortcut": "space"
+    }, {
+      "command": "Next track",
+      "shortcut": "ctrl+cmd+right"
+    }, {
+      "command": "Previous track",
+      "shortcut": "ctrl+cmd+left"
+    }, {
+      "command": "Volume up",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Volume down",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Mute",
+      "shortcut": "cmd+shift+down"
+    }, {
+      "command": "Max volume",
+      "shortcut": "cmd+shift+up"
+    }, {
+      "command": "Show help",
+      "shortcut": "cmd+shift+?"
+    }, {
+      "command": "Filter (in Songs and Playlists)",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Give focus to search field",
+      "shortcut": "cmd+alt+f/cmd+l"
+    }, {
+      "command": "Go back ",
+      "shortcut": "cmd+alt+left/cmd+["
+    }, {
+      "command": "Go forward ",
+      "shortcut": "cmd+alt+right/cmd+]"
+    }, {
+      "command": "Play selected row",
+      "shortcut": "ent"
+    }, {
+      "command": "Preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Logout active user",
+      "shortcut": "cmd+shift+w"
+    }, {
+      "command": "Quit",
+      "shortcut": "cmd+q"
+    }, {
+      "command": "Hide window",
+      "shortcut": "cmd+h"
+    }, {
+      "command": "Hide other applications' windows",
+      "shortcut": "cmd+alt+h"
+    }, {
+      "command": "Close window",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Minimize window",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "Restore from minimized",
+      "shortcut": "cmd+alt+1"
+    }]
+  }]
+}
