@@ -75,12 +75,12 @@ Before parsing, make sure your JSON is in this format:
   ]
 }
 ```
+
+Add your JSON file to the `shortcuts` directory.
+
+To parse your program's shortcuts (e.g. `./shortcuts/program-name.json`), run `npm run parse -- program-name`
+
 To parse all shortcuts in `./shortcuts`, run `npm run parse`.
-
-To parse one program's shortcuts (e.g. `./shortcuts/program-name.json`), run `npm run parse -- program-name`
-
-
-
 
 ## Contributing
 
