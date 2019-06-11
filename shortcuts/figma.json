@@ -22,7 +22,7 @@
     "title": "View",
     "shortcuts": [{
       "command": "Pan",
-      "shortcut": "(hold) ⎵ (then drag)"
+      "shortcut": "(hold) space (then drag)"
     }, {
       "command": "Zoom In",
       "shortcut": "+"

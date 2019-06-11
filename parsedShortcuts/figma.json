@@ -1,1 +1,616 @@
-{"program":"figma","groups":[{"title":"File & Properties","shortcuts":[{"command":"Export","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"e"}]},{"command":"Save","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"s"}]},{"command":"Place","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"k"}]},{"command":"Color Picker","steps":[{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"c"},{"type":"instruction","value":"or"},{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"i"}]},{"command":"Enter Image Crop Mode","steps":[{"type":"instruction","value":"hold"},{"type":"key","value":"option"},{"type":"instruction","value":"then double-click"}]}]},{"title":"View","shortcuts":[{"command":"Pan","steps":[{"type":"instruction","value":"hold"},{"type":"key","value":"⎵"},{"type":"instruction","value":"then drag"}]},{"command":"Zoom In","steps":[{"type":"key","value":"+"}]},{"command":"Zoom Out","steps":[{"type":"key","value":"–"}]},{"command":"Zoom to Fit","steps":[{"type":"key","value":"1"},{"type":"instruction","value":"or"},{"type":"key","value":"9"}]},{"command":"Zoom to Selection","steps":[{"type":"key","value":"2"}]},{"command":"Zoom 100%","steps":[{"type":"key","value":"0"}]},{"command":"Rename Layer","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"r"}]},{"command":"Show Rulers","steps":[{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"r"}]},{"command":"Pixel Preview","steps":[{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"p"}]},{"command":"Show Layout Grids","steps":[{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"g"}]},{"command":"Show Layers Panel","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"\\"}]},{"command":"Show Figma UI","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"\\"}]},{"command":"Show Pixel Grid","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"'"}]},{"command":"Show Transparency Checkerboard","steps":[{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"'"}]},{"command":"Outline Mode","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"y"},{"type":"instruction","value":"or"},{"type":"key","value":"control"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"3"}]}]},{"title":"Vector","shortcuts":[{"command":"Move Tool","steps":[{"type":"key","value":"v"}]},{"command":"Pen Tool","steps":[{"type":"key","value":"p"}]},{"command":"Paint Bucket","steps":[{"type":"key","value":"b"}]},{"command":"Bend Tool","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"drag"}]},{"command":"Join Selection","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"j"}]},{"command":"Duplicate","steps":[{"type":"key","value":"option"},{"type":"instruction","value":"+"},{"type":"key","value":"drag"}]},{"command":"Exit Vector Edit Mode","steps":[{"type":"key","value":"escape"},{"type":"instruction","value":"or"},{"type":"key","value":"return"}]}]},{"title":"Text","shortcuts":[{"command":"Type Tool","steps":[{"type":"key","value":"t"}]},{"command":"Toggle Underline","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"u"}]},{"command":"Toggle Italic","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"i"}]},{"command":"Toggle Bold","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"b"}]}]},{"title":"Object","shortcuts":[{"command":"Move Tool","steps":[{"type":"key","value":"v"}]},{"command":"Pen Tool","steps":[{"type":"key","value":"p"}]},{"command":"Rectangle Tool","steps":[{"type":"key","value":"r"}]},{"command":"Ellipse Tool","steps":[{"type":"key","value":"o"}]},{"command":"Line Tool","steps":[{"type":"key","value":"l"}]},{"command":"Frame Tool","steps":[{"type":"key","value":"a"},{"type":"instruction","value":"or"},{"type":"key","value":"f"}]},{"command":"Slice Tool","steps":[{"type":"key","value":"s"}]},{"command":"Copy","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"c"}]},{"command":"Cut","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"x"}]},{"command":"Paste","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"v"}]},{"command":"Duplicate","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"d"},{"type":"instruction","value":"or"},{"type":"key","value":"option"},{"type":"instruction","value":"then drag"}]},{"command":"Group Selection","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"g"}]},{"command":"Ungroup Selection","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"g"}]},{"command":"Toggle Visibility","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"h"}]},{"command":"Toggle Lock","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"l"}]},{"command":"Flatten Selection","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"e"}]},{"command":"Outline Stroke","steps":[{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"shift"},{"type":"instruction","value":"+"},{"type":"key","value":"o"}]},{"command":"Toggle Mask","steps":[{"type":"key","value":"option"},{"type":"instruction","value":"+"},{"type":"key","value":"command"},{"type":"instruction","value":"+"},{"type":"key","value":"m"}]}]}]}
+{
+  "program": "figma",
+  "groups": [{
+    "title": "File & Properties",
+    "shortcuts": [{
+      "command": "Export",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "e"
+      }]
+    }, {
+      "command": "Save",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "s"
+      }]
+    }, {
+      "command": "Place",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "k"
+      }]
+    }, {
+      "command": "Color Picker",
+      "steps": [{
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "c"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "i"
+      }]
+    }, {
+      "command": "Enter Image Crop Mode",
+      "steps": [{
+        "type": "instruction",
+        "value": "hold"
+      }, {
+        "type": "key",
+        "value": "option"
+      }, {
+        "type": "instruction",
+        "value": "then double-click"
+      }]
+    }]
+  }, {
+    "title": "View",
+    "shortcuts": [{
+      "command": "Pan",
+      "steps": [{
+        "type": "instruction",
+        "value": "hold"
+      }, {
+        "type": "key",
+        "value": "space"
+      }, {
+        "type": "instruction",
+        "value": "then drag"
+      }]
+    }, {
+      "command": "Zoom In",
+      "steps": [{
+        "type": "key",
+        "value": "+"
+      }]
+    }, {
+      "command": "Zoom Out",
+      "steps": [{
+        "type": "key",
+        "value": "–"
+      }]
+    }, {
+      "command": "Zoom to Fit",
+      "steps": [{
+        "type": "key",
+        "value": "1"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "9"
+      }]
+    }, {
+      "command": "Zoom to Selection",
+      "steps": [{
+        "type": "key",
+        "value": "2"
+      }]
+    }, {
+      "command": "Zoom 100%",
+      "steps": [{
+        "type": "key",
+        "value": "0"
+      }]
+    }, {
+      "command": "Rename Layer",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "r"
+      }]
+    }, {
+      "command": "Show Rulers",
+      "steps": [{
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "r"
+      }]
+    }, {
+      "command": "Pixel Preview",
+      "steps": [{
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "p"
+      }]
+    }, {
+      "command": "Show Layout Grids",
+      "steps": [{
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "g"
+      }]
+    }, {
+      "command": "Show Layers Panel",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "\\"
+      }]
+    }, {
+      "command": "Show Figma UI",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "\\"
+      }]
+    }, {
+      "command": "Show Pixel Grid",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "'"
+      }]
+    }, {
+      "command": "Show Transparency Checkerboard",
+      "steps": [{
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "'"
+      }]
+    }, {
+      "command": "Outline Mode",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "y"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "control"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "3"
+      }]
+    }]
+  }, {
+    "title": "Vector",
+    "shortcuts": [{
+      "command": "Move Tool",
+      "steps": [{
+        "type": "key",
+        "value": "v"
+      }]
+    }, {
+      "command": "Pen Tool",
+      "steps": [{
+        "type": "key",
+        "value": "p"
+      }]
+    }, {
+      "command": "Paint Bucket",
+      "steps": [{
+        "type": "key",
+        "value": "b"
+      }]
+    }, {
+      "command": "Bend Tool",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "drag"
+      }]
+    }, {
+      "command": "Join Selection",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "j"
+      }]
+    }, {
+      "command": "Duplicate",
+      "steps": [{
+        "type": "key",
+        "value": "option"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "drag"
+      }]
+    }, {
+      "command": "Exit Vector Edit Mode",
+      "steps": [{
+        "type": "key",
+        "value": "escape"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "return"
+      }]
+    }]
+  }, {
+    "title": "Text",
+    "shortcuts": [{
+      "command": "Type Tool",
+      "steps": [{
+        "type": "key",
+        "value": "t"
+      }]
+    }, {
+      "command": "Toggle Underline",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "u"
+      }]
+    }, {
+      "command": "Toggle Italic",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "i"
+      }]
+    }, {
+      "command": "Toggle Bold",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "b"
+      }]
+    }]
+  }, {
+    "title": "Object",
+    "shortcuts": [{
+      "command": "Move Tool",
+      "steps": [{
+        "type": "key",
+        "value": "v"
+      }]
+    }, {
+      "command": "Pen Tool",
+      "steps": [{
+        "type": "key",
+        "value": "p"
+      }]
+    }, {
+      "command": "Rectangle Tool",
+      "steps": [{
+        "type": "key",
+        "value": "r"
+      }]
+    }, {
+      "command": "Ellipse Tool",
+      "steps": [{
+        "type": "key",
+        "value": "o"
+      }]
+    }, {
+      "command": "Line Tool",
+      "steps": [{
+        "type": "key",
+        "value": "l"
+      }]
+    }, {
+      "command": "Frame Tool",
+      "steps": [{
+        "type": "key",
+        "value": "a"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "f"
+      }]
+    }, {
+      "command": "Slice Tool",
+      "steps": [{
+        "type": "key",
+        "value": "s"
+      }]
+    }, {
+      "command": "Copy",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "c"
+      }]
+    }, {
+      "command": "Cut",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "x"
+      }]
+    }, {
+      "command": "Paste",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "v"
+      }]
+    }, {
+      "command": "Duplicate",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "d"
+      }, {
+        "type": "instruction",
+        "value": "or"
+      }, {
+        "type": "key",
+        "value": "option"
+      }, {
+        "type": "instruction",
+        "value": "then drag"
+      }]
+    }, {
+      "command": "Group Selection",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "g"
+      }]
+    }, {
+      "command": "Ungroup Selection",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "g"
+      }]
+    }, {
+      "command": "Toggle Visibility",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "h"
+      }]
+    }, {
+      "command": "Toggle Lock",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "l"
+      }]
+    }, {
+      "command": "Flatten Selection",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "e"
+      }]
+    }, {
+      "command": "Outline Stroke",
+      "steps": [{
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "shift"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "o"
+      }]
+    }, {
+      "command": "Toggle Mask",
+      "steps": [{
+        "type": "key",
+        "value": "option"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "command"
+      }, {
+        "type": "instruction",
+        "value": "+"
+      }, {
+        "type": "key",
+        "value": "m"
+      }]
+    }]
+  }]
+}
