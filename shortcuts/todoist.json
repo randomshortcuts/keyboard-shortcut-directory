@@ -1,0 +1,94 @@
+{
+  "program": "todoist",
+  "groups": [{
+    "title": "Task Quick Add shortcuts",
+    "shortcuts": [{
+      "command": "Add a label",
+      "shortcut": "@"
+    }, {
+      "command": "Pick a project",
+      "shortcut": "#"
+    }, {
+      "command": "Add an assignee",
+      "shortcut": "+"
+    }, {
+      "command": "Set a priority level",
+      "shortcut": "p 1-4"
+    }, {
+      "command": "Add a comment to a newly created task (web, macOS, & Windows legacy only)",
+      "shortcut": "ctrl+m"
+    }]
+  }, {
+    "title": "Shortcuts that can be used anywhere",
+    "shortcuts": [{
+      "command": "Select and change multiple tasks at once",
+      "shortcut": "ctrl/shift (then click on multiple tasks)"
+    }, {
+      "command": "Add task",
+      "shortcut": "q"
+    }, {
+      "command": "Add new task at the bottom of the list",
+      "shortcut": "a"
+    }, {
+      "command": "Add new task at the top of the list",
+      "shortcut": "a"
+    }, {
+      "command": "Open search",
+      "shortcut": "/"
+    }]
+  }, {
+    "title": "Adding or editing tasks",
+    "shortcuts": [{
+      "command": "Cancel current changes",
+      "shortcut": "esc"
+    }, {
+      "command": "Save a newly created task and create a new one below it",
+      "shortcut": "ent"
+    }, {
+      "command": "Save changes to an existing task and create a new task below it",
+      "shortcut": "shift+ent"
+    }, {
+      "command": "Save a new task or save changes to an existing one and create a new task above it",
+      "shortcut": "ctrl+ent"
+    }, {
+      "command": "Move to the task above the task currently being edited",
+      "shortcut": "ctrl+up"
+    }, {
+      "command": "Move to the task below the task currently being edited",
+      "shortcut": "ctrl+down"
+    }]
+  }, {
+    "title": "Creating and completing sub-tasks",
+    "shortcuts": [{
+      "command": "Increase task indent (Works only inside projects)",
+      "shortcut": "cmd+right"
+    }, {
+      "command": "Decrease task indent (Only works inside projects)",
+      "shortcut": "cmd+left"
+    }, {
+      "command": "Complete a sub-task or recurring task and archive it",
+      "shortcut": "shift (then click)"
+    }]
+  }, {
+    "title": "Sorting tasks inside a project",
+    "shortcuts": [{
+      "command": "Sort by date",
+      "shortcut": "s"
+    }, {
+      "command": "Sort by priority",
+      "shortcut": "p"
+    }, {
+      "command": "Sort by assignee",
+      "shortcut": "r"
+    }]
+  }, {
+    "title": "Global shortcuts",
+    "shortcuts": [{
+      "command": "Show/hide Todoist",
+      "shortcut": "ctrl+cmd+t"
+    }, {
+      "command": "Open task Quick Add",
+      "shortcut": "ctrl+cmd+a"
+    }]
+  }]
+}
