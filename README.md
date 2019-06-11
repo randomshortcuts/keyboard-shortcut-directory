@@ -51,7 +51,7 @@ Listed below are examples of formatted keyboard shortcuts and their parsed meani
 | ------------------ | --------------- |
 | cmd+space          | `command` + `space` |
 | cmd+g p            | `command` + `g` then `p` |
-| (Type a search term,) return | Type a search term, then `return` |
+| (Type a search term, then press) return | Type a search term, then press `return` |
 | e/y                | `e` or `y`       |
 | F1-F12             | `F1` through `F12` |
 
