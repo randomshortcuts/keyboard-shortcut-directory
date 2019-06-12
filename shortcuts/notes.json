@@ -1,0 +1,130 @@
+{
+  "program": "notes",
+  "groups": [{
+    "title": "General",
+    "shortcuts": [{
+      "command": "Create a new note",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Create a new folder",
+      "shortcut": "shift+cmd+n"
+    }, {
+      "command": "Show the main Notes window",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Show or hide the Attachments Browser",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Search all notes",
+      "shortcut": "opt+cmd+f"
+    }, {
+      "command": "Move between the sidebar, notes list, and search field",
+      "shortcut": "tab"
+    }, {
+      "command": "Begin typing in the note selected in the notes list",
+      "shortcut": "ret"
+    }, {
+      "command": "Go back to the notes list",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Print a note",
+      "shortcut": "cmd+p"
+    }]
+  }, {
+    "title": "Editing",
+    "shortcuts": [{
+      "command": "Attach a file",
+      "shortcut": "shift+cmd+a"
+    }, {
+      "command": "Create a link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Insert a table",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Apply Title format",
+      "shortcut": "shift+cmd+t"
+    }, {
+      "command": "Apply Heading format",
+      "shortcut": "shift+cmd+h"
+    }, {
+      "command": "Apply Body format",
+      "shortcut": "shift+cmd+b"
+    }, {
+      "command": "Apply Checklist format",
+      "shortcut": "shift+cmd+l"
+    }, {
+      "command": "Increase font size",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Decrease font size",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Increase list level",
+      "shortcut": "cmd+]/tab"
+    }, {
+      "command": "Decrease list level",
+      "shortcut": "cmd+[/shift+tab"
+    }, {
+      "command": "Add a line break (soft return) to a list item or checklist",
+      "shortcut": "ctrl+ret"
+    }, {
+      "command": "Insert a tab character in a list item",
+      "shortcut": "opt+tab"
+    }, {
+      "command": "Mark or unmark a checklist item",
+      "shortcut": "shift+cmd+u"
+    }, {
+      "command": "Zoom in on note’s contents",
+      "shortcut": "shift+cmd+>"
+    }, {
+      "command": "Zoom out on note’s contents",
+      "shortcut": "shift+cmd+<"
+    }, {
+      "command": "Change size of note’s contents to default",
+      "shortcut": "shift+cmd+0"
+    }]
+  }, {
+    "title": "Navigating in tables",
+    "shortcuts": [{
+      "command": "Move down one row or add a new row at the bottom of the table",
+      "shortcut": "ret"
+    }, {
+      "command": "Add a new paragraph in a cell",
+      "shortcut": "opt+ret"
+    }, {
+      "command": "Add a new row above the current row",
+      "shortcut": "opt+cmd+up"
+    }, {
+      "command": "Add a new row below the current row",
+      "shortcut": "opt+cmd+down"
+    }, {
+      "command": "Add a new column to the right of the current column",
+      "shortcut": "opt+cmd+right"
+    }, {
+      "command": "Add a new column to the left of the current column",
+      "shortcut": "opt+cmd+left"
+    }, {
+      "command": "Move to the next cell to the right",
+      "shortcut": "tab"
+    }, {
+      "command": "Move to the next cell to the left",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Add a tab character in a cell",
+      "shortcut": "opt+tab"
+    }, {
+      "command": "Select a range of cells in a row",
+      "shortcut": "shift+left/shift+right"
+    }, {
+      "command": "Select a range of cells in a column",
+      "shortcut": "shift+up/shift+down"
+    }, {
+      "command": "Select the content of the current cell",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Select the entire table",
+      "shortcut": "cmd+a"
+    }]
+  }]
+}
