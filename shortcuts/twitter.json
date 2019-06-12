@@ -58,7 +58,7 @@
     "title": "Timelines",
     "shortcuts": [{
       "command": "Home",
-      "shortcut": "g p"
+      "shortcut": "g h"
     }, {
       "command": "Moments",
       "shortcut": "g o"
