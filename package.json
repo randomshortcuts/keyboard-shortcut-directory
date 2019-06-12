@@ -1,5 +1,5 @@
 {
-  "name": "keyboard-shortcuts",
+  "name": "keyboard-shortcut-directory",
   "version": "1.0.0",
   "description": "A JSON directory of keyboard shortcuts, written in a consistent syntax.",
   "main": "parseShortcuts.js",

@@ -1,4 +1,4 @@
-# Keyboard Shortcuts
+# Keyboard Shortcut Directory
 
 A JSON directory of keyboard shortcuts, written in a consistent syntax.
 
