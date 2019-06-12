@@ -1,11 +1,11 @@
 {
   "name": "keyboard-shortcut-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON directory of keyboard shortcuts, written in a consistent syntax.",
   "main": "parseShortcuts.js",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/cmdspaceorg/keyboard-shortcut-directory.git"
+    "type": "git",
+    "url": "https://github.com/cmdspaceorg/keyboard-shortcut-directory.git"
   },
   "scripts": {
     "test": "jest",
