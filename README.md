@@ -4,13 +4,11 @@ A JSON directory of keyboard shortcuts, written in a consistent syntax.
 
 ### Why?
 
-Used to power cmdspace.io
+Currently used to power [cmdspace.io](https://www.cmdspace.io).
 
 ## Formatting
 
-keyboard-shortcuts uses a standardized, abbreviated format so that shortcuts are easy to type. All characters should be lowercase.
-
-Shortcuts are organized into groups.
+keyboard-shortcut-directory uses a standardized, abbreviated format so that shortcuts are easy to type. 
 
 ### Keys
 
@@ -39,6 +37,7 @@ Shortcuts are organized into groups.
 | -             | through    |
 | (...)         | instruction|
 
+All characters should be lowercase.
 Instructions are surrounded by space on each side. "then" will not be placed before or after an instruction.
 E.g. `g p` will result in "g then p"
 but `cmd+g (then type what you need, then) p` will result in "`command` + `g` then type what you need, then `p`"
