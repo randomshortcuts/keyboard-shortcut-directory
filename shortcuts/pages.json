@@ -640,7 +640,7 @@
       "shortcut": "opt+shift+cmd+v"
     }, {
       "command": "Extend the selection from the selected cell to the destination cell",
-      "shortcut": "shift+click in the destination cell"
+      "shortcut": "shift (then click in the destination cell)"
     },{
       "command": "Begin text editing in a table",
       "shortcut": "ret"
