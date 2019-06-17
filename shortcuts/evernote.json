@@ -1,0 +1,295 @@
+{
+  "program": "evernote",
+  "groups": [{
+    "title": "Global",
+    "shortcuts": [{
+      "shortcut": "ctrl+cmd+n",
+      "command": "Quick Note"
+    }, {
+      "shortcut": "ctrl+opt+cmd+n",
+      "command": "New Note Window"
+    }, {
+      "shortcut": "ctrl+cmd+v",
+      "command": "Paste to Evernote"
+    }, {
+      "shortcut": "ctrl+cmd+c",
+      "command": "Clip Rectangle or Window"
+    }, {
+      "shortcut": "ctrl+cmd+e",
+      "command": "Search in Evernote"
+    }]
+  }, {
+    "title": "Application-wide",
+    "shortcuts": [{
+      "shortcut": "cmd+n",
+      "command": "New Note"
+    }, {
+      "shortcut": "opt+shift+cmd+n",
+      "command": "New Chat"
+    }, {
+      "shortcut": "shift+cmd+n",
+      "command": "New Notebook"
+    }, {
+      "shortcut": "ctrl+cmd+t",
+      "command": "New Tag"
+    }, {
+      "shortcut": "opt+cmd+n",
+      "command": "New Window"
+    }, {
+      "shortcut": "cmd+t",
+      "command": "New Tab"
+    }, {
+      "shortcut": "ctrl+cmd+s",
+      "command": "Sync"
+    }, {
+      "shortcut": "cmd+w",
+      "command": "Close"
+    }, {
+      "shortcut": "cmd+s",
+      "command": "Save"
+    }, {
+      "shortcut": "cmd+y",
+      "command": "Quick Look Attachments"
+    }, {
+      "shortcut": "cmd+p",
+      "command": "Print"
+    }, {
+      "shortcut": "opt+cmd+t",
+      "command": "Show/Hide Toolbar"
+    }, {
+      "shortcut": "opt+cmd+s",
+      "command": "Show/Hide Sidebar"
+    }, {
+      "shortcut": "opt+cmd+0",
+      "command": "Work Chat"
+    }, {
+      "shortcut": "opt+cmd+1",
+      "command": "Notes"
+    }, {
+      "shortcut": "opt+cmd+2",
+      "command": "Notebooks"
+    }, {
+      "shortcut": "opt+cmd+3",
+      "command": "Tags"
+    }, {
+      "shortcut": "opt+cmd+4",
+      "command": "Atlas / Business Home (Evernote Business only)"
+    }, {
+      "shortcut": "opt+cmd+5",
+      "command": "Atlas (Evernote Business only)"
+    }, {
+      "shortcut": "opt+cmd+6",
+      "command": "Announcements (Evernote Business only)"
+    }, {
+      "shortcut": "opt+cmd+7",
+      "command": "Announcements (Evernote Business only)"
+    }, {
+      "shortcut": "shift+cmd+a",
+      "command": "Show All Notes"
+    }, {
+      "shortcut": "cmd+j",
+      "command": "Jump to Notebook"
+    }, {
+      "shortcut": "shift+cmd+j",
+      "command": "Jump to Tag"
+    }, {
+      "shortcut": "cmd+|",
+      "command": "Select Note List"
+    }, {
+      "shortcut": "cmd+[",
+      "command": "Back"
+    }, {
+      "shortcut": "cmd+]",
+      "command": "Forward"
+    }, {
+      "shortcut": "ctrl+cmd+f",
+      "command": "Enter Full Screen"
+    }, {
+      "shortcut": "cmd+1-9",
+      "command": "Go to Shortcuts 1-9"
+    }, {
+      "shortcut": "cmd+,",
+      "command": "Preferences"
+    }, {
+      "shortcut": "ctrl+cmd+a",
+      "command": "Switch User"
+    }, {
+      "shortcut": "cmd+h",
+      "command": "Hide Evernote"
+    }, {
+      "shortcut": "opt+cmd+h",
+      "command": "Hide Others"
+    }, {
+      "shortcut": "cmd+q",
+      "command": "Quit Evernote"
+    }, {
+      "shortcut": "cmd+m",
+      "command": "Minimize"
+    }, {
+      "shortcut": "/",
+      "command": "Zoom"
+    }]
+  }, {
+    "title": "Note Editor",
+    "shortcuts": [{
+      "shortcut": "cmd+z",
+      "command": "Undo"
+    }, {
+      "shortcut": "shift+cmd+z",
+      "command": "Redo"
+    }, {
+      "shortcut": "cmd+x",
+      "command": "Cut"
+    }, {
+      "shortcut": "cmd+c",
+      "command": "Copy"
+    }, {
+      "shortcut": "cmd+v",
+      "command": "Paste"
+    }, {
+      "shortcut": "shift+cmd+v",
+      "command": "Paste and Match Style"
+    }, {
+      "shortcut": "cmd+a",
+      "command": "Select All"
+    }, {
+      "shortcut": "shift+cmd+x",
+      "command": "Encrypt Selected Text"
+    }, {
+      "shortcut": "opt+cmd+f",
+      "command": "Search Notes"
+    }, {
+      "shortcut": "cmd+r",
+      "command": "Reset Search"
+    }, {
+      "shortcut": "cmd+f",
+      "command": "Find Within Note"
+    }, {
+      "shortcut": "cmd+g",
+      "command": "Find Next"
+    }, {
+      "shortcut": "shift+cmd+g",
+      "command": "Find Previous"
+    }, {
+      "shortcut": "cmd+:",
+      "command": "Show Spelling and Grammar"
+    }, {
+      "shortcut": "cmd+;",
+      "command": "Check Document Now"
+    }, {
+      "shortcut": "fn fn",
+      "command": "Start Dictation"
+    }, {
+      "shortcut": "ctrl+cmd+space",
+      "command": "Emoji & Symbols"
+    }, {
+      "shortcut": "cmd+/",
+      "command": "Copy Public Link"
+    }, {
+      "shortcut": "cmd+ret",
+      "command": "Present"
+    }, {
+      "shortcut": "opt+cmd+ret",
+      "command": "Present on Another Screen"
+    }, {
+      "shortcut": "cmd+l",
+      "command": "Edit Note Title"
+    }, {
+      "shortcut": "cmd+'",
+      "command": "Edit Tags"
+    }, {
+      "shortcut": "shift+cmd+i",
+      "command": "Show/Hide Note Info"
+    }, {
+      "shortcut": "ctrl+opt+cmd+c",
+      "command": "Copy Note Link"
+    }, {
+      "shortcut": "ctrl+cmd+m",
+      "command": "Move To Notebook"
+    }, {
+      "shortcut": "shift+cmd+m",
+      "command": "Merge Notes"
+    }, {
+      "shortcut": "shift+cmd+c",
+      "command": "Show Colors"
+    }, {
+      "shortcut": "opt+cmd+{",
+      "command": "Align Left"
+    }, {
+      "shortcut": "opt+cmd+|",
+      "command": "Center"
+    }, {
+      "shortcut": "opt+cmd+}",
+      "command": "Align Right"
+    }, {
+      "shortcut": "shift+cmd+]",
+      "command": "Increase Indent Level"
+    }, {
+      "shortcut": "shift+cmd+[",
+      "command": "Decrease Indent Level"
+    }, {
+      "shortcut": "shift+cmd+u",
+      "command": "Toggle Bulleted List"
+    }, {
+      "shortcut": "shift+cmd+o",
+      "command": "Toggle Numbered List"
+    }, {
+      "shortcut": "tab",
+      "command": "Increase List Level"
+    }, {
+      "shortcut": "shift+tab",
+      "command": "Decrease List Level"
+    }, {
+      "shortcut": "shift+cmd+l",
+      "command": "Insert Table"
+    }, {
+      "shortcut": "cmd+k",
+      "command": "Add Link"
+    }, {
+      "shortcut": "shift+cmd+k",
+      "command": "Remove Link"
+    }, {
+      "shortcut": "cmd+b",
+      "command": "Bold"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Italic"
+    }, {
+      "shortcut": "cmd+u",
+      "command": "Underline"
+    }, {
+      "shortcut": "ctrl+cmd+k",
+      "command": "Strikethrough"
+    }, {
+      "shortcut": "ctrl+cmd+h",
+      "command": "Highlight"
+    }, {
+      "shortcut": "ctrl+cmd++",
+      "command": "Superscript"
+    }, {
+      "shortcut": "ctrl+cmd+-",
+      "command": "Subscript"
+    }, {
+      "shortcut": "cmd++",
+      "command": "Bigger"
+    }, {
+      "shortcut": "cmd+-",
+      "command": "Smaller"
+    }, {
+      "shortcut": "shift+cmd+t",
+      "command": "Insert To-do"
+    }, {
+      "shortcut": "shift+cmd+h",
+      "command": "Insert Horizontal Rule"
+    }, {
+      "shortcut": "shift+cmd+d",
+      "command": "Insert Date"
+    }, {
+      "shortcut": "opt+shift+cmd+d",
+      "command": "Insert Time"
+    }, {
+      "shortcut": "shift+cmd+f",
+      "command": "Simplify Formatting"
+    }]
+  }]
+}
