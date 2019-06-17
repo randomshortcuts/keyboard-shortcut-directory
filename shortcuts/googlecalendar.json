@@ -1,0 +1,67 @@
+{
+  "program": "googlecalendar",
+  "groups": [{
+    "title": "Move around the calendar",
+    "shortcuts": [{
+      "command": "Change your calendar view to the next date range",
+      "shortcut": "j/n"
+    }, {
+      "command": "Refresh your calendar",
+      "shortcut": "r"
+    }, {
+      "command": "Move to the current day",
+      "shortcut": "t"
+    }, {
+      "command": "Move to add a calendar section",
+      "shortcut": "+"
+    }, {
+      "command": "Put your cursor in the search box",
+      "shortcut": "/"
+    }, {
+      "command": "Go to the Settings page",
+      "shortcut": "s"
+    }, {
+      "command": "Go to a specific date ",
+      "shortcut": "g"
+    }]
+  }, {
+    "title": "Change your calendar view",
+    "shortcuts": [{
+      "command": "Day view",
+      "shortcut": "1/d"
+    }, {
+      "command": "Week view",
+      "shortcut": "2/w"
+    }, {
+      "command": "Month view",
+      "shortcut": "3/m"
+    }, {
+      "command": "Custom view",
+      "shortcut": "4/x"
+    }, {
+      "command": "Agenda view",
+      "shortcut": "5/a"
+    }]
+  }, {
+    "title": "Make changes to an event",
+    "shortcuts": [{
+      "command": "Create a new event",
+      "shortcut": "c"
+    }, {
+      "command": "See an event's details",
+      "shortcut": "e"
+    }, {
+      "command": "Delete an event",
+      "shortcut": "backspace/del"
+    }, {
+      "command": "Undo",
+      "shortcut": "z"
+    }, {
+      "command": "Save event (from the event details page)",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Return to calendar grid from an event details page",
+      "shortcut": "esc"
+    }]
+  }]
+}
