@@ -184,16 +184,16 @@
       "shortcut": "cmd+2"
     }, {
       "command": "Select Todo in the sidebar",
-      "shortcut": "cmd+1"
+      "shortcut": "cmd+3"
     }, {
       "command": "Select Today in the sidebar",
-      "shortcut": "cmd+1"
+      "shortcut": "cmd+4"
     }, {
       "command": "Select Archive in the sidebar",
-      "shortcut": "cmd+1"
+      "shortcut": "cmd+5"
     }, {
       "command": "Select Trash in the sidebar",
-      "shortcut": "cmd+1"
+      "shortcut": "cmd+6"
     }, {
       "command": "Navigate back in visualized notes history",
       "shortcut": "opt+cmd+left"
