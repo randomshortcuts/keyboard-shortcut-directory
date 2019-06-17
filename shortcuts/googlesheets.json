@@ -1,0 +1,352 @@
+{
+  "program": "googlesheets",
+  "groups": [{
+    "title": "Common actions",
+    "shortcuts": [{
+      "command": "Select column",
+      "shortcut": "ctrl+space"
+    }, {
+      "command": "Select row",
+      "shortcut": "shift+space"
+    }, {
+      "command": "Select all",
+      "shortcut": "cmd+shift+space"
+    }, {
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "cmd+shift+z/cmd+y"
+    }, {
+      "command": "Find",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Find and replace",
+      "shortcut": "cmd+shift+h"
+    }, {
+      "command": "Fill range",
+      "shortcut": "cmd+ent"
+    }, {
+      "command": "Fill down",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Fill right",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Save",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Open",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Print",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste values only",
+      "shortcut": "cmd+shift+v"
+    }, {
+      "command": "Show common keyboard shortcuts",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Compact controls",
+      "shortcut": "ctrl+shift+f"
+    }, {
+      "command": "Input tools on/off(available in spreadsheets in non-Latin languages)",
+      "shortcut": "cmd+shift+k"
+    }, {
+      "command": "Select input tools",
+      "shortcut": "cmd+opt+shift+k"
+    }, {
+      "command": "Search the menus",
+      "shortcut": "opt+/"
+    }]
+  }, {
+    "title": "Format cells",
+    "shortcuts": [{
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Strikethrough",
+      "shortcut": "opt+shift+5"
+    }, {
+      "command": "Center align",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Left align",
+      "shortcut": "cmd+shift+l"
+    }, {
+      "command": "Right align",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Apply top border",
+      "shortcut": "opt+shift+1"
+    }, {
+      "command": "Apply right border",
+      "shortcut": "opt+shift+2"
+    }, {
+      "command": "Apply bottom border",
+      "shortcut": "opt+shift+3"
+    }, {
+      "command": "Apply left border",
+      "shortcut": "opt+shift+4"
+    }, {
+      "command": "Remove borders",
+      "shortcut": "opt+shift+6"
+    }, {
+      "command": "Apply outer border",
+      "shortcut": "opt+shift+7/cmd+shift+7"
+    }, {
+      "command": "Insert link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Insert time",
+      "shortcut": "cmd+shift+;"
+    }, {
+      "command": "Insert date",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Insert date and time",
+      "shortcut": "cmd+opt+shift+;"
+    }, {
+      "command": "Format as decimal",
+      "shortcut": "ctrl+shift+1"
+    }, {
+      "command": "Format as time",
+      "shortcut": "ctrl+shift+2"
+    }, {
+      "command": "Format as date",
+      "shortcut": "ctrl+shift+3"
+    }, {
+      "command": "Format as currency",
+      "shortcut": "ctrl+shift+4"
+    }, {
+      "command": "Format as percentage",
+      "shortcut": "ctrl+shift+5"
+    }, {
+      "command": "Format as exponent",
+      "shortcut": "ctrl+shift+6"
+    }, {
+      "command": "Clear formatting",
+      "shortcut": "cmd+\\"
+    }]
+  }, {
+    "title": "Navigate spreadsheet",
+    "shortcuts": [{
+      "command": "Move to beginning of row",
+      "shortcut": "fn+left"
+    }, {
+      "command": "Move to beginning of sheet",
+      "shortcut": "cmd+fn+left"
+    }, {
+      "command": "Move to end of row",
+      "shortcut": "fn+right"
+    }, {
+      "command": "Move to end of sheet",
+      "shortcut": "cmd+fn+right"
+    }, {
+      "command": "Scroll to active cell",
+      "shortcut": "cmd+backspace"
+    }, {
+      "command": "Move to next sheet",
+      "shortcut": "opt+down"
+    }, {
+      "command": "Move to previous sheet",
+      "shortcut": "opt+up"
+    }, {
+      "command": "Display list of sheets",
+      "shortcut": "opt+shift+k"
+    }, {
+      "command": "Open hyperlink",
+      "shortcut": "opt+ent"
+    }, {
+      "command": "Open Explore",
+      "shortcut": "opt+shift+x"
+    }, {
+      "command": "Go to side panel",
+      "shortcut": "cmd+opt+,"
+    }, {
+      "command": "Move focus out of spreadsheet",
+      "shortcut": "ctrl+cmd+shift+m"
+    }, {
+      "command": "Move to quicksum (when a range of cells is selected)",
+      "shortcut": "opt+shift+q"
+    }, {
+      "command": "Move focus to popup (for links, bookmarks, and images)",
+      "shortcut": "(holding) ctrl+cmd (, press) e (then) p"
+    }, {
+      "command": "Open drop-down menu on filtered cell",
+      "shortcut": "ctrl+cmd+r"
+    }, {
+      "command": "Open revision history",
+      "shortcut": "cmd+opt+shift+h"
+    }, {
+      "command": "Open chat inside the spreadsheet",
+      "shortcut": "shift+esc"
+    }, {
+      "command": "Close drawing editor",
+      "shortcut": "cmd+esc/shift+esc"
+    }]
+  }, {
+    "title": "Edit notes and comments",
+    "shortcuts": [{
+      "command": "Insert/edit note",
+      "shortcut": "shift+f2"
+    }, {
+      "command": "Insert/edit comment",
+      "shortcut": "cmd+opt+m"
+    }, {
+      "command": "Open comment discussion thread",
+      "shortcut": "cmd+opt+shift+a"
+    }, {
+      "command": "Enter current comment",
+      "shortcut": "(holding) ctrl+cmd(, press) e c"
+    }, {
+      "command": "Move to next comment",
+      "shortcut": "(holding) ctrl+cmd(, press) n c"
+    }, {
+      "command": "Move to previous comment",
+      "shortcut": "(holding) ctrl+cmd(, press) p c"
+    }]
+  }, {
+    "title": "Open a menu",
+    "shortcuts": [{
+      "command": "File menu",
+      "shortcut": "ctrl+opt+f"
+    }, {
+      "command": "Edit menu",
+      "shortcut": "ctrl+opt+e"
+    }, {
+      "command": "View menu",
+      "shortcut": "ctrl+opt+v"
+    }, {
+      "command": "Insert menu",
+      "shortcut": "ctrl+opt+i"
+    }, {
+      "command": "Format menu",
+      "shortcut": "ctrl+opt+o"
+    }, {
+      "command": "Data menu",
+      "shortcut": "ctrl+opt+d"
+    }, {
+      "command": "Tools menu",
+      "shortcut": "ctrl+opt+t"
+    }, {
+      "command": "Open insert menu",
+      "shortcut": "cmd+opt+= (with cells selected)"
+    }, {
+      "command": "Open delete menu",
+      "shortcut": "cmd+opt+- (with cells selected)"
+    }, {
+      "command": "Form menu (present when the spreadsheet is connected to a form)",
+      "shortcut": "ctrl+opt+m"
+    }, {
+      "command": "Add-ons menu",
+      "shortcut": "ctrl+opt+n"
+    }, {
+      "command": "Help menu",
+      "shortcut": "ctrl+opt+h"
+    }, {
+      "command": "Accessibility menu (present when screen reader support is enabled)",
+      "shortcut": "ctrl+opt+a"
+    }, {
+      "command": "Sheet menu(copy, delete, and other sheet actions)",
+      "shortcut": "opt+shift+s"
+    }, {
+      "command": "Context menu",
+      "shortcut": "cmd+shift+\\"
+    }]
+  }, {
+    "title": "Add or change rows and columns",
+    "shortcuts": [{
+      "command": "Insert rows above",
+      "shortcut": "cmd+opt+= (with rows selected)/ctrl+opt+i r"
+    }, {
+      "command": "Insert rows below",
+      "shortcut": "ctrl+opt+i b"
+    }, {
+      "command": "Insert columns to the left",
+      "shortcut": "cmd+opt+= (with columns selected)/ctrl+opt+i c"
+    }, {
+      "command": "Insert columns to the right",
+      "shortcut": "ctrl+opt+i o"
+    }, {
+      "command": "Delete rows",
+      "shortcut": "cmd+opt+- (with rows selected)/ctrl+opt+e d"
+    }, {
+      "command": "Delete columns",
+      "shortcut": "cmd+opt+- (with columns selected)/ctrl+opt+e e"
+    }, {
+      "command": "Hide row",
+      "shortcut": "cmd+opt+9"
+    }, {
+      "command": "Hide column",
+      "shortcut": "cmd+opt+0"
+    }, {
+      "command": "Group rows or columns",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Ungroup rows or columns",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Expand grouped rows or columns",
+      "shortcut": "opt+shift+down"
+    }, {
+      "command": "Collapse grouped rows or columns",
+      "shortcut": "opt+shift+up"
+    }]
+  }, {
+    "title": "Use formulas",
+    "shortcuts": [{
+      "command": "Show all formulas",
+      "shortcut": "ctrl+~"
+    }, {
+      "command": "Insert array formula",
+      "shortcut": "cmd+shift+ent"
+    }, {
+      "command": "Collapse an expanded array formula",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Show/hide formula help(when entering a formula)",
+      "shortcut": "shift+fn+f1"
+    }, {
+      "command": "Full/compact formula help(when entering a formula)",
+      "shortcut": "fn+f1"
+    }, {
+      "command": "Absolute/relative references(when entering a formula)",
+      "shortcut": "fn+f4"
+    }, {
+      "command": "Toggle formula result previews(when entering a formula)",
+      "shortcut": "fn+f9"
+    }, {
+      "command": "Resize formula bar(move up or down)",
+      "shortcut": "ctrl+opt+up/ctrl+opt+down"
+    }]
+  }, {
+    "title": "Help for screen readers",
+    "shortcuts": [{
+      "command": "Turn on screen reader supportLearn more about using Google Sheets with a screen reader",
+      "shortcut": "cmd+opt+z"
+    }, {
+      "command": "Read column",
+      "shortcut": "cmd+opt+shift+c"
+    }, {
+      "command": "Read row",
+      "shortcut": "cmd+opt+shift+r"
+    }]
+  }]
+}
