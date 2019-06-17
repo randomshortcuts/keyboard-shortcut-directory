@@ -1,0 +1,700 @@
+{
+  "program": "pages",
+  "groups": [{
+    "title": "General",
+    "shortcuts": [{
+      "command": "Start dictation",
+      "shortcut": "(press) fn (twice)"
+    }, {
+      "command": "Open the template chooser",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Open the template chooser and show the Language pop-up menu",
+      "shortcut": "opt+cmd+n"
+    }, {
+      "command": "Close the template chooser",
+      "shortcut": "esc"
+    }, {
+      "command": "Open an existing document",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Save a document",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Save As",
+      "shortcut": "opt+shift+cmd+s"
+    }, {
+      "command": "Duplicate a document",
+      "shortcut": "shift+cmd+s"
+    }, {
+      "command": "Print a document",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Open Pages Help",
+      "shortcut": "shift+cmd+?"
+    }, {
+      "command": "Close a window",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Close all windows",
+      "shortcut": "opt+cmd+w"
+    }, {
+      "command": "Minimize a window",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "Minimize all windows",
+      "shortcut": "opt+cmd+m"
+    }, {
+      "command": "Enter full-screen view",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": "Zoom in",
+      "shortcut": "cmd+>"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "cmd+<"
+    }, {
+      "command": "Zoom to selection",
+      "shortcut": "shift+cmd+0"
+    }, {
+      "command": "Return to actual size",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Show or hide the tab bar",
+      "shortcut": "shift+cmd+t"
+    }, {
+      "command": "Show page thumbnails",
+      "shortcut": "opt+cmd+p"
+    }, {
+      "command": "Show or hide the ruler",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Open the Page Setup window",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Show or hide layout boundaries",
+      "shortcut": "shift+cmd+l"
+    }, {
+      "command": "Show formatting characters (invisibles)",
+      "shortcut": "shift+cmd+i"
+    }, {
+      "command": "Choose a file to insert",
+      "shortcut": "shift+cmd+v"
+    }, {
+      "command": "Show the Colors window",
+      "shortcut": "shift+cmd+c"
+    }, {
+      "command": "Hide or show the toolbar",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Rearrange an item in the toolbar",
+      "shortcut": "cmd (then drag)"
+    }, {
+      "command": "Remove an item from the toolbar",
+      "shortcut": "cmd (then drag away from the toolbar)"
+    }, {
+      "command": "Hide or show sidebars on the right side of the Pages window",
+      "shortcut": "opt+cmd+i"
+    }, {
+      "command": "Open the next tab in the sidebar",
+      "shortcut": "ctrl+`"
+    }, {
+      "command": "Open the previous tab in the sidebar",
+      "shortcut": "shift+ctrl+`"
+    }, {
+      "command": "Hide Pages",
+      "shortcut": "cmd+h"
+    }, {
+      "command": "Hide windows of other applications",
+      "shortcut": "opt+cmd+h"
+    }, {
+      "command": "Undo the last action",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo the last action",
+      "shortcut": "shift+cmd+z"
+    }, {
+      "command": "Open Pages preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Quit Pages",
+      "shortcut": "cmd+q"
+    }, {
+      "command": "Quit Pages and keep windows open",
+      "shortcut": "opt+cmd+q"
+    }]
+  }, {
+    "title": "Move around within a document",
+    "shortcuts": [{
+      "command": "Move one character to the left",
+      "shortcut": "left"
+    }, {
+      "command": "Move one character to the right",
+      "shortcut": "right"
+    }, {
+      "command": "Move one character backward",
+      "shortcut": "ctrl+b"
+    }, {
+      "command": "Move one character forward",
+      "shortcut": "ctrl+f"
+    }, {
+      "command": "Move to the line above",
+      "shortcut": "up"
+    }, {
+      "command": "Move to the line below",
+      "shortcut": "down"
+    }, {
+      "command": "Move to the beginning of the current or previous word",
+      "shortcut": "ctrl+opt+b"
+    }, {
+      "command": "Move to the left edge of the current word",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Move to the end of the current or next word",
+      "shortcut": "ctrl+opt+f"
+    }, {
+      "command": "Move to the right edge of the current word",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Move the insertion point to the beginning of the current text area ",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Move the insertion point to the bottom of the current text area ",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Move to the beginning of the paragraph",
+      "shortcut": "ctrl+a/opt+up"
+    }, {
+      "command": "Move to the end of the paragraph",
+      "shortcut": "ctrl+e/opt+down"
+    }, {
+      "command": "Move to the left edge of the current line",
+      "shortcut": "cmd+left"
+    }, {
+      "command": "Move to the right edge of the current line",
+      "shortcut": "cmd+right"
+    }, {
+      "command": "Scroll up one page without moving the insertion point",
+      "shortcut": "fn+up"
+    }, {
+      "command": "Scroll down one page without moving the insertion point",
+      "shortcut": "fn+down"
+    }, {
+      "command": "Scroll up one page and move the insertion point",
+      "shortcut": "opt+page up"
+    }, {
+      "command": "Scroll down one page and move the insertion point",
+      "shortcut": "ctrl+v"
+    }, {
+      "command": "Move to the beginning of the document without moving the insertion point",
+      "shortcut": "home/fn+left"
+    }, {
+      "command": "Move to the end of the document without moving the insertion point",
+      "shortcut": "end/fn+right"
+    }, {
+      "command": "Center the insertion point in the center of the application window",
+      "shortcut": "ctrl+l"
+    }]
+  }, {
+    "title": "Select text",
+    "shortcuts": [{
+      "command": "Select all objects and text",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Deselect all objects and text",
+      "shortcut": "shift+cmd+a"
+    }, {
+      "command": "Extend the selection one character to the right",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Extend the selection one character to the left",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Extend the selection to the end of the current word, then to the end of subsequent words",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Extend the selection to the beginning of the current word",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Extend the selection to the end of the current line",
+      "shortcut": "shift+cmd+right"
+    }, {
+      "command": "Extend the selection to the beginning of the current line",
+      "shortcut": "shift+cmd+left"
+    }, {
+      "command": "Extend the selection to the line above",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Extend the selection to the line below",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Extend the selection to the beginning of the current paragraph",
+      "shortcut": "opt+shift+up"
+    }, {
+      "command": "Extend the selection to the end of the current paragraph",
+      "shortcut": "opt+shift+down"
+    }, {
+      "command": "Extend the selection to the beginning of the text",
+      "shortcut": "shift+cmd+up/shift+home"
+    }, {
+      "command": "Extend the selection to the end of the text",
+      "shortcut": "shift+cmd+down/shift+end"
+    }, {
+      "command": "Select a bullet and its text",
+      "shortcut": "click the bullet"
+    }, {
+      "command": "Move a bullet and its text, with its sub-bullets and text",
+      "shortcut": "click the bullet and drag"
+    }]
+  }, {
+    "title": "Format text",
+    "shortcuts": [{
+      "command": "Show the Fonts window",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Show the Colors window",
+      "shortcut": "shift+cmd+c"
+    }, {
+      "command": "Apply boldface to selected text",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Apply italic to selected text",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Apply underline to selected text",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Delete the previous character or selection",
+      "shortcut": "del/ctrl+h"
+    }, {
+      "command": "Delete the next character or selection",
+      "shortcut": "ctrl+d"
+    }, {
+      "command": "Delete the word before the insertion point",
+      "shortcut": "opt+del"
+    }, {
+      "command": "Delete the word after the insertion point",
+      "shortcut": "fn+opt+del"
+    }, {
+      "command": "Delete the text between the insertion point and the next paragraph break",
+      "shortcut": "ctrl+k"
+    }, {
+      "command": "Make the font size bigger",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Make the font size smaller",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Decrease (tighten) the space between selected characters",
+      "shortcut": "opt+cmd+["
+    }, {
+      "command": "Increase (loosen) the space between selected characters",
+      "shortcut": "opt+cmd+]"
+    }, {
+      "command": "Make the text superscript",
+      "shortcut": "ctrl+shift+cmd++"
+    }, {
+      "command": "Make the text subscript",
+      "shortcut": "ctrl+cmd+-"
+    }, {
+      "command": "Insert an equation",
+      "shortcut": "opt+cmd+e"
+    }, {
+      "command": "Align the text flush left",
+      "shortcut": "cmd+{"
+    }, {
+      "command": "Center the text",
+      "shortcut": "cmd+|"
+    }, {
+      "command": "Align the text flush right",
+      "shortcut": "cmd+}"
+    }, {
+      "command": "Align the text flush left and flush right (justify)",
+      "shortcut": "opt+cmd+|"
+    }, {
+      "command": "Decrease the indent level of a block of text or a list item",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Increase the indent level of a block of text or a list item",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Decrease the indent level of a list item",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Increase the indent level of a list item",
+      "shortcut": "tab"
+    }, {
+      "command": "Turn text into a link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Add a bookmark",
+      "shortcut": "opt+cmd+b"
+    }, {
+      "command": "Cut the selection",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy the selection",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Copy the paragraph style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste the selection",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste the paragraph style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Paste and match the style of the destination text",
+      "shortcut": "opt+shift+cmd+v"
+    }, {
+      "command": "Copy the graphic style of text",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste the graphic style of text",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Add a range to (or remove it from) the selection",
+      "shortcut": "shift+drag"
+    }, {
+      "command": "Insert a nonbreaking space",
+      "shortcut": "opt+space"
+    }, {
+      "command": "Insert a line break (soft return)",
+      "shortcut": "shift+ret"
+    }, {
+      "command": "Insert a paragraph break",
+      "shortcut": "ret"
+    }, {
+      "command": "Insert a new line after the insertion point",
+      "shortcut": "ctrl+o"
+    }, {
+      "command": "Insert a page break",
+      "shortcut": "fn+cmd+ret"
+    }, {
+      "command": "Enter special characters",
+      "shortcut": "ctrl+cmd+space"
+    }, {
+      "command": "Transpose the characters on either side of the insertion point",
+      "shortcut": "ctrl+t"
+    }, {
+      "command": "Add an EndNote bibliography",
+      "shortcut": "shift+opt+cmd+e"
+    }]
+  }, {
+    "title": "Find and delete text, use comments, and check spelling",
+    "shortcuts": [{
+      "command": "Delete the previous character or selection",
+      "shortcut": "del"
+    }, {
+      "command": "Delete the next character or selection",
+      "shortcut": "fn+del"
+    }, {
+      "command": "Find",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Find next (while in the Find window)",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Find previous (while in the Find window)",
+      "shortcut": "shift+cmd+g"
+    }, {
+      "command": "Place the selected text in the Find & Replace text field",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Replace text",
+      "shortcut": "ret"
+    }, {
+      "command": "Scroll the window to show the selected text or object",
+      "shortcut": "cmd+j"
+    }, {
+      "command": "Hide the Find window",
+      "shortcut": "esc"
+    }, {
+      "command": "Look up the word at the insertion point",
+      "shortcut": "ctrl+cmd+d"
+    }, {
+      "command": "Display a list of words to complete the selected word",
+      "shortcut": "opt+esc"
+    }, {
+      "command": "Check spelling and grammar",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Show the “Spelling and Grammar” window",
+      "shortcut": "shift+cmd+:"
+    }, {
+      "command": "Highlight text",
+      "shortcut": "shift+cmd+h"
+    }, {
+      "command": "Open a new comment for the selected text, object, or table cell",
+      "shortcut": "shift+cmd+k"
+    }, {
+      "command": "Save a comment",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Show the next comment",
+      "shortcut": "opt+cmd+k"
+    }, {
+      "command": "Show the previous comment",
+      "shortcut": "opt+shift+cmd+k"
+    }, {
+      "command": "Accept a change (when change tracking is on)",
+      "shortcut": "opt+cmd+a"
+    }, {
+      "command": "Reject a change (when change tracking is on)",
+      "shortcut": "opt+cmd+r"
+    }, {
+      "command": "Show or hide word count",
+      "shortcut": "shift+cmd+w"
+    }, {
+      "command": "Enter or exit edit master page view",
+      "shortcut": "shift+cmd+e"
+    }]
+  }, {
+    "title": "Move, group, layer, and resize objects",
+    "shortcuts": [{
+      "command": "Select all objects",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Deselect all objects",
+      "shortcut": "shift+cmd+a"
+    }, {
+      "command": "Scroll zoom",
+      "shortcut": "opt+cmd (then scroll)"
+    }, {
+      "command": "Add or remove objects from the selection",
+      "shortcut": "cmd (then drag)"
+    }, {
+      "command": "Select the previous object on the page",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Select or deselect additional objects",
+      "shortcut": "cmd+click/shift+click"
+    }, {
+      "command": "Move selected objects",
+      "shortcut": "drag"
+    }, {
+      "command": "Move the selected object one point",
+      "shortcut": "(any) arrow (key)"
+    }, {
+      "command": "Move the selected object ten points",
+      "shortcut": "shift (then press any) arrow (key)"
+    }, {
+      "command": "Move the selected object one screen pixel",
+      "shortcut": "(any) arrow (key)"
+    }, {
+      "command": "Move the selected object ten screen pixels",
+      "shortcut": "shift (then press any) arrow (key)"
+    }, {
+      "command": "Copy the graphic style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste the graphic style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Apply the shape style but not its text style",
+      "shortcut": "opt (then click the shape style in the sidebar)"
+    }, {
+      "command": "Send the selected object to the back",
+      "shortcut": "shift+cmd+b"
+    }, {
+      "command": "Send the selected object one layer back",
+      "shortcut": "opt+shift+cmd+b"
+    }, {
+      "command": "Bring the selected object to the front",
+      "shortcut": "shift+cmd+f"
+    }, {
+      "command": "Bring the selected object one layer forward",
+      "shortcut": "opt+shift+cmd+f"
+    }, {
+      "command": "Group selected objects",
+      "shortcut": "opt+cmd+g"
+    }, {
+      "command": "Ungroup selected objects",
+      "shortcut": "opt+shift+cmd+g"
+    }, {
+      "command": "Select the next object in a group",
+      "shortcut": "tab"
+    }, {
+      "command": "Select the previous object in a group",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "End editing an object, then select the group",
+      "shortcut": "(select an object in the group, then press) cmd+ret"
+    }, {
+      "command": "Lock selected objects",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Unlock selected objects",
+      "shortcut": "opt+cmd+l"
+    }, {
+      "command": "Duplicate the object",
+      "shortcut": "opt (then press any) arrow (key)/opt+drag"
+    }, {
+      "command": "Constrain the movement of the object horizontally, vertically, or diagonally (45°)",
+      "shortcut": "shift+drag"
+    }, {
+      "command": "Resize the object",
+      "shortcut": "drag a selection handle"
+    }, {
+      "command": "Disable alignment guides while moving or resizing an object",
+      "shortcut": "cmd+drag"
+    }, {
+      "command": "Resize the object from the center",
+      "shortcut": "opt (then drag a selection handle)"
+    }, {
+      "command": "Constrain the aspect ratio when resizing the object",
+      "shortcut": "shift (then drag a selection handle)"
+    }, {
+      "command": "Constrain the aspect ratio when resizing the object from the center",
+      "shortcut": "opt+shift (then drag a selection handle)"
+    }, {
+      "command": "Rotate the object",
+      "shortcut": "cmd (then drag a selection handle)"
+    }, {
+      "command": "Rotate the object 45°",
+      "shortcut": "press shift while rotating"
+    }, {
+      "command": "Rotate the object around the opposite handle (instead of the center)",
+      "shortcut": "opt+cmd (then drag a selection handle)"
+    }, {
+      "command": "Rotate the object 45° around the opposite handle (instead of the center)",
+      "shortcut": "opt+shift+cmd (then drag a selection handle)"
+    }, {
+      "command": "Mask or unmask the image",
+      "shortcut": "shift+cmd+m"
+    }, {
+      "command": "Hide image mask controls",
+      "shortcut": "ret, ent,/double-click"
+    }, {
+      "command": "Exit text editing and select the object",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Choose an object to insert",
+      "shortcut": "shift+cmd+v"
+    }, {
+      "command": "Define the selected text as a text placeholder",
+      "shortcut": "ctrl+opt+cmd+t"
+    }, {
+      "command": "Define the image or movie as a media placeholder",
+      "shortcut": "ctrl+opt+cmd+i"
+    }]
+  }, {
+    "title": "Modify editable shapes",
+    "shortcuts": [{
+      "command": "Draw a custom shape with the Pen tool",
+      "shortcut": "opt+shift+cmd+p"
+    }, {
+      "command": "Add a sharp point to an editable shape",
+      "shortcut": "cmd (then drag the midpoint of a line)"
+    }, {
+      "command": "Add a smooth point to an editable shape",
+      "shortcut": "(drag the midpoint of a line)"
+    }, {
+      "command": "Add a Bézier point to an editable shape",
+      "shortcut": "opt (then drag the midpoint of a line)"
+    }]
+  }, {
+    "title": "Work with tables",
+    "shortcuts": [{
+      "command": "Add a row above the selected cells",
+      "shortcut": "opt+up"
+    }, {
+      "command": "Add a row below the selected cells",
+      "shortcut": "opt+down"
+    }, {
+      "command": "Add a column to the right of the selected cells",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Add a column to the left of the selected cells",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Insert a row at the bottom of the table",
+      "shortcut": "opt+ret"
+    }, {
+      "command": "Select additional rows",
+      "shortcut": "shift+up/shift+down"
+    }, {
+      "command": "Select additional columns",
+      "shortcut": "shift+right/shift+left"
+    }, {
+      "command": "Select additional cells",
+      "shortcut": "shift+click"
+    }, {
+      "command": "Select a table from a cell selection",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Select all content in a table",
+      "shortcut": "(select a cell, then press) cmd+a"
+    }, {
+      "command": "Delete the selected table, or the contents of selected cells",
+      "shortcut": "del"
+    }, {
+      "command": "Copy cell style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste cell style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Paste and preserve the style of the destination cell",
+      "shortcut": "opt+shift+cmd+v"
+    }, {
+      "command": "Extend the selection from the selected cell to the destination cell",
+      "shortcut": "shift+click in the destination cell"
+    },{
+      "command": "Begin text editing in a table",
+      "shortcut": "ret"
+    }, {
+      "command": "Auto-align cell content",
+      "shortcut": "opt+cmd+u"
+    }, {
+      "command": "Stop editing the cell and select the cell",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Stop editing the cell and select the table",
+      "shortcut": "cmd+ret (twice)"
+    }, {
+      "command": "Constrain the movement of the table horizontally, vertically, or diagonally (45°)",
+      "shortcut": "shift (then drag the table)"
+    }, {
+      "command": "Select the next cell",
+      "shortcut": "tab"
+    }, {
+      "command": "Select the previous cell",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Insert a tab when editing text or a formula",
+      "shortcut": "opt+tab"
+    }, {
+      "command": "Insert a line break (soft return) when editing text in a cell",
+      "shortcut": "ctrl+ret"
+    }, {
+      "command": "Insert a paragraph break (hard return) when editing text in a cell",
+      "shortcut": "ret"
+    }, {
+      "command": "Open the formula editor for the selected nonformula cell",
+      "shortcut": "="
+    }, {
+      "command": "In the formula editor, commit changes",
+      "shortcut": "ret/tab"
+    }, {
+      "command": "In the formula editor, discard changes",
+      "shortcut": "esc"
+    }]
+  }, {
+    "title": "Edit chart data",
+    "shortcuts": [{
+      "command": "Show or hide the Chart Data editor",
+      "shortcut": "shift+cmd+d"
+    }, {
+      "command": "Complete a cell entry and move the selection down",
+      "shortcut": "ret"
+    }, {
+      "command": "Complete a cell entry and move the selection up",
+      "shortcut": "shift+ret"
+    }, {
+      "command": "Complete a cell entry and move the selection to the right",
+      "shortcut": "tab"
+    }]
+  }]
+}
