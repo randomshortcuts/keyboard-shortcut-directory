@@ -60,7 +60,7 @@
       "command": "Compact controls",
       "shortcut": "ctrl+shift+f"
     }, {
-      "command": "Input tools on/off(available in spreadsheets in non-Latin languages)",
+      "command": "Input tools on/off (available in spreadsheets in non-Latin languages)",
       "shortcut": "cmd+shift+k"
     }, {
       "command": "Select input tools",
@@ -214,13 +214,13 @@
       "shortcut": "cmd+opt+shift+a"
     }, {
       "command": "Enter current comment",
-      "shortcut": "(holding) ctrl+cmd(, press) e c"
+      "shortcut": "(holding) ctrl+cmd (, press) e c"
     }, {
       "command": "Move to next comment",
-      "shortcut": "(holding) ctrl+cmd(, press) n c"
+      "shortcut": "(holding) ctrl+cmd (, press) n c"
     }, {
       "command": "Move to previous comment",
-      "shortcut": "(holding) ctrl+cmd(, press) p c"
+      "shortcut": "(holding) ctrl+cmd (, press) p c"
     }]
   }, {
     "title": "Open a menu",
@@ -264,7 +264,7 @@
       "command": "Accessibility menu (present when screen reader support is enabled)",
       "shortcut": "ctrl+opt+a"
     }, {
-      "command": "Sheet menu(copy, delete, and other sheet actions)",
+      "command": "Sheet menu (copy, delete, and other sheet actions)",
       "shortcut": "opt+shift+s"
     }, {
       "command": "Context menu",
@@ -321,25 +321,25 @@
       "command": "Collapse an expanded array formula",
       "shortcut": "cmd+e"
     }, {
-      "command": "Show/hide formula help(when entering a formula)",
+      "command": "Show/hide formula help (when entering a formula)",
       "shortcut": "shift+fn+f1"
     }, {
-      "command": "Full/compact formula help(when entering a formula)",
+      "command": "Full/compact formula help (when entering a formula)",
       "shortcut": "fn+f1"
     }, {
-      "command": "Absolute/relative references(when entering a formula)",
+      "command": "Absolute/relative references (when entering a formula)",
       "shortcut": "fn+f4"
     }, {
-      "command": "Toggle formula result previews(when entering a formula)",
+      "command": "Toggle formula result previews (when entering a formula)",
       "shortcut": "fn+f9"
     }, {
-      "command": "Resize formula bar(move up or down)",
+      "command": "Resize formula bar (move up or down)",
       "shortcut": "ctrl+opt+up/ctrl+opt+down"
     }]
   }, {
     "title": "Help for screen readers",
     "shortcuts": [{
-      "command": "Turn on screen reader supportLearn more about using Google Sheets with a screen reader",
+      "command": "Turn on screen reader support",
       "shortcut": "cmd+opt+z"
     }, {
       "command": "Read column",
