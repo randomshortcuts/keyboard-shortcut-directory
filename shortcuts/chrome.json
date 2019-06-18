@@ -154,10 +154,10 @@
       "shortcut": "cmd+ctrl+f"
     }, {
       "command": "Make everything on the page bigger",
-      "shortcut": "cmd+\\+"
+      "shortcut": "cmd++"
     }, {
       "command": "Make everything on the page smaller",
-      "shortcut": "cmd+\\-"
+      "shortcut": "cmd+-"
     }, {
       "command": "Return everything on the page to the default size",
       "shortcut": "cmd+0"
