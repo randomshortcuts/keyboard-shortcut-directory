@@ -1,0 +1,58 @@
+{
+  "program": "youtube",
+  "groups": [{
+    "title": "Keyboard shortcuts",
+    "shortcuts": [{
+      "shortcut": "space",
+      "command": "Play/Pause when the seek bar is selected. Activate a button if a button has focus"
+    }, {
+      "shortcut": "play/pause (on media keyboard)",
+      "command": "Play or Pause Video"
+    }, {
+      "shortcut": "k",
+      "command": "Play or Pause Video"
+    }, {
+      "shortcut": "stop (on media keyboard)",
+      "command": "Stop"
+    }, {
+      "shortcut": "left/right",
+      "command": "Seek backward/forward 5 seconds"
+    }, {
+      "shortcut": "j",
+      "command": "Seek backward 10 seconds in player"
+    }, {
+      "shortcut": "l",
+      "command": "Seek forward 10 seconds in player"
+    }, {
+      "shortcut": "home/end (while focused on the seek bar)",
+      "command": "Seek to the beginning/last seconds of the video"
+    }, {
+      "shortcut": "up/down (while focused on the seek bar)",
+      "command": "Increase/Decrease volume 5%"
+    }, {
+      "shortcut": "1-9 (while focused on the seek bar)",
+      "command": "Seek to the 10% to 90% of the video"
+    }, {
+      "shortcut": "0 (while focused on the seek bar)",
+      "command": "Seek to the beginning of the video"
+    }, {
+      "shortcut": "/",
+      "command": "Go to search box"
+    }, {
+      "shortcut": "f",
+      "command": "Toggle full screen"
+    }, {
+      "shortcut": "c",
+      "command": "Activate closed captions and subtitles"
+    }, {
+      "shortcut": "shift+n",
+      "command": "Move to the next video"
+    }, {
+      "shortcut": "shift+p",
+      "command": "Move to the previous video"
+    }, {
+      "shortcut": "i",
+      "command": "Launch the Miniplayer"
+    }]
+  }]
+}
