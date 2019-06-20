@@ -235,7 +235,7 @@
       "shortcut": "cmd+shift+k"
     }, {
       "command": "Show your browser's context menu",
-      "shortcut": "shift+right-click"
+      "shortcut": "shift (then right click)"
     }]
   }, {
     "title": "Text selection with keyboard",
