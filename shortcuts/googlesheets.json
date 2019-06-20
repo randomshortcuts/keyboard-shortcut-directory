@@ -286,10 +286,10 @@
       "shortcut": "ctrl+opt+i o"
     }, {
       "command": "Delete rows",
-      "shortcut": "cmd+opt+- (with rows selected)/ctrl+opt+e d"
+      "shortcut": "cmd+opt+-"
     }, {
       "command": "Delete columns",
-      "shortcut": "cmd+opt+- (with columns selected)/ctrl+opt+e e"
+      "shortcut": "cmd+opt+-"
     }, {
       "command": "Hide row",
       "shortcut": "cmd+opt+9"
