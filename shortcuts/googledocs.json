@@ -1,0 +1,454 @@
+{
+  "program": "googledocs",
+  "groups": [{
+    "title": "Common actions",
+    "shortcuts": [{
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste without formatting",
+      "shortcut": "cmd+shift+v"
+    }, {
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "cmd+shift+z"
+    }, {
+      "command": "Insert or edit link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Open link",
+      "shortcut": "opt+ent"
+    }, {
+      "command": "Show common keyboard shortcuts",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Save",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Print",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Open",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Find",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Find and replace",
+      "shortcut": "cmd+shift+h"
+    }, {
+      "command": "Find again",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Find previous",
+      "shortcut": "cmd+shift+g"
+    }, {
+      "command": "Hide the menus (compact mode)",
+      "shortcut": "ctrl+shift+f"
+    }, {
+      "command": "Insert page break",
+      "shortcut": "cmd+ent"
+    }, {
+      "command": "Search the menus",
+      "shortcut": "opt+/ctrl+opt+z"
+    }, {
+      "command": "Repeat last action",
+      "shortcut": "cmd+y"
+    }]
+  }, {
+    "title": "Text formatting",
+    "shortcuts": [{
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italicize",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Strikethrough",
+      "shortcut": "cmd+shift+x"
+    }, {
+      "command": "Superscript",
+      "shortcut": "cmd+."
+    }, {
+      "command": "Subscript",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Copy text formatting",
+      "shortcut": "cmd+opt+c"
+    }, {
+      "command": "Paste text formatting",
+      "shortcut": "cmd+opt+v"
+    }, {
+      "command": "Clear text formatting",
+      "shortcut": "cmd+\\"
+    }, {
+      "command": "Increase font size",
+      "shortcut": "cmd+shift+>"
+    }, {
+      "command": "Decrease font size",
+      "shortcut": "cmd+shift+<"
+    }]
+  }, {
+    "title": "Paragraph formatting",
+    "shortcuts": [{
+      "command": "Increase paragraph indentation",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Decrease paragraph indentation",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Apply normal text style",
+      "shortcut": "cmd+opt+0"
+    }, {
+      "command": "Apply heading style",
+      "shortcut": "cmd+opt+1-6"
+    }, {
+      "command": "Left align",
+      "shortcut": "cmd+shift+l"
+    }, {
+      "command": "Center align",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Right align",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Justify",
+      "shortcut": "cmd+shift+j"
+    }, {
+      "command": "Numbered list",
+      "shortcut": "cmd+shift+7"
+    }, {
+      "command": "Bulleted list",
+      "shortcut": "cmd+shift+8"
+    }, {
+      "command": "Move paragraph up/down ",
+      "shortcut": "ctrl+shift+up/down"
+    }]
+  }, {
+    "title": "Images and drawings",
+    "shortcuts": [{
+      "command": "Alt text",
+      "shortcut": "cmd+opt+y"
+    }, {
+      "command": "Resize larger",
+      "shortcut": "cmd+ctrl+k"
+    }, {
+      "command": "Resize larger horizontally",
+      "shortcut": "cmd+ctrl+b"
+    }, {
+      "command": "Resize larger vertically",
+      "shortcut": "cmd+ctrl+i"
+    }, {
+      "command": "Resize smaller",
+      "shortcut": "cmd+ctrl+j"
+    }, {
+      "command": "Resize smaller horizontally",
+      "shortcut": "cmd+ctrl+w"
+    }, {
+      "command": "Resize smaller vertically",
+      "shortcut": "cmd+ctrl+q"
+    }, {
+      "command": "Rotate clockwise by 15°",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Rotate counterclockwise by 15°",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Rotate counterclockwise by 1°",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Rotate clockwise by 1°",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Close drawing editor",
+      "shortcut": "cmd+esc/shift+esc"
+    }]
+  }, {
+    "title": "Comments and footnotes",
+    "shortcuts": [{
+      "command": "Insert comment",
+      "shortcut": "cmd+opt+m"
+    }, {
+      "command": "Open discussion thread",
+      "shortcut": "cmd+opt+shift+a"
+    }, {
+      "command": "Enter current comment",
+      "shortcut": "ctrl+ent"
+    }, {
+      "command": "Insert footnote",
+      "shortcut": "cmd+opt+f"
+    }, {
+      "command": "Move to current footnote",
+      "shortcut": "(holding) ctrl+cmd (press) e f"
+    }, {
+      "command": "Move to next footnote",
+      "shortcut": "(holding) ctrl+cmd (press) n f"
+    }, {
+      "command": "Move to previous footnote",
+      "shortcut": "(holding) ctrl+cmd (press) p f"
+    }]
+  }, {
+    "title": "Menus",
+    "shortcuts": [{
+      "command": "Context (right-click) menu",
+      "shortcut": "cmd+shift+\\"
+    }, {
+      "command": "File menu",
+      "shortcut": "ctrl+opt+f"
+    }, {
+      "command": "Edit menu",
+      "shortcut": "ctrl+opt+e"
+    }, {
+      "command": "View menu",
+      "shortcut": "ctrl+opt+v"
+    }, {
+      "command": "Insert menu",
+      "shortcut": "ctrl+opt+i"
+    }, {
+      "command": "Format menu",
+      "shortcut": "ctrl+opt+o"
+    }, {
+      "command": "Tools menu",
+      "shortcut": "ctrl+opt+t"
+    }, {
+      "command": "Help menu",
+      "shortcut": "ctrl+opt+h"
+    }, {
+      "command": "Accessibility menu\n(present when screen reader support is enabled)",
+      "shortcut": "ctrl+opt+a"
+    }, {
+      "command": "Input Tools menu\n(available in documents in non-Latin languages)",
+      "shortcut": "cmd+opt+shift+k"
+    }, {
+      "command": "Toggle input controls\n(available in documents in non-Latin languages)",
+      "shortcut": "cmd+shift+k"
+    }, {
+      "command": "Show your browser's context menu",
+      "shortcut": "shift+right-click"
+    }]
+  }, {
+    "title": "Text selection with keyboard",
+    "shortcuts": [{
+      "command": "Select all",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Extend selection one character",
+      "shortcut": "shift+left/right"
+    }, {
+      "command": "Extend selection one line",
+      "shortcut": "shift+up/down"
+    }, {
+      "command": "Extend selection to the beginning of the line",
+      "shortcut": "shift+fn+left"
+    }, {
+      "command": "Extend selection one paragraph",
+      "shortcut": "opt+shift+up/down"
+    }, {
+      "command": "Extend selection to the end of the line",
+      "shortcut": "shift+fn+right"
+    }, {
+      "command": "Extend selection to the beginning of the document",
+      "shortcut": "cmd+shift+up"
+    }, {
+      "command": "Extend selection to the end of the document",
+      "shortcut": "cmd+shift+down"
+    }, {
+      "command": "Select current list item",
+      "shortcut": "(holding) ctrl+cmd+shift (press) e i"
+    }, {
+      "command": "Select all list items at current level",
+      "shortcut": "(holding) ctrl+cmd+shift (press) e o"
+    }]
+  }, {
+    "title": "Screen reader support",
+    "shortcuts": [{
+      "command": "Enable screen reader support",
+      "shortcut": "opt+cmd+z"
+    }, {
+      "command": "Speak selection",
+      "shortcut": "ctrl+cmd+x"
+    }, {
+      "command": "Speak from cursor location",
+      "shortcut": "ctrl+cmd+r"
+    }, {
+      "command": "Screen Reader: Announce cursor location",
+      "shortcut": "((holding) ctrl+cmd (press))  l"
+    }, {
+      "command": "Screen Reader: Announce formatting at cursor location",
+      "shortcut": "((holding) ctrl+cmd (press))  f"
+    }, {
+      "command": "Screen Reader: Speak the table column and row header",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t h"
+    }, {
+      "command": "Screen Reader: Speak the table cell location",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t n"
+    }, {
+      "command": "Screen Reader: Speak the table row header",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t r"
+    }, {
+      "command": "Screen Reader: Speak the table column header",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t c"
+    }]
+  }, {
+    "title": "Document navigation",
+    "shortcuts": [{
+      "command": "Move to next heading",
+      "shortcut": "(holding) ctrl+cmd (press) n h"
+    }, {
+      "command": "Move to previous heading",
+      "shortcut": "(holding) ctrl+cmd (press) p h"
+    }, {
+      "command": "Move to next heading [1-6]",
+      "shortcut": "(holding) ctrl+cmd (press) n 1-6"
+    }, {
+      "command": "Move to previous heading [1-6]",
+      "shortcut": "(holding) ctrl+cmd (press) p 1-6"
+    }, {
+      "command": "Move to next media\n(image or drawing)",
+      "shortcut": "(holding) ctrl+cmd (press) n g"
+    }, {
+      "command": "Move to previous media\n(image or drawing)",
+      "shortcut": "(holding) ctrl+cmd (press) p g"
+    }, {
+      "command": "Move to next list",
+      "shortcut": "(holding) ctrl+cmd (press) n o"
+    }, {
+      "command": "Move to previous list",
+      "shortcut": "(holding) ctrl+cmd (press) p o"
+    }, {
+      "command": "Move to next item in the current list",
+      "shortcut": "(holding) ctrl+cmd (press) n i"
+    }, {
+      "command": "Move to previous item in the current list",
+      "shortcut": "(holding) ctrl+cmd (press) p i"
+    }, {
+      "command": "Move to next link",
+      "shortcut": "(holding) ctrl+cmd (press) n l"
+    }, {
+      "command": "Move to previous link",
+      "shortcut": "(holding) ctrl+cmd (press) p l"
+    }, {
+      "command": "Move to next bookmark",
+      "shortcut": "(holding) ctrl+cmd (press) n b"
+    }, {
+      "command": "Move to previous bookmark",
+      "shortcut": "(holding) ctrl+cmd (press) p b"
+    }, {
+      "command": "Move to next formatting change",
+      "shortcut": "(holding) ctrl+cmd (press) n w"
+    }, {
+      "command": "Move to previous formatting change",
+      "shortcut": "(holding) ctrl+cmd (press) p w"
+    }, {
+      "command": "Move to the next edit\n(while viewing revision history or new changes)",
+      "shortcut": "(holding) ctrl+cmd (press) n r"
+    }, {
+      "command": "Move to the previous edit\n(while viewing revision history or new changes)",
+      "shortcut": "(holding) ctrl+cmd (press) p r"
+    }]
+  }, {
+    "title": "Table navigation",
+    "shortcuts": [{
+      "command": "Move to the start of the table",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t s"
+    }, {
+      "command": "Move to the end of the table",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t d"
+    }, {
+      "command": "Move to the start of the table column",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t i"
+    }, {
+      "command": "Move to the end of the table column",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t k"
+    }, {
+      "command": "Move to the next table column",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t b"
+    }, {
+      "command": "Move to the previous table column",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t v"
+    }, {
+      "command": "Move to the start of the table row",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t j"
+    }, {
+      "command": "Move to the end of the table row",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t l"
+    }, {
+      "command": "Move to the next table row",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t m"
+    }, {
+      "command": "Move to the previous table row",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t g"
+    }, {
+      "command": "Exit table",
+      "shortcut": "(holding) ctrl+cmd+shift (press) t e"
+    }, {
+      "command": "Move to the next table",
+      "shortcut": "(holding) ctrl+cmd+shift (press) n t"
+    }, {
+      "command": "Move to the previous table",
+      "shortcut": "(holding) ctrl+cmd+shift (press) p t"
+    }]
+  }, {
+    "title": "Other tools and navigation",
+    "shortcuts": [{
+      "command": "Open revision history",
+      "shortcut": "cmd+opt+shift+h"
+    }, {
+      "command": "Open Explore tool",
+      "shortcut": "cmd+opt+shift+i"
+    }, {
+      "command": "Open spelling/grammar",
+      "shortcut": "cmd+alt+x"
+    }, {
+      "command": "Open dictionary",
+      "shortcut": "cmd+shift+y"
+    }, {
+      "command": "Word count",
+      "shortcut": "cmd+shift+c"
+    }, {
+      "command": "Start voice typing (Chrome only)",
+      "shortcut": "cmd+shift+s"
+    }, {
+      "command": "Go to side panel",
+      "shortcut": "cmd+opt+./cmd+opt+,"
+    }, {
+      "command": "Page up",
+      "shortcut": "fn+up"
+    }, {
+      "command": "Page down",
+      "shortcut": "fn+down"
+    }, {
+      "command": "Move to next misspelling",
+      "shortcut": "cmd+'"
+    }, {
+      "command": "Move to previous misspelling",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Insert or move to header",
+      "shortcut": "(holding) ctrl+cmd (press) o h"
+    }, {
+      "command": "Insert or move to footer",
+      "shortcut": "(holding) ctrl+cmd (press) o f"
+    }, {
+      "command": "Move focus to popup\n(for links, bookmarks, and images)",
+      "shortcut": "(holding) ctrl+cmd (press) e p"
+    }, {
+      "command": "Move focus out of document text",
+      "shortcut": "cmd+opt+shift+m"
+    }, {
+      "command": "Return focus to document text",
+      "shortcut": "esc"
+    }]
+  }]
+}
