@@ -1,0 +1,70 @@
+{
+  "program": "Zoom",
+  "groups": [{
+    "title": "All Shortcuts",
+    "shortcuts": [{
+      "command": "Mute/unmute audio",
+      "shortcut": "cmd+shift+a"
+    }, {
+      "command": "Start/stop video",
+      "shortcut": "cmd+shift+v"
+    }, {
+      "command": "Switch camera",
+      "shortcut": "cmd+shift+n"
+    }, {
+      "command": "Start/stop screen share",
+      "shortcut": "cmd+shift+s"
+    }, {
+      "command": "Pause or resume screen share",
+      "shortcut": "cmdcmd+shift+t"
+    }, {
+      "command": "Start local recording",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Start cloud recording",
+      "shortcut": "cmd+shift+c"
+    }, {
+      "command": "Enter or exit full screen",
+      "shortcut": "cmd+shift+f"
+    }, {
+      "command": "Switch to minimal window",
+      "shortcut": "cmd+shift+m"
+    }, {
+      "command": "Mute audio for everyone except host (host only)",
+      "shortcut": "cmd+ctrl+m"
+    }, {
+      "command": "Unmute audio for everyone except host",
+      "shortcut": "cmd+ctrl+u"
+    }, {
+      "command": "Toggle between active speaker or gallery view",
+      "shortcut": "cmd+shift+w"
+    }, {
+      "command": "View previous 25 participants in gallery view",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "View next 25 participants in gallery view",
+      "shortcut": "ctrl+n"
+    }, {
+      "command": "Show/hide In-Meeting Chat Panel",
+      "shortcut": "cmd+shift+h"
+    }, {
+      "command": "Show/hide Participants panel",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Open invite window",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Prompt to end or leave meeting",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Raise/lower hand",
+      "shortcut": "opt+y"
+    }, {
+      "command": "Gain remote control",
+      "shortcut": "ctrl+shift+r"
+    }, {
+      "command": "Stop remote control",
+      "shortcut": "ctrl+shift+g"
+    }]
+  }]
+}
