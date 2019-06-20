@@ -6,20 +6,20 @@
       "command": "Create new playlist",
       "shortcut": "cmd+n"
     }, {
-      "command": "Cut",
+      "command": "Cut from playlist",
       "shortcut": "cmd+x"
     }, {
-      "command": "Copy",
+      "command": "Copy link to selected music",
       "shortcut": "cmd+c"
     }, {
       "command": "Copy (alternative link)",
       "shortcut": "cmd+alt+c"
     }, {
-      "command": "Paste",
+      "command": "Paste into playlist",
       "shortcut": "cmd+v"
     }, {
-      "command": "Delete",
-      "shortcut": "del, backspace"
+      "command": "Delete from playlist",
+      "shortcut": "del"
     }, {
       "command": "Select all",
       "shortcut": "cmd+a"
@@ -68,24 +68,6 @@
     }, {
       "command": "Logout active user",
       "shortcut": "cmd+shift+w"
-    }, {
-      "command": "Quit",
-      "shortcut": "cmd+q"
-    }, {
-      "command": "Hide window",
-      "shortcut": "cmd+h"
-    }, {
-      "command": "Hide other applications' windows",
-      "shortcut": "cmd+alt+h"
-    }, {
-      "command": "Close window",
-      "shortcut": "cmd+w"
-    }, {
-      "command": "Minimize window",
-      "shortcut": "cmd+m"
-    }, {
-      "command": "Restore from minimized",
-      "shortcut": "cmd+alt+1"
     }]
   }]
 }
