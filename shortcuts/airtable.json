@@ -1,0 +1,112 @@
+{
+  "program": "airtable",
+  "groups": [{
+    "title": "General",
+    "shortcuts": [{
+      "shortcut": "cmd+z",
+      "command": "Undo action"
+    }, {
+      "shortcut": "cmd+y/cmd+shift+z",
+      "command": "Redo action"
+    }, {
+      "shortcut": "cmd+p",
+      "command": "Print the current table view or current expanded record (if inside an expanded record)"
+    }, {
+      "shortcut": "cmd+j",
+      "command": "Opens the table switcher in the current base"
+    }, {
+      "shortcut": "cmd+k",
+      "command": "Opens the quick base switcher if on the home screen or inside a base"
+    }, {
+      "shortcut": "cmd+shift+k",
+      "command": "Opens the view switcher in the current base"
+    }, {
+      "shortcut": "cmd+shift+f",
+      "command": "Opens the filter menu in the current view. Press Enter to create a new filter"
+    }, {
+      "shortcut": "cmd+shift+d",
+      "command": "Opens the grouped records menu in the current view. Press Enter to collapse or expand all groups"
+    }, {
+      "shortcut": "cmd+shift+s",
+      "command": "Opens the sort menu in the current view. Press Enter to re-apply the most recent sort"
+    }, {
+      "shortcut": "cmd+shift+\\",
+      "command": "Toggles blocks"
+    }, {
+      "shortcut": "cmd+f/cmd+g",
+      "command": "Opens find bar. Use Esc to close find bar"
+    }, {
+      "shortcut": "cmd+;",
+      "command": "Sets the selected date/datetime field to now"
+    }]
+  }, {
+    "title": "Grid view",
+    "shortcuts": [{
+      "shortcut": "cmd+c",
+      "command": "Copy a cell or range of cells"
+    }, {
+      "shortcut": "cmd+x",
+      "command": "Cut a cell or range of cells"
+    }, {
+      "shortcut": "cmd+v",
+      "command": "Paste a cell (if you select a range of cells, you can paste the same value into multiple cells at once)"
+    }, {
+      "shortcut": "space",
+      "command": "Expand the active record (use Esc to return to table)"
+    }, {
+      "shortcut": "shift+space",
+      "command": "Expand the active cell (you can then use arrow keys to move to different cells)"
+    }, {
+      "shortcut": "fn+up/fn+down",
+      "command": "Scrolls one screen up or down"
+    }, {
+      "shortcut": "alt+fn+up/down",
+      "command": "Scrolls one screen left or right"
+    }, {
+      "shortcut": "cmd (+ any arrow key)",
+      "command": "Jump to the edge of the table"
+    }, {
+      "shortcut": "cmd+shift (+ any arrow key)",
+      "command": "Jump to edge of table and select cells"
+    }, {
+      "shortcut": "shift (+ any arrow key)",
+      "command": "Select range of cells"
+    }, {
+      "shortcut": "shift+ent",
+      "command": "Insert a record below the selected cell"
+    }, {
+      "shortcut": "ent/f2",
+      "command": "Edit the selected cell"
+    }, {
+      "shortcut": "(hold) alt (while dragging with mouse)",
+      "command": "Duplicate a record or field"
+    }]
+  }, {
+    "title": "Gallery view",
+    "shortcuts": [{
+      "shortcut": "cmd+up/down",
+      "command": "Scroll to edge of gallery"
+    }]
+  }, {
+    "title": "Kanban view",
+    "shortcuts": [{
+      "shortcut": "left/right",
+      "command": "Scroll kanban board to the left or right by one stack"
+    }, {
+      "shortcut": "cmd+left/right",
+      "command": "Scroll kanban board to the left or right edge"
+    }, {
+      "shortcut": "cmd+up/down",
+      "command": "Scroll all stacks to top or bottom"
+    }]
+  }, {
+    "title": "Expanded record",
+    "shortcuts": [{
+      "shortcut": "cmd+shift+</>",
+      "command": "Move to the previous or next record while viewing an expanded record"
+    }, {
+      "shortcut": "esc",
+      "command": "Close expanded record"
+    }]
+  }]
+}
