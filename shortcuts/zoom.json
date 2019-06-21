@@ -16,7 +16,7 @@
       "shortcut": "cmd+shift+s"
     }, {
       "command": "Pause or resume screen share",
-      "shortcut": "cmdcmd+shift+t"
+      "shortcut": "cmd+shift+t"
     }, {
       "command": "Start local recording",
       "shortcut": "cmd+shift+r"
