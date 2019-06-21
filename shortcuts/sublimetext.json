@@ -1,0 +1,238 @@
+{
+  "program": "sublimetext",
+  "groups": [{
+    "title": "Editing",
+    "shortcuts": [{
+      "shortcut": "cmd+x",
+      "command": "Cut line"
+    }, {
+      "shortcut": "cmd+ret",
+      "command": "Insert line after"
+    }, {
+      "shortcut": "cmd+shift+ret",
+      "command": "Insert line before"
+    }, {
+      "shortcut": "cmd+ctrl+up",
+      "command": "Move line/selection up"
+    }, {
+      "shortcut": "cmd+ctrl+down",
+      "command": "Move line/selection down"
+    }, {
+      "shortcut": "cmd+l",
+      "command": "Select line (repeat to select next line)"
+    }, {
+      "shortcut": "cmd+d",
+      "command": "Select word (repeat to select next occurrence)"
+    }, {
+      "shortcut": "ctrl+cmd+g",
+      "command": "Select all occurrences of current selection"
+    }, {
+      "shortcut": "ctrl+shift+up",
+      "command": "Extra cursor on the line above"
+    }, {
+      "shortcut": "ctrl+shift+down",
+      "command": "Extra cursor on the line below"
+    }, {
+      "shortcut": "ctrl+m",
+      "command": "Jump to closing parentheses (repeat to jump to opening parentheses)"
+    }, {
+      "shortcut": "ctrl+shift+m",
+      "command": "Select all contents of the current parentheses"
+    }, {
+      "shortcut": "ctrl+a",
+      "command": "Move to beginning of line"
+    }, {
+      "shortcut": "cmd+left",
+      "command": "Move to beginning of text on line"
+    }, {
+      "shortcut": "ctrl+e",
+      "command": "Move to end of line"
+    }, {
+      "shortcut": "cmd+k",
+      "command": "Delete from cursor to end of line"
+    }, {
+      "shortcut": "cmd+k+del",
+      "command": "Delete from cursor to start of line"
+    }, {
+      "shortcut": "cmd+]",
+      "command": "Indent current line(s)"
+    }, {
+      "shortcut": "cmd+[",
+      "command": "Un-indent current line(s)"
+    }, {
+      "shortcut": "cmd+shift+d",
+      "command": "Duplicate line(s)"
+    }, {
+      "shortcut": "cmd+j",
+      "command": "Join line below to the end of the current line"
+    }, {
+      "shortcut": "cmd+/",
+      "command": "Comment/un-comment current line"
+    }, {
+      "shortcut": "cmd+opt+/",
+      "command": "Block comment current selection"
+    }, {
+      "shortcut": "cmd+y",
+      "command": "Redo, or repeat last keyboard shortcut command"
+    }, {
+      "shortcut": "cmd+shift+v",
+      "command": "Paste and indent correctly"
+    }, {
+      "shortcut": "ctrl+space",
+      "command": "Select next auto-complete suggestion"
+    }, {
+      "shortcut": "ctrl+u",
+      "command": "Soft undo; jumps to your last change before undoing change when repeated"
+    }, {
+      "shortcut": "ctrl+shift+up",
+      "command": "Column selection up"
+    }, {
+      "shortcut": "ctrl+shift+down",
+      "command": "Column selection down"
+    }, {
+      "shortcut": "ctrl+shift+w",
+      "command": "Wrap Selection in html tag"
+    }, {
+      "shortcut": "ctrl+shift+k",
+      "command": "Delete current line of cursor"
+    }]
+  }, {
+    "title": "Navigation",
+    "shortcuts": [{
+      "shortcut": "cmd+t",
+      "command": "Quickly open files by name"
+    }, {
+      "shortcut": "cmd+r",
+      "command": "Go to symbol"
+    }, {
+      "command": "Go to line in current file",
+      "shortcut": "ctrl+g"
+    }]
+  }, {
+    "title": "General",
+    "shortcuts": [{
+      "shortcut": "cmd+shift+p",
+      "command": "Command Palette"
+    }, {
+      "shortcut": "ctrl+`",
+      "command": "Python Console"
+    }, {
+      "shortcut": "ctrl+cmd+f",
+      "command": "Toggle fullscreen mode"
+    }, {
+      "shortcut": "ctrl+shift+cmd+f",
+      "command": "Toggle distraction-free mode"
+    }, {
+      "shortcut": "cmd+b",
+      "command": "Toggle side bar"
+    }, {
+      "shortcut": "ctrl+shift+p",
+      "command": "Show scope in status bar"
+    }]
+  }, {
+    "title": "Find/Replace",
+    "shortcuts": [{
+      "shortcut": "cmd+f",
+      "command": "Find"
+    }, {
+      "shortcut": "cmd+opt+f",
+      "command": "Replace"
+    }, {
+      "shortcut": "cmd+shift+f",
+      "command": "Find in files"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Incremental Find"
+    }]
+  }, {
+    "title": "Scrolling",
+    "shortcuts": [{
+      "shortcut": "ctrl+v",
+      "command": "Scroll down one page"
+    }, {
+      "shortcut": "ctrl+l",
+      "command": "Center current line vertically in page"
+    }, {
+      "shortcut": "cmd+down",
+      "command": "Scroll to end of file"
+    }, {
+      "shortcut": "cmd+up",
+      "command": "Scroll to start of file"
+    }]
+  }, {
+    "title": "Tabs",
+    "shortcuts": [{
+      "shortcut": "cmd+shift+t",
+      "command": "Open last closed tab"
+    }, {
+      "shortcut": "cmd+1-9",
+      "command": "Jump to tab in current group"
+    }, {
+      "shortcut": "cmd+0",
+      "command": "Jump to 10th tab in current group"
+    }, {
+      "shortcut": "cmd+shift+[",
+      "command": "Cycle left through tabs"
+    }, {
+      "shortcut": "cmd+shift+]",
+      "command": "Cycle right through tabs"
+    }, {
+      "shortcut": "ctrl+tab",
+      "command": "Cycle up through recent tabs"
+    }, {
+      "shortcut": "shift+ctrl+tab",
+      "command": "Cycle down through recent tabs"
+    }]
+  }, {
+    "title": "Split window",
+    "shortcuts": [{
+      "shortcut": "cmd+opt+1",
+      "command": "Revert view to single column"
+    }, {
+      "shortcut": "cmd+opt+2",
+      "command": "Split view into two columns"
+    }, {
+      "shortcut": "cmd+opt+3",
+      "command": "Split view into three columns"
+    }, {
+      "shortcut": "cmd+opt+4",
+      "command": "Split view into four columns"
+    }, {
+      "shortcut": "cmd+opt+5",
+      "command": "Set view to grid (4 groups)"
+    }, {
+      "shortcut": "ctrl+1-4",
+      "command": "Jump to group"
+    }, {
+      "shortcut": "ctrl+shift+1-4",
+      "command": "Move file to specified group"
+    }]
+  }, {
+    "title": "Bookmarks",
+    "shortcuts": [{
+      "shortcut": "cmd+f2",
+      "command": "Toggle bookmark"
+    }, {
+      "shortcut": "f2",
+      "command": "Next bookmark"
+    }, {
+      "shortcut": "shift+f2",
+      "command": "Previous bookmark"
+    }, {
+      "shortcut": "shift+cmd+f2",
+      "command": "Clear bookmarks"
+    }]
+  }, {
+    "title": "Text manipulation",
+    "shortcuts": [{
+      "shortcut": "cmd+u",
+      "command": "Transform to uppercase"
+    }, {
+      "shortcut": "cmd+l",
+      "command": "Transform to lowercase"
+    }, {
+      "shortcut": "cmd+ctrl+down",
+      "command": "Clip text upwards/downwards"
+    }]
+  }]
+}
