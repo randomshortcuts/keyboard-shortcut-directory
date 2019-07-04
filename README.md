@@ -44,42 +44,15 @@ but `cmd+g (then type what you need, then) p` will result in "`command` + `g` th
 
 ## Examples
 
-Listed below are examples of formatted keyboard shortcuts and their parsed meaning.
+Listed below are examples of formatted keyboard shortcuts and their translated meaning.
 
-| Formatted Shortcut | Parsed Shortcut |
+| Formatted Shortcut | Translated Shortcut |
 | ------------------ | --------------- |
 | cmd+space          | `command` + `space` |
 | cmd+g p            | `command` + `g` then `p` |
 | (Type a search term, then press) return | Type a search term, then press `return` |
 | e/y                | `e` or `y`       |
 | F1-F12             | `F1` through `F12` |
-
-## Parsing Shortcuts
-
-Before parsing, make sure your JSON is in this format:
-
-```json
-{
-  "program": "Bash",
-  "groups": [
-    {
-      "title": "Cursor",
-      "shortcuts": [
-        {
-        "command": "Move to the start of the current line",
-        "shortcut": "ctrl+a"
-        }
-      ]
-    }
-  ]
-}
-```
-
-Add your JSON file to the `shortcuts` directory.
-
-To parse your program's shortcuts (e.g. `./shortcuts/program-name.json`), run `npm run parse -- program-name`
-
-To parse all shortcuts in `./shortcuts`, run `npm run parse`.
 
 ## Contributing
 
