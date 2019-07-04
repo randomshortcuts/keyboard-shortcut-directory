@@ -1,0 +1,154 @@
+{
+  "program": "Webflow",
+  "groups": [{
+    "title": "General keyboard shortcuts",
+    "shortcuts": [{
+      "shortcut": "shift+/",
+      "command": "Show shortcut cheatsheet"
+    }, {
+      "shortcut": "shift+cmd+s",
+      "command": "Save as snapshot"
+    }, {
+      "shortcut": "esc",
+      "command": "Deselect"
+    }, {
+      "shortcut": "del",
+      "command": "Delete element"
+    }, {
+      "shortcut": "shift+p",
+      "command": "Show publish dialog"
+    }, {
+      "shortcut": "shift+e",
+      "command": "Show Export Code dialog"
+    }, {
+      "shortcut": "ent",
+      "command": "Edit element"
+    }]
+  }, {
+    "title": "View shortcuts",
+    "shortcuts": [{
+      "shortcut": "shift+cmd+p",
+      "command": "Preview mode"
+    }, {
+      "shortcut": "shift+cmd+g",
+      "command": "Guide overlay"
+    }, {
+      "shortcut": "shift+cmd+e",
+      "command": "Show element edges"
+    }, {
+      "shortcut": "shift+cmd+t",
+      "command": "X-ray mode"
+    }]
+  }, {
+    "title": "Left-hand toolbar shortcuts",
+    "shortcuts": [{
+      "shortcut": "a",
+      "command": "Show Add panel"
+    }, {
+      "shortcut": "p",
+      "command": "Show Pages panel"
+    }, {
+      "shortcut": "shift+a",
+      "command": "Show Symbols panel"
+    }, {
+      "shortcut": "shift+cmd+a",
+      "command": "Make selected element a symbol"
+    }, {
+      "shortcut": "j",
+      "command": "Show Asset Manager"
+    }]
+  }, {
+    "title": "Right-hand toolbar shortcuts",
+    "shortcuts": [{
+      "shortcut": "s",
+      "command": "Show Style tab"
+    }, {
+      "shortcut": "d",
+      "command": "Show Settings tab"
+    }, {
+      "shortcut": "f",
+      "command": "Show Navigator tab"
+    }, {
+      "shortcut": "g",
+      "command": "Show Style Manager Tab"
+    }, {
+      "shortcut": "h",
+      "command": "Show Interactions tab"
+    }]
+  }, {
+    "title": "Copy/paste shortcuts",
+    "shortcuts": [{
+      "shortcut": "cmd+c",
+      "command": "Copy"
+    }, {
+      "shortcut": "cmd+x",
+      "command": "Cut"
+    }, {
+      "shortcut": "cmd+v",
+      "command": "paste"
+    }, {
+      "shortcut": "(hold) alt (then drag)",
+      "command": "Duplicate"
+    }]
+  }, {
+    "title": "Undo/Redo shortcuts",
+    "shortcuts": [{
+      "shortcut": "cmd+z",
+      "command": "Undo"
+    }, {
+      "shortcut": "shift+cmd+z",
+      "command": "Redo"
+    }]
+  }, {
+    "title": "Device view shortcuts",
+    "shortcuts": [{
+      "shortcut": "1",
+      "command": "Show Desktop view"
+    }, {
+      "shortcut": "2",
+      "command": "Show Tablet view"
+    }, {
+      "shortcut": "3",
+      "command": "Show landscape phone view"
+    }, {
+      "shortcut": "4",
+      "command": "Show portrait phone view"
+    }]
+  }, {
+    "title": "Style panel shortcuts",
+    "shortcuts": [{
+      "shortcut": "(hold) shift (then drag)",
+      "command": "Margin / padding (all sides)"
+    }, {
+      "shortcut": "(hold) alt (then drag)",
+      "command": "Margin / padding (top/bottom or left/right)"
+    }, {
+      "shortcut": "cmd+ent",
+      "command": "Add class to selected element"
+    }, {
+      "shortcut": "shift+cmd+ent",
+      "command": "Rename last class on selected element"
+    }]
+  }, {
+    "title": "Other shortcuts",
+    "shortcuts": [{
+      "shortcut": "(hold) alt (then click on section)",
+      "command": "Expand/collapse panel sections"
+    }, {
+      "shortcut": "up/down",
+      "command": "Select parent/child element"
+    }, {
+      "shortcut": "left/right",
+      "command": "Select sibling element"
+    }, {
+      "shortcut": "alt+left/right",
+      "command": "Select next/previous element"
+    }, {
+      "shortcut": "shift+cmd+l",
+      "command": "Toggle Collaborators on selected element"
+    }, {
+      "shortcut": "cmd+e/cmd+k",
+      "command": "Quick Find"
+    }]
+  }]
+}
