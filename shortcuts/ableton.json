@@ -1,0 +1,550 @@
+{
+  "program": "Ableton Live",
+  "groups": [{
+    "title": "Showing and Hiding Views",
+    "shortcuts": [{
+      "command": "Toggle Full Screen Mode",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": "Toggle Second Window",
+      "shortcut": "cmd+shift+w"
+    }, {
+      "command": "Toggle Session/Arrangement View",
+      "shortcut": "tab"
+    }, {
+      "command": "Toggle Device/Clip View",
+      "shortcut": "shift+tab/ctrl+f12"
+    }, {
+      "command": "Hide/Show Detail View",
+      "shortcut": "cmd+alt+l/ctrl+shift+f12"
+    }, {
+      "command": "Toggle Hot-Swap Mode",
+      "shortcut": "q"
+    }, {
+      "command": "Toggle Drum Rack/last-selected Pad",
+      "shortcut": "d"
+    }, {
+      "command": "Hide/Show Info View",
+      "shortcut": "shift+?"
+    }, {
+      "command": "Hide/Show Video Window",
+      "shortcut": "ctrl+alt+v"
+    }, {
+      "command": "Hide/Show Browser",
+      "shortcut": "cmd+alt+b"
+    }, {
+      "command": "Hide/Show Overview",
+      "shortcut": "cmd+alt+o"
+    }, {
+      "command": "Hide/Show In/Out",
+      "shortcut": "cmd+alt+i"
+    }, {
+      "command": "Hide/Show Sends",
+      "shortcut": "cmd+alt+s"
+    }, {
+      "command": "Hide/Show Mixer",
+      "shortcut": "cmd+alt+m"
+    }, {
+      "command": "Open the Preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Close Window/Dialog",
+      "shortcut": "esc"
+    }]
+  }, {
+    "title": "Accessing Menus",
+    "shortcuts": [{
+      "command": "Access the command search field",
+      "shortcut": "cmd+?"
+    }]
+  }, {
+    "title": "Adjusting Values",
+    "shortcuts": [{
+      "command": "Decrement/Increment",
+      "shortcut": "up/down"
+    }, {
+      "command": "Finer Resolution for Dragging",
+      "shortcut": "shift"
+    }, {
+      "command": "Return to Default",
+      "shortcut": "del"
+    }, {
+      "command": "Type in Value",
+      "shortcut": "0-9"
+    }, {
+      "command": "Go to Next Field (Bar, beat, 16th)",
+      "shortcut": "./-/,"
+    }, {
+      "command": "Abort Value Entry",
+      "shortcut": "esc"
+    }, {
+      "command": "Confirm Value Entry",
+      "shortcut": "ent"
+    }]
+  }, {
+    "title": "Browsing",
+    "shortcuts": [{
+      "command": "Scroll Down/Up",
+      "shortcut": "up/down"
+    }, {
+      "command": "Close/Open Folders",
+      "shortcut": "right/left"
+    }, {
+      "command": "Load Selected Item from Browser",
+      "shortcut": "ent"
+    }, {
+      "command": "Preview Selected File",
+      "shortcut": "shift+ent"
+    }, {
+      "command": "Search in Browser",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Jump to Search Results",
+      "shortcut": "down"
+    }, {
+      "command": "Assign Color(s) to Selected Browser Item(s)",
+      "shortcut": "1-7"
+    }, {
+      "command": "Reset Assigned Color(s) for Selected Browser Item",
+      "shortcut": "0"
+    }]
+  }, {
+    "title": "Transport",
+    "shortcuts": [{
+      "command": "Play from Start Marker/Stop",
+      "shortcut": "space"
+    }, {
+      "command": "Continue Play from Stop Point",
+      "shortcut": "shift+space"
+    }, {
+      "command": "Play Arrangement View Selection",
+      "shortcut": "space"
+    }, {
+      "command": "Move Insert Marker to Beginning",
+      "shortcut": "fn+left"
+    }, {
+      "command": "Record",
+      "shortcut": "f9"
+    }, {
+      "command": "Back to Arrangement",
+      "shortcut": "f10"
+    }, {
+      "command": "Activate/Deactivate Track 1..8",
+      "shortcut": "f1-f8"
+    }]
+  }, {
+    "title": "Editing",
+    "shortcuts": [{
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Delete",
+      "shortcut": "del"
+    }, {
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "cmd+y"
+    }, {
+      "command": "Rename",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Select All",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Clips and Slots Across all Tracks",
+      "shortcut": "shift"
+    }, {
+      "command": "Time Across all Tracks",
+      "shortcut": "shift"
+    }, {
+      "command": "The Selected Part of the Envelope",
+      "shortcut": "alt"
+    }]
+  }, {
+    "title": "Loop Brace and Start/End Markers",
+    "shortcuts": [{
+      "command": "Move Start Marker to Position",
+      "shortcut": "shift (then click)"
+    }, {
+      "command": "Nudge Loop Left/Right",
+      "shortcut": "right/left"
+    }, {
+      "command": "Move Loop By Loop Length",
+      "shortcut": "up/down"
+    }, {
+      "command": "Halve/Double Loop Length",
+      "shortcut": "cmd+up/down"
+    }, {
+      "command": "Shorten/Lengthen Loop",
+      "shortcut": "cmd+right/left"
+    }, {
+      "command": "Select Material in Loop",
+      "shortcut": "cmd+shift+l"
+    }]
+  }, {
+    "title": "Session View Commands",
+    "shortcuts": [{
+      "command": "Launch Selected Clip/Slot",
+      "shortcut": "ent"
+    }, {
+      "command": "Select Neighboring Clip/Slot",
+      "shortcut": "up/down/left/right"
+    }, {
+      "command": "Select all Clips/Slots",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Copy Clips",
+      "shortcut": "alt (then drag a clip)"
+    }, {
+      "command": "Add/Remove Stop Button",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Insert MIDI clip",
+      "shortcut": "cmd+shift+m"
+    }, {
+      "command": "Insert Scene",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Insert Captured Scene",
+      "shortcut": "cmd+shift+i"
+    }, {
+      "command": "Move Nonadjacent Scenes Without Collapsing",
+      "shortcut": "cmd+up/down"
+    }, {
+      "command": "Drop Browser Clips as a Scene",
+      "shortcut": "cmd"
+    }, {
+      "command": "Deactivate Selected Clip",
+      "shortcut": "0"
+    }]
+  }, {
+    "title": "Arrangement View Commands",
+    "shortcuts": [{
+      "command": "Split Clip at Selection",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Consolidate Selection into Clip",
+      "shortcut": "cmd+j"
+    }, {
+      "command": "Create Fade/Crossfade",
+      "shortcut": "cmd+alt+f"
+    }, {
+      "command": "Toggle Loop Selection",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Insert Silence",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Pan Left/Right of Selection",
+      "shortcut": "cmd+alt"
+    }, {
+      "command": "Unfold Selected Tracks",
+      "shortcut": "u"
+    }, {
+      "command": "Unfold all Tracks",
+      "shortcut": "alt+u"
+    }, {
+      "command": "Adjust Height of Selected Tracks",
+      "shortcut": "alt++/alt+-"
+    }, {
+      "command": "Scroll Display to Follow Playback",
+      "shortcut": "cmd+shift+f"
+    }, {
+      "command": "Optimize Arrangement Height",
+      "shortcut": "h"
+    }, {
+      "command": "Optimize Arrangement Width",
+      "shortcut": "w"
+    }, {
+      "command": "Deactivate Selection",
+      "shortcut": "0"
+    }, {
+      "command": "Nudge Selection Left/Right",
+      "shortcut": "right/left"
+    }, {
+      "command": "Reverse Audio Clip Selection",
+      "shortcut": "r"
+    }, {
+      "command": "Zoom to Arrangement Time Selection",
+      "shortcut": "z"
+    }, {
+      "command": "Zoom Back from Arrangement Time Selection",
+      "shortcut": "x"
+    }, {
+      "command": "Play from Insert Marker in Selected Clip",
+      "shortcut": "alt+space"
+    }]
+  }, {
+    "title": "Commands for Tracks",
+    "shortcuts": [{
+      "command": "Insert Audio Track",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Insert MIDI Track",
+      "shortcut": "cmd+shift+t"
+    }, {
+      "command": "Insert Return Track",
+      "shortcut": "cmd+alt+t"
+    }, {
+      "command": "Rename Selected Track",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "While Renaming, Go to next Track",
+      "shortcut": "tab"
+    }, {
+      "command": "Group Selected Tracks",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Ungroup Tracks",
+      "shortcut": "cmd+shift+g"
+    }, {
+      "command": "Show Grouped Tracks",
+      "shortcut": "+"
+    }, {
+      "command": "Hide Grouped Tracks",
+      "shortcut": "-"
+    }, {
+      "command": "Move Nonadjacent Tracks Without Collapsing",
+      "shortcut": "cmd (then arrow key)"
+    }, {
+      "command": "Arm/Solo Multiple Tracks",
+      "shortcut": "cmd (then click)"
+    }, {
+      "command": "Solo Selected Tracks",
+      "shortcut": "s"
+    }, {
+      "command": "Add Device from Browser",
+      "shortcut": "ent"
+    }, {
+      "command": "Deactivate Selected Track",
+      "shortcut": "0"
+    }]
+  }, {
+    "title": "Commands for Breakpoint Envelopes",
+    "shortcuts": [{
+      "command": "Toggle Automation Mode",
+      "shortcut": "a"
+    }, {
+      "command": "Finer Resolution for Dragging",
+      "shortcut": "shift"
+    }, {
+      "command": "Create Curved Automation Segment",
+      "shortcut": "alt"
+    }, {
+      "command": "Momentarily Toggle Fade Controls",
+      "shortcut": "f"
+    }, {
+      "command": "Delete Automation/Clear Envelope",
+      "shortcut": "cmd+del"
+    }]
+  }, {
+    "title": "Key/MIDI Map Mode and the Computer MIDI Keyboard",
+    "shortcuts": [{
+      "command": "Toggle MIDI Map Mode",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "Toggle Key Map Mode",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Computer MIDI Keyboard",
+      "shortcut": "m"
+    }, {
+      "command": "Adjust Computer MIDI Keyboard Octave Range Up/Down",
+      "shortcut": "x/y"
+    }, {
+      "command": "Adjust Computer MIDI Keyboard Incoming Note Velocity Up/Down",
+      "shortcut": "c/v"
+    }]
+  }, {
+    "title": "Zooming, Display and Selections",
+    "shortcuts": [{
+      "command": "Zoom In",
+      "shortcut": "+"
+    }, {
+      "command": "Zoom Out",
+      "shortcut": "-"
+    }, {
+      "command": "Drag/Click to Append to a Selection",
+      "shortcut": "shift"
+    }, {
+      "command": "Click to Add Adjacent Clips/Tracks/Scenes to Multi-Selection",
+      "shortcut": "shift"
+    }, {
+      "command": "Click to Add Nonadjacent Clips/Tracks/Scenes to a Multi-Selection",
+      "shortcut": "cmd"
+    }, {
+      "command": "Follow (Auto-Scroll)",
+      "shortcut": "cmd+shift+k"
+    }, {
+      "command": "Pan Left/Right of Selection",
+      "shortcut": "cmd+alt"
+    }]
+  }, {
+    "title": "Clip View Sample Display",
+    "shortcuts": [{
+      "command": "Quantize",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Quantize Settings",
+      "shortcut": "cmd+shift+u"
+    }, {
+      "command": "Move Selected Warp Marker",
+      "shortcut": "right/left"
+    }, {
+      "command": "Select Warp Marker",
+      "shortcut": "cmd+right/left"
+    }, {
+      "command": "Scroll Display to Follow Playback",
+      "shortcut": "cmd+shift+f"
+    }, {
+      "command": "Move Clip Region with Start Marker",
+      "shortcut": "shift+right/left"
+    }, {
+      "command": "Zoom to Clip Selection",
+      "shortcut": "z"
+    }, {
+      "command": "Zoom Back from Clip Selection",
+      "shortcut": "x"
+    }]
+  }, {
+    "title": "Clip View MIDI Editor",
+    "shortcuts": [{
+      "command": "Quantize",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Quantize Settings...",
+      "shortcut": "cmd+shift+u"
+    }, {
+      "command": "Scroll Editor Vertically",
+      "shortcut": "pgup/pgdown"
+    }, {
+      "command": "Scroll Editor Horizontally",
+      "shortcut": "shift+pgup/pgdown"
+    }, {
+      "command": "Copy Notes",
+      "shortcut": "alt (then drag)"
+    }, {
+      "command": "Change Velocity From Note Editor",
+      "shortcut": "cmd (then drag)"
+    }, {
+      "command": "Move Insert Marker to Beginning",
+      "shortcut": "fn+left"
+    }, {
+      "command": "Move Insert Marker to End",
+      "shortcut": "end"
+    }, {
+      "command": "Scroll Display to Follow Playback",
+      "shortcut": "cmd+shift+f"
+    }, {
+      "command": "Move Clip Region with Start Marker",
+      "shortcut": "shift+right/left"
+    }, {
+      "command": "Zoom to Clip Selection",
+      "shortcut": "z"
+    }, {
+      "command": "Zoom Back from Clip Selection",
+      "shortcut": "x"
+    }]
+  }, {
+    "title": "Grid Snapping and Drawing",
+    "shortcuts": [{
+      "command": "Toggle Draw Mode",
+      "shortcut": "b"
+    }, {
+      "command": "Narrow Grid",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Widen Grid",
+      "shortcut": "cmd+2"
+    }, {
+      "command": "Triplet Grid",
+      "shortcut": "cmd+3"
+    }, {
+      "command": "Snap to Grid",
+      "shortcut": "cmd+4"
+    }, {
+      "command": "Fixed/Zoom-Adaptive Grid",
+      "shortcut": "cmd+5"
+    }, {
+      "command": "Bypass Snapping While Dragging",
+      "shortcut": "cmd"
+    }]
+  }, {
+    "title": "Global Quantization",
+    "shortcuts": [{
+      "command": "Sixteenth-Note Quantization",
+      "shortcut": "cmd+6"
+    }, {
+      "command": "Eighth-Note Quantization",
+      "shortcut": "cmd+7"
+    }, {
+      "command": "Quarter-Note Quantization",
+      "shortcut": "cmd+8"
+    }, {
+      "command": "1-Bar Quantization",
+      "shortcut": "cmd+9"
+    }, {
+      "command": "Quantization Off",
+      "shortcut": "cmd+0"
+    }]
+  }, {
+    "title": "Working with Sets and the Program",
+    "shortcuts": [{
+      "command": "New Live Set",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Open Live Set",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Save Live Set",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Save Live Set As...",
+      "shortcut": "cmd+shift+s"
+    }, {
+      "command": "Quit Live",
+      "shortcut": "cmd+q"
+    }, {
+      "command": "Hide Live",
+      "shortcut": "cmd+h"
+    }, {
+      "command": "Export Audio/Video",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Export MIDI file",
+      "shortcut": "cmd+shift+e"
+    }]
+  }, {
+    "title": "Working with Plug-Ins and Devices",
+    "shortcuts": [{
+      "command": "Show/Hide Plug-In Windows",
+      "shortcut": "cmd+alt+p"
+    }, {
+      "command": "Open Second/Multiple Windows with Show/Hide Plug-In Window Button",
+      "shortcut": "cmd"
+    }, {
+      "command": "Group/Ungroup Devices",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Activate/Deactivate All Devices in Group",
+      "shortcut": "alt device activator"
+    }, {
+      "command": "Click to Append Devices to a Selected Device",
+      "shortcut": "shift"
+    }, {
+      "command": "Load Selected Device From Browser",
+      "shortcut": "ent"
+    }]
+  }]
+}
