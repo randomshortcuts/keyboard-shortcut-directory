@@ -1,0 +1,481 @@
+{
+  "program": "Visual Studio Code",
+  "groups": [{
+    "title": "Basic Editing",
+    "shortcuts": [{
+      "shortcut": "cmd+x",
+      "command": "Cut line (empty selection)"
+    }, {
+      "shortcut": "cmd+c",
+      "command": "Copy line (empty selection)"
+    }, {
+      "shortcut": "shift+cmd+k",
+      "command": "Delete Line"
+    }, {
+      "shortcut": "cmd+ent",
+      "command": "Insert Line Below"
+    }, {
+      "shortcut": "shift+cmd+ent",
+      "command": "Insert Line Above"
+    }, {
+      "shortcut": "opt+down",
+      "command": "Move Line Down"
+    }, {
+      "shortcut": "opt+up",
+      "command": "Move Line Up"
+    }, {
+      "shortcut": "shift+opt+down",
+      "command": "Copy Line Down"
+    }, {
+      "shortcut": "shift+opt+up",
+      "command": "Copy Line Up"
+    }, {
+      "shortcut": "cmd+d",
+      "command": "Add Selection To Next Find Match"
+    }, {
+      "shortcut": "cmd+d",
+      "command": "Move Last Selection To Next Find Match"
+    }, {
+      "shortcut": "cmd+u",
+      "command": "Undo last cursor operation"
+    }, {
+      "shortcut": "shift+opt+i",
+      "command": "Insert cursor at end of each line selected"
+    }, {
+      "shortcut": "shift+cmd+l",
+      "command": "Select all occurrences of current selection"
+    }, {
+      "shortcut": "cmd+f2",
+      "command": "Select all occurrences of current word"
+    }, {
+      "shortcut": "cmd+l",
+      "command": "Select current line"
+    }, {
+      "shortcut": "opt+cmd+down",
+      "command": "Insert Cursor Below"
+    }, {
+      "shortcut": "opt+cmd+up",
+      "command": "Insert Cursor Above"
+    }, {
+      "shortcut": "shift+cmd+\\",
+      "command": "Jump to matching bracket"
+    }, {
+      "shortcut": "cmd+]",
+      "command": "Indent Line"
+    }, {
+      "shortcut": "cmd+[",
+      "command": "Outdent Line"
+    }, {
+      "shortcut": "home",
+      "command": "Go to Beginning of Line"
+    }, {
+      "shortcut": "end",
+      "command": "Go to End of Line"
+    }, {
+      "shortcut": "cmd+down",
+      "command": "Go to End of File"
+    }, {
+      "shortcut": "cmd+up",
+      "command": "Go to Beginning of File"
+    }, {
+      "shortcut": "ctrl+pgdown",
+      "command": "Scroll Line Down"
+    }, {
+      "shortcut": "ctrl+pgup",
+      "command": "Scroll Line Up"
+    }, {
+      "shortcut": "cmd+pgdown",
+      "command": "Scroll Page Down"
+    }, {
+      "shortcut": "cmd+pgup",
+      "command": "Scroll Page Up"
+    }, {
+      "shortcut": "opt+cmd+[",
+      "command": "Fold (collapse) region"
+    }, {
+      "shortcut": "opt+cmd+]",
+      "command": "Unfold (uncollapse) region"
+    }, {
+      "shortcut": "cmd+[",
+      "command": "Fold (collapse) all subregions"
+    }, {
+      "shortcut": "cmd+]",
+      "command": "Unfold (uncollapse) all subregions"
+    }, {
+      "shortcut": "cmd+0",
+      "command": "Fold (collapse) all regions"
+    }, {
+      "shortcut": "cmd+j",
+      "command": "Unfold (uncollapse) all regions"
+    }, {
+      "shortcut": "cmd+c",
+      "command": "Add Line Comment"
+    }, {
+      "shortcut": "cmd+u",
+      "command": "Remove Line Comment"
+    }, {
+      "shortcut": "cmd+/",
+      "command": "Toggle Line Comment"
+    }, {
+      "shortcut": "shift+opt+a",
+      "command": "Toggle Block Comment"
+    }, {
+      "shortcut": "cmd+f",
+      "command": "Find"
+    }, {
+      "shortcut": "opt+cmd+f",
+      "command": "Replace"
+    }, {
+      "shortcut": "cmd+g",
+      "command": "Find Next"
+    }, {
+      "shortcut": "shift+cmd+g",
+      "command": "Find Previous"
+    }, {
+      "shortcut": "opt+ent",
+      "command": "Select All Occurrences of Find Match"
+    }, {
+      "shortcut": "opt+cmd+c",
+      "command": "Toggle Find Case Sensitive"
+    }, {
+      "shortcut": "opt+cmd+r",
+      "command": "Toggle Find Regex"
+    }, {
+      "shortcut": "opt+cmd+w",
+      "command": "Toggle Find Whole Word"
+    }, {
+      "shortcut": "ctrl+shift+m",
+      "command": "Toggle Use of Tab Key for Setting Focus"
+    }, {
+      "shortcut": "opt+z",
+      "command": "Toggle Word Wrap"
+    }]
+  }, {
+    "title": "Rich Languages Editing",
+    "shortcuts": [{
+      "shortcut": "ctrl+space",
+      "command": "Trigger Suggest"
+    }, {
+      "shortcut": "shift+cmd+space",
+      "command": "Trigger Parameter Hints"
+    }, {
+      "shortcut": "shift+opt+f",
+      "command": "Format Document"
+    }, {
+      "shortcut": "cmd+f",
+      "command": "Format Selection"
+    }, {
+      "shortcut": "f12",
+      "command": "Go to Definition"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Show Hover"
+    }, {
+      "shortcut": "opt+f12",
+      "command": "Peek Definition"
+    }, {
+      "shortcut": "cmd+k f12",
+      "command": "Open Definition to the Side"
+    }, {
+      "shortcut": "cmd+.",
+      "command": "Quick Fix"
+    }, {
+      "shortcut": "shift+f12",
+      "command": "Peek References"
+    }, {
+      "shortcut": "f2",
+      "command": "Rename Symbol"
+    }, {
+      "shortcut": "shift+cmd+.",
+      "command": "Replace with Next Value"
+    }, {
+      "shortcut": "shift+cmd+,",
+      "command": "Replace with Previous Value"
+    }, {
+      "shortcut": "ctrl+shift+cmd+right",
+      "command": "Expand AST Selection"
+    }, {
+      "shortcut": "ctrl+shift+cmd+left",
+      "command": "Shrink AST Selection"
+    }, {
+      "shortcut": "cmd+x",
+      "command": "Trim Trailing Whitespace"
+    }, {
+      "shortcut": "cmd+k m",
+      "command": "Change Language Mode"
+    }]
+  }, {
+    "title": "Navigation",
+    "shortcuts": [{
+      "shortcut": "cmd+t",
+      "command": "Show All Symbols"
+    }, {
+      "shortcut": "ctrl+g",
+      "command": "Go to Line..."
+    }, {
+      "shortcut": "cmd+p",
+      "command": "Go to File..., Quick Open"
+    }, {
+      "shortcut": "shift+cmd+o",
+      "command": "Go to Symbol..."
+    }, {
+      "shortcut": "shift+cmd+m",
+      "command": "Show Problems"
+    }, {
+      "shortcut": "f8",
+      "command": "Go to Next Error or Warning"
+    }, {
+      "shortcut": "shift+f8",
+      "command": "Go to Previous Error or Warning"
+    }, {
+      "shortcut": "shift+cmd+p/f1",
+      "command": "Show All Commands"
+    }, {
+      "shortcut": "ctrl+shift+tab",
+      "command": "Navigate Editor Group History"
+    }, {
+      "shortcut": "ctrl+-",
+      "command": "Go Back"
+    }, {
+      "shortcut": "ctrl+-",
+      "command": "Go back in Quick Input"
+    }, {
+      "shortcut": "ctrl+shift+-",
+      "command": "Go Forward"
+    }]
+  }, {
+    "title": "Editor/Window Management",
+    "shortcuts": [{
+      "shortcut": "shift+cmd+n",
+      "command": "New Window"
+    }, {
+      "shortcut": "shift+cmd+w",
+      "command": "Close Window"
+    }, {
+      "shortcut": "cmd+w",
+      "command": "Close Editor"
+    }, {
+      "shortcut": "cmd+k f",
+      "command": "Close Folder"
+    }, {
+      "shortcut": "cmd+\\",
+      "command": "Split Editor"
+    }, {
+      "shortcut": "cmd+1",
+      "command": "Focus into First Editor Group"
+    }, {
+      "shortcut": "cmd+2",
+      "command": "Focus into Second Editor Group"
+    }, {
+      "shortcut": "cmd+3",
+      "command": "Focus into Third Editor Group"
+    }, {
+      "shortcut": "cmd+left",
+      "command": "Move Editor Left"
+    }, {
+      "shortcut": "cmd+right",
+      "command": "Move Editor Right"
+    }, {
+      "shortcut": "cmd+k left",
+      "command": "Move Active Editor Group Left"
+    }, {
+      "shortcut": "cmd+k right",
+      "command": "Move Active Editor Group Right"
+    }, {
+      "shortcut": "ctrl+cmd+right",
+      "command": "Move Editor into Next Group"
+    }, {
+      "shortcut": "ctrl+cmd+left",
+      "command": "Move Editor into Previous Group"
+    }]
+  }, {
+    "title": "File Management",
+    "shortcuts": [{
+      "shortcut": "cmd+n",
+      "command": "New File"
+    }, {
+      "shortcut": "cmd+s",
+      "command": "Save"
+    }, {
+      "shortcut": "opt+cmd+s",
+      "command": "Save All"
+    }, {
+      "shortcut": "shift+cmd+s",
+      "command": "Save As..."
+    }, {
+      "shortcut": "cmd+w",
+      "command": "Close"
+    }, {
+      "shortcut": "opt+cmd+t",
+      "command": "Close Others"
+    }, {
+      "shortcut": "cmd+k w",
+      "command": "Close Group"
+    }, {
+      "shortcut": "cmd+k cmd+w",
+      "command": "Close All"
+    }, {
+      "shortcut": "shift+cmd+t",
+      "command": "Reopen Closed Editor"
+    }, {
+      "shortcut": "cmd+k ent",
+      "command": "Keep Open"
+    }, {
+      "shortcut": "ctrl+tab",
+      "command": "Open Next"
+    }, {
+      "shortcut": "ctrl+shift+tab",
+      "command": "Open Previous"
+    }, {
+      "shortcut": "cmd+k p",
+      "command": "Copy Path of Active File"
+    }, {
+      "shortcut": "cmd+k r",
+      "command": "Reveal Active File in Windows"
+    }, {
+      "shortcut": "cmd+k o",
+      "command": "Show Opened File in New Window"
+    }]
+  }, {
+    "title": "Display",
+    "shortcuts": [{
+      "shortcut": "ctrl+cmd+f",
+      "command": "Toggle Full Screen"
+    }, {
+      "shortcut": "cmd+k z",
+      "command": "Toggle Zen Mode"
+    }, {
+      "shortcut": "esc esc",
+      "command": "Leave Zen Mode"
+    }, {
+      "shortcut": "cmd+=",
+      "command": "Zoom in"
+    }, {
+      "shortcut": "cmd+-",
+      "command": "Zoom out"
+    }, {
+      "shortcut": "cmd+0",
+      "command": "Reset Zoom"
+    }, {
+      "shortcut": "cmd+b",
+      "command": "Toggle Sidebar Visibility"
+    }, {
+      "shortcut": "shift+cmd+e",
+      "command": "Show Explorer / Toggle Focus"
+    }, {
+      "shortcut": "shift+cmd+f",
+      "command": "Show Search"
+    }, {
+      "shortcut": "ctrl+shift+g",
+      "command": "Show Source Control"
+    }, {
+      "shortcut": "shift+cmd+d",
+      "command": "Show Debug"
+    }, {
+      "shortcut": "shift+cmd+x",
+      "command": "Show Extensions"
+    }, {
+      "shortcut": "shift+cmd+u",
+      "command": "Show Output"
+    }, {
+      "shortcut": "ctrl+q",
+      "command": "Quick Open View"
+    }, {
+      "shortcut": "shift+cmd+c",
+      "command": "Open New Command Prompt"
+    }, {
+      "shortcut": "shift+cmd+v",
+      "command": "Toggle Markdown Preview"
+    }, {
+      "shortcut": "cmd+k v",
+      "command": "Open Preview to the Side"
+    }, {
+      "shortcut": "ctrl+`",
+      "command": "Toggle Integrated Terminal"
+    }]
+  }, {
+    "title": "Search",
+    "shortcuts": [{
+      "shortcut": "shift+cmd+f",
+      "command": "Show Search"
+    }, {
+      "shortcut": "shift+cmd+h",
+      "command": "Replace in Files"
+    }, {
+      "shortcut": "opt+cmd+c",
+      "command": "Toggle Match Case"
+    }, {
+      "shortcut": "opt+cmd+w",
+      "command": "Toggle Match Whole Word"
+    }, {
+      "shortcut": "opt+cmd+r",
+      "command": "Toggle Use Regular Expression"
+    }, {
+      "shortcut": "shift+cmd+j",
+      "command": "Toggle Search Details"
+    }, {
+      "shortcut": "f4",
+      "command": "Focus Next Search Result"
+    }, {
+      "shortcut": "shift+f4",
+      "command": "Focus Previous Search Result"
+    }, {
+      "shortcut": "down",
+      "command": "Show Next Search Term"
+    }, {
+      "shortcut": "up",
+      "command": "Show Previous Search Term"
+    }]
+  }, {
+    "title": "Preferences",
+    "shortcuts": [{
+      "shortcut": "cmd+,",
+      "command": "Open Settings"
+    }, {
+      "shortcut": "cmd+s",
+      "command": "Open Keyboard Shortcuts"
+    }, {
+      "shortcut": "cmd+t",
+      "command": "Select Color Theme"
+    }]
+  }, {
+    "title": "Debug",
+    "shortcuts": [{
+      "shortcut": "f9",
+      "command": "Toggle Breakpoint"
+    }, {
+      "shortcut": "f5",
+      "command": "Start"
+    }, {
+      "shortcut": "f5",
+      "command": "Continue"
+    }, {
+      "shortcut": "ctrl+f5",
+      "command": "Start (without debugging)"
+    }, {
+      "shortcut": "f6",
+      "command": "Pause"
+    }, {
+      "shortcut": "f11",
+      "command": "Step Into"
+    }, {
+      "shortcut": "shift+f11",
+      "command": "Step Out"
+    }, {
+      "shortcut": "f10",
+      "command": "Step Over"
+    }, {
+      "shortcut": "shift+f5",
+      "command": "Stop"
+    }, {
+      "shortcut": "cmd+i",
+      "command": "Show Hover"
+    }]
+  }, {
+    "title": "Tasks",
+    "shortcuts": [{
+      "shortcut": "shift+cmd+b",
+      "command": "Run Build Task"
+    }]
+  }]
+}
