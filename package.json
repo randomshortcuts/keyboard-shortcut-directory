@@ -1,6 +1,6 @@
 {
   "name": "keyboard-shortcut-directory",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "A JSON directory of keyboard shortcuts, written in a consistent syntax.",
   "main": "parseShortcuts.js",
   "repository": {
