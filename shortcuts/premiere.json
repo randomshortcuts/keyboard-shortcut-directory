@@ -1,0 +1,589 @@
+{
+  "program": "Adobe Premiere",
+  "groups": [{
+    "title": "Audio Track Mixer panel",
+    "shortcuts": [{
+      "command": "Show/Hide Tracks",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Loop",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Meter Input(s) Only",
+      "shortcut": "ctrl+shift+i"
+    }]
+  }, {
+    "title": "Capture panel",
+    "shortcuts": [{
+      "command": "Record Video",
+      "shortcut": "v"
+    }, {
+      "command": "Record Audio",
+      "shortcut": "a"
+    }, {
+      "command": "Eject",
+      "shortcut": "e"
+    }, {
+      "command": "Fast Forward",
+      "shortcut": "f"
+    }, {
+      "command": "Go to In point",
+      "shortcut": "q"
+    }, {
+      "command": "Go to Out point",
+      "shortcut": "w"
+    }, {
+      "command": "Record",
+      "shortcut": "g"
+    }, {
+      "command": "Rewind",
+      "shortcut": "r"
+    }, {
+      "command": "Step Back",
+      "shortcut": "left"
+    }, {
+      "command": "Step Forward",
+      "shortcut": "right"
+    }, {
+      "command": "Stop",
+      "shortcut": "s"
+    }]
+  }, {
+    "title": "Effect Controls panel",
+    "shortcuts": [{
+      "command": "Remove Selected Effect",
+      "shortcut": "del"
+    }, {
+      "command": "Loop During Audio-Only Playback",
+      "shortcut": "cmd+l"
+    }]
+  }, {
+    "title": "Effects panel",
+    "shortcuts": [{
+      "command": "New Custom Bin",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Delete Custom Item",
+      "shortcut": "del"
+    }]
+  }, {
+    "title": "Essential Graphics panel",
+    "shortcuts": [{
+      "command": "Clear Selection",
+      "shortcut": "del"
+    }]
+  }, {
+    "title": "History panel",
+    "shortcuts": [{
+      "command": "Step Backward",
+      "shortcut": "left"
+    }, {
+      "command": "Step Forward",
+      "shortcut": "right"
+    }, {
+      "command": "Delete",
+      "shortcut": "del"
+    }]
+  }, {
+    "title": "Legacy Titler panel",
+    "shortcuts": [{
+      "command": "Arc Tool",
+      "shortcut": "a"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Decrease Kerning by Five Units",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Decrease Kerning by One Unit",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Decrease Leading by Five Units",
+      "shortcut": "opt+shift+down"
+    }, {
+      "command": "Decrease Leading by One Unit",
+      "shortcut": "opt+down"
+    }, {
+      "command": "Decrease Text Size by Five Points",
+      "shortcut": "opt+shift+cmd+left"
+    }, {
+      "command": "Decrease Text Size by One Point",
+      "shortcut": "opt+cmd+left"
+    }, {
+      "command": "Ellipse Tool",
+      "shortcut": "e"
+    }, {
+      "command": "Increase Kerning by Five Units",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Increase Kerning by One Unit",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Increase Leading by Five Units",
+      "shortcut": "opt+shift+up"
+    }, {
+      "command": "Increase Leading by One Unit",
+      "shortcut": "opt+up"
+    }, {
+      "command": "Increase Text Size by Five Points",
+      "shortcut": "opt+shift+cmd+right"
+    }, {
+      "command": "Increase Text Size by One Point",
+      "shortcut": "opt+cmd+right"
+    }, {
+      "command": "Insert Copyright Symbol",
+      "shortcut": "opt+shift+cmd+c"
+    }, {
+      "command": "Insert Registered Symbol",
+      "shortcut": "opt+shift+cmd+r"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Line Tool",
+      "shortcut": "l"
+    }, {
+      "command": "Nudge Selected Object Down by Five Pixels",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Nudge Selected Object Down by One Pixel",
+      "shortcut": "down"
+    }, {
+      "command": "Nudge Selected Object Left by Five Pixels",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Nudge Selected Object Left by One Pixel",
+      "shortcut": "left"
+    }, {
+      "command": "Nudge Selected Object Right by Five Pixels",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Nudge Selected Object Right by One Pixel",
+      "shortcut": "right"
+    }, {
+      "command": "Nudge Selected Object Up by Five Pixels",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Nudge Selected Object Up by One Pixel",
+      "shortcut": "up"
+    }, {
+      "command": "Pen Tool",
+      "shortcut": "p"
+    }, {
+      "command": "Position Objects to Bottom Title Safe Margin",
+      "shortcut": "shift+cmd+d"
+    }, {
+      "command": "Position Objects to Left Title Safe Margin",
+      "shortcut": "shift+cmd+f"
+    }, {
+      "command": "Position Objects to Top Title Safe Margin",
+      "shortcut": "shift+cmd+o"
+    }, {
+      "command": "Rectangle Tool",
+      "shortcut": "r"
+    }, {
+      "command": "Rotation Tool",
+      "shortcut": "o"
+    }, {
+      "command": "Selection Tool",
+      "shortcut": "v"
+    }, {
+      "command": "Type Tool",
+      "shortcut": "t"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Vertical Type Tool",
+      "shortcut": "c"
+    }, {
+      "command": "Wedge Tool",
+      "shortcut": "w"
+    }]
+  }, {
+    "title": "Media Browser panel",
+    "shortcuts": [{
+      "command": "Open in Source Monitor",
+      "shortcut": "shift+o"
+    }, {
+      "command": "Select Directory List",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Select Media List",
+      "shortcut": "shift+right"
+    }]
+  }, {
+    "title": "Metadata panel",
+    "shortcuts": [{
+      "command": "Loop",
+      "shortcut": "cmd+l"
+    }, {
+      "command": "Play",
+      "shortcut": "space"
+    }]
+  }, {
+    "title": "Multi-camera",
+    "shortcuts": [{
+      "command": "Go to Next Edit Point",
+      "shortcut": "down"
+    }, {
+      "command": "Go to Next Edit Point on Any Track",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Go to Previous Edit Point",
+      "shortcut": "up"
+    }, {
+      "command": "Go to Previous Edit Point on Any Track",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Go to Selected Clip End",
+      "shortcut": "shift+end"
+    }, {
+      "command": "Go to Selected Clip Start",
+      "shortcut": "shift+home"
+    }, {
+      "command": "Go to Sequence-Clip End",
+      "shortcut": "end"
+    }, {
+      "command": "Go to Sequence-Clip Start",
+      "shortcut": "home"
+    }, {
+      "command": "Increase Clip Volume",
+      "shortcut": "]"
+    }, {
+      "command": "Increase Clip Volume Many",
+      "shortcut": "shift+]"
+    }, {
+      "command": "Maximize or Restore Active Frame",
+      "shortcut": "shift+`"
+    }, {
+      "command": "Maximize or Restore Frame Under Cursor",
+      "shortcut": "`"
+    }, {
+      "command": "Minimize All Tracks",
+      "shortcut": "shift+-"
+    }, {
+      "command": "Play Around",
+      "shortcut": "shift+k"
+    }, {
+      "command": "Play In to Out",
+      "shortcut": "opt+k"
+    }, {
+      "command": "Play In to Out with Preroll/Postroll",
+      "shortcut": "shift+space"
+    }, {
+      "command": "Play from Playhead to Out Point",
+      "shortcut": "ctrl+space"
+    }, {
+      "command": "Play-Stop Toggle",
+      "shortcut": "space"
+    }, {
+      "command": "Reveal Nested Sequence",
+      "shortcut": "shift+t"
+    }, {
+      "command": "Ripple Trim Next Edit To Playhead",
+      "shortcut": "w"
+    }, {
+      "command": "Ripple Trim Previous Edit To Playhead",
+      "shortcut": "q"
+    }, {
+      "command": "Select Camera 1",
+      "shortcut": "1"
+    }, {
+      "command": "Select Camera 2",
+      "shortcut": "2"
+    }, {
+      "command": "Select Camera 3",
+      "shortcut": "3"
+    }, {
+      "command": "Select Camera 4",
+      "shortcut": "4"
+    }, {
+      "command": "Select Camera 5",
+      "shortcut": "5"
+    }, {
+      "command": "Select Camera 6",
+      "shortcut": "6"
+    }, {
+      "command": "Select Camera 7",
+      "shortcut": "7"
+    }, {
+      "command": "Select Camera 8",
+      "shortcut": "8"
+    }, {
+      "command": "Select Camera 9",
+      "shortcut": "9"
+    }, {
+      "command": "Select Find Box",
+      "shortcut": "shift+f"
+    }, {
+      "command": "Select Clip at Playhead",
+      "shortcut": "d"
+    }, {
+      "command": "Select Next Clip",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Select Next Panel",
+      "shortcut": "ctrl+shift+."
+    }, {
+      "command": "Select Previous Clip",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Select Previous Panel",
+      "shortcut": "ctrl+shift+,"
+    }, {
+      "command": "Set Poster Frame",
+      "shortcut": "cmd+p"
+    }, {
+      "command": "Shuttle Left",
+      "shortcut": "j"
+    }, {
+      "command": "Shuttle Right",
+      "shortcut": "l"
+    }, {
+      "command": "Shuttle Slow Left",
+      "shortcut": "shift+j"
+    }, {
+      "command": "Shuttle Slow Right",
+      "shortcut": "shift+l"
+    }, {
+      "command": "Shuttle Stop",
+      "shortcut": "k"
+    }, {
+      "command": "Step Back",
+      "shortcut": "left"
+    }, {
+      "command": "Step Back Five Frames - Units",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Step Forward",
+      "shortcut": "right"
+    }, {
+      "command": "Step Forward Five Frames - Units",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Toggle All Audio Targets",
+      "shortcut": "cmd+9"
+    }, {
+      "command": "Toggle All Source Audio",
+      "shortcut": "opt+cmd+9"
+    }, {
+      "command": "Toggle All Source Video",
+      "shortcut": "opt+cmd+0"
+    }, {
+      "command": "Toggle All Video Targets",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Toggle Audio During Scrubbing",
+      "shortcut": "shift+s"
+    }, {
+      "command": "Toggle Full Screen",
+      "shortcut": "ctrl+`"
+    }, {
+      "command": "Toggle Multi-Camera View",
+      "shortcut": "shift+0"
+    }, {
+      "command": "Toggle Trim Type",
+      "shortcut": "ctrl+t"
+    }, {
+      "command": "Trim Backward",
+      "shortcut": "opt+left"
+    }, {
+      "command": "Trim Backward Many",
+      "shortcut": "opt+shift+left"
+    }, {
+      "command": "Trim Forward",
+      "shortcut": "opt+right"
+    }, {
+      "command": "Trim Forward Many",
+      "shortcut": "opt+shift+right"
+    }, {
+      "command": "Trim Next Edit to Playhead",
+      "shortcut": "opt+w"
+    }, {
+      "command": "Trim Previous Edit to Playhead",
+      "shortcut": "opt+q"
+    }]
+  }, {
+    "title": "Program Monitor panel",
+    "shortcuts": [{
+      "command": "Snap in Program Monitor",
+      "shortcut": "shift+cmd+;"
+    }, {
+      "command": "Nudge Selected Object up by five frames",
+      "shortcut": "shift+cmd+up"
+    }, {
+      "command": "Nudge Selected Object right by five frames",
+      "shortcut": "shift+cmd+right"
+    }, {
+      "command": "Nudge Selected Object left by five frames",
+      "shortcut": "shift+cmd+left"
+    }, {
+      "command": "Nudge Selected Object down by five frames",
+      "shortcut": "shift+cmd+down"
+    }, {
+      "command": "Nudge Selected Object up by one frame",
+      "shortcut": "cmd+up"
+    }, {
+      "command": "Nudge Selected Object right by one frame",
+      "shortcut": "cmd+right"
+    }, {
+      "command": "Nudge Selected Object left by one frame",
+      "shortcut": "cmd+left"
+    }, {
+      "command": "Nudge Selected Object down by one frame",
+      "shortcut": "cmd+down"
+    }]
+  }, {
+    "title": "Project panel",
+    "shortcuts": [{
+      "command": "New Bin",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Delete",
+      "shortcut": "del"
+    }, {
+      "command": "List",
+      "shortcut": "cmd+pgup"
+    }, {
+      "command": "Icon",
+      "shortcut": "cmd+pgdown"
+    }, {
+      "command": "Hover Scrub",
+      "shortcut": "shift+h"
+    }, {
+      "command": "Delete Selection with Options",
+      "shortcut": "cmd+del"
+    }, {
+      "command": "Extend Selection Down",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Extend Selection Left",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Extend Selection Right",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Extend Selection Up",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Move Selection Down",
+      "shortcut": "down"
+    }, {
+      "command": "Move Selection End",
+      "shortcut": "end"
+    }, {
+      "command": "Move Selection Home",
+      "shortcut": "home"
+    }, {
+      "command": "Move Selection Left",
+      "shortcut": "left"
+    }, {
+      "command": "Move Selection Page Down",
+      "shortcut": "pgdown"
+    }, {
+      "command": "Move Selection Page Up",
+      "shortcut": "pgup"
+    }, {
+      "command": "Move Selection Right",
+      "shortcut": "right"
+    }, {
+      "command": "Move Selection Up",
+      "shortcut": "up"
+    }, {
+      "command": "Next Column Field",
+      "shortcut": "tab"
+    }, {
+      "command": "Next Row Field",
+      "shortcut": "ret"
+    }, {
+      "command": "Open in Source Monitor",
+      "shortcut": "shift+o"
+    }, {
+      "command": "Previous Column Field",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Previous Row Field",
+      "shortcut": "shift+ret"
+    }, {
+      "command": "Thumbnail Size Next",
+      "shortcut": "shift+]"
+    }, {
+      "command": "Thumbnail Size Previous",
+      "shortcut": "shift+["
+    }, {
+      "command": "Toggle View",
+      "shortcut": "shift+\\"
+    }]
+  }, {
+    "title": "Timeline panel",
+    "shortcuts": [{
+      "command": "Clear Selection",
+      "shortcut": "del"
+    }, {
+      "command": "Decrease Audio Tracks Height",
+      "shortcut": "opt+-"
+    }, {
+      "command": "Decrease Video Tracks Height",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Increase Audio Tracks Height",
+      "shortcut": "opt+="
+    }, {
+      "command": "Increase Video Tracks Height",
+      "shortcut": "cmd+="
+    }, {
+      "command": "Nudge Clip Selection Left Five Frames",
+      "shortcut": "shift+cmd+left"
+    }, {
+      "command": "Nudge Clip Selection Left One Frame",
+      "shortcut": "cmd+left"
+    }, {
+      "command": "Nudge Clip Selection Right Five Frames",
+      "shortcut": "shift+cmd+right"
+    }, {
+      "command": "Nudge Clip Selection Right One Frame",
+      "shortcut": "cmd+right"
+    }, {
+      "command": "Ripple Delete",
+      "shortcut": "opt+del"
+    }, {
+      "command": "Set Work Area Bar In Point",
+      "shortcut": "opt+["
+    }, {
+      "command": "Set Work Area Bar Out Point",
+      "shortcut": "opt+]"
+    }, {
+      "command": "Show Next Screen",
+      "shortcut": "pgdown"
+    }, {
+      "command": "Show Previous Screen",
+      "shortcut": "pgup"
+    }, {
+      "command": "Slide Clip Selection Left Five Frames",
+      "shortcut": "opt+shift+,"
+    }, {
+      "command": "Slide Clip Selection Left One Frame",
+      "shortcut": "opt+,"
+    }, {
+      "command": "Slide Clip Selection Right Five Frames",
+      "shortcut": "opt+shift+."
+    }, {
+      "command": "Slide Clip Selection Right One Frame",
+      "shortcut": "opt+."
+    }, {
+      "command": "Slip Clip Selection Left Five Frames",
+      "shortcut": "opt+shift+cmd+left"
+    }, {
+      "command": "Slip Clip Selection Left One Frame",
+      "shortcut": "opt+cmd+left"
+    }, {
+      "command": "Slip Clip Selection Right Five Frames",
+      "shortcut": "opt+shift+cmd+right"
+    }, {
+      "command": "Slip Clip Selection Right One Frame",
+      "shortcut": "opt+cmd+right"
+    }]
+  }]
+}
