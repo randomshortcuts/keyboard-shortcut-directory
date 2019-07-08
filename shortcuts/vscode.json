@@ -432,10 +432,10 @@
       "shortcut": "cmd+,",
       "command": "Open Settings"
     }, {
-      "shortcut": "cmd+s",
+      "shortcut": "cmd+k cmd+s",
       "command": "Open Keyboard Shortcuts"
     }, {
-      "shortcut": "cmd+t",
+      "shortcut": "cmd+k cmd+t",
       "command": "Select Color Theme"
     }]
   }, {
