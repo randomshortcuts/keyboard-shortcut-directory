@@ -31,7 +31,7 @@
       "shortcut": "a"
     }, {
       "command": "Add new task at the top of the list",
-      "shortcut": "a"
+      "shortcut": "shift+a"
     }, {
       "command": "Open search",
       "shortcut": "/"
@@ -73,10 +73,13 @@
     "title": "Sorting tasks inside a project",
     "shortcuts": [{
       "command": "Sort by date",
-      "shortcut": "s"
+      "shortcut": "d"
     }, {
       "command": "Sort by priority",
       "shortcut": "p"
+    }, {
+      "command": "Sort by name",
+      "shortcut": "n"
     }, {
       "command": "Sort by assignee",
       "shortcut": "r"
@@ -85,10 +88,10 @@
     "title": "Global shortcuts",
     "shortcuts": [{
       "command": "Show/hide Todoist",
-      "shortcut": "ctrl+cmd+t"
+      "shortcut": "ctrl+cmd+shift+t"
     }, {
       "command": "Open task Quick Add",
-      "shortcut": "ctrl+cmd+a"
+      "shortcut": "ctrl+cmd+shift+a"
     }]
   }]
 }
