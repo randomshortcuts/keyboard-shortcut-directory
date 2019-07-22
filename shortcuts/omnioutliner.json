@@ -1,0 +1,253 @@
+{
+  "program": "OmniOutliner",
+  "groups": [{
+    "title": "The OmniOutliner Menu",
+    "shortcuts": [{
+        "command": "Preferences",
+        "shortcut": "cmd+,"
+      }, {
+        "command": "Hide OmniOutliner",
+        "shortcut": "cmd+h"
+      }, {
+        "command": "Hide Others",
+        "shortcut": "opt+cmd+h"
+      }, {
+        "command": "Quit OmniOutliner",
+        "shortcut": "cmd+q"
+      }]
+  }, {
+    "title": "The File Menu",
+    "shortcuts": [{
+      "command": "New",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Resource Browser",
+      "shortcut": "shift+cmd+n"
+    }, {
+      "command": "Open",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Close",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Save",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "shift+cmd+s"
+    }, {
+      "command": "Export",
+      "shortcut": "opt+cmd+e"
+    }, {
+      "command": "Page Setup",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Print",
+      "shortcut": "cmd+p"
+    }]
+  }, {
+    "title": "The Edit Menu",
+    "shortcuts": [{
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "shift+cmd+z"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste with Original Style",
+      "shortcut": "opt+shift+cmd+v"
+    }, {
+      "command": "Duplicate Selection",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Select All",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Deselect All",
+      "shortcut": "shift+cmd+a"
+    }, {
+      "command": "Edit Note",
+      "shortcut": "cmd+’"
+    }, {
+      "command": "Insert Short Date",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Insert Long Date",
+      "shortcut": "opt+cmd+/"
+    }, {
+      "command": "Insert Time",
+      "shortcut": "cmd+@"
+    }, {
+      "command": "Insert Short Date & Time",
+      "shortcut": "cmd+|"
+    }, {
+      "command": "Insert Long Date & Time",
+      "shortcut": "opt+cmd+|"
+    }, {
+      "command": "Find",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Find Next",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Find Previous",
+      "shortcut": "shift+cmd+g"
+    }, {
+      "command": "Use Selection for Find",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Show/Hide Spelling and Grammar",
+      "shortcut": "cmd+:"
+    }, {
+      "command": "Check Spelling",
+      "shortcut": "cmd+;"
+    }, {
+      "command": "Start Dictation",
+      "shortcut": "fn fn"
+    }, {
+      "command": "Emoji & Symbols",
+      "shortcut": "ctrl+cmd+space"
+    }]
+  }, {
+    "title": "The Format Menu",
+    "shortcuts": [{
+      "command": "Copy Style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste Style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Clear Style",
+      "shortcut": "ctrl+cmd+delete"
+    }, {
+      "command": "Show Fonts",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Bigger",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Smaller",
+      "shortcut": "cmd+−"
+    }, {
+      "command": "Show Colors",
+      "shortcut": "shift+cmd+c"
+    }]
+  }, {
+    "title": "The View Menu",
+    "shortcuts": [{
+      "command": "Expand All",
+      "shortcut": "ctrl+cmd+9"
+    }, {
+      "command": "Collapse All",
+      "shortcut": "ctrl+cmd+0"
+    }, {
+      "command": "Expand Rows",
+      "shortcut": "cmd+9"
+    }, {
+      "command": "Expand Rows Completely",
+      "shortcut": "opt+cmd+9"
+    }, {
+      "command": "Collapse Row(s)",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Collapse Row(s) Completely",
+      "shortcut": "opt+cmd+0"
+    }, {
+      "command": "Focus",
+      "shortcut": "shift+cmd+f"
+    }, {
+      "command": "Unfocus",
+      "shortcut": "opt+shift+cmd+f"
+    }, {
+      "command": "Zoom In",
+      "shortcut": "cmd+shift+."
+    }, {
+      "command": "Zoom Out",
+      "shortcut": "cmd+shift+,"
+    }, {
+      "command": "Show/Hide Note(s)",
+      "shortcut": "opt+cmd+‘"
+    }, {
+      "command": "Show/Hide Note Pane",
+      "shortcut": "opt+cmd+’"
+    }, {
+      "command": "Show/Hide All Notes",
+      "shortcut": "ctrl+cmd+’"
+    }, {
+      "command": "Hide/Show Sidebar",
+      "shortcut": "opt+cmd+1"
+    }, {
+      "command": "Hide/Show Inspector",
+      "shortcut": "shift+command-i"
+    }, {
+      "command": "Enter/Exit Full Screen",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": "Show/Hide Toolbar",
+      "shortcut": "opt+cmd+t"
+    }]
+  }, {
+    "title": "The Organize Menu",
+    "shortcuts": [{
+      "command": "Add Inside",
+      "shortcut": "cmd+shift+]"
+    }, {
+      "command": "Add Outside",
+      "shortcut": "cmd+shift+["
+    }, {
+      "command": "Move Up",
+      "shortcut": "ctrl+cmd+up"
+    }, {
+      "command": "Move Down",
+      "shortcut": "ctrl+cmd+down"
+    }, {
+      "command": "Move Left",
+      "shortcut": "ctrl+cmd+left"
+    }, {
+      "command": "Move Right",
+      "shortcut": "ctrl+cmd+right"
+    }, {
+      "command": "Indent",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Outdent",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Group",
+      "shortcut": "opt+cmd+g"
+    }, {
+      "command": "Ungroup",
+      "shortcut": "opt+cmd+u"
+    }]
+  }, {
+    "title": "The Window Menu",
+    "shortcuts": [{
+      "command": "Minimize",
+      "shortcut": "cmd+m"
+    }, {
+      "command": "Show Previous Tab",
+      "shortcut": "ctrl+shift+tab"
+    }, {
+      "command": "Show Next Tab",
+      "shortcut": "ctrl+tab"
+    }]
+  }]
+}
