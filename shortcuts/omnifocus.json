@@ -1,0 +1,193 @@
+{
+  "program": "Omnifocus 3",
+  "groups": [{
+    "title": "File menu",
+    "shortcuts": [{
+      "command": "New Action",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "New Project",
+      "shortcut": "cmd+shift+n"
+    }, {
+      "command": "New Window",
+      "shortcut": "opt+cmd+n"
+    }, {
+      "command": "New Tab",
+      "shortcut": "opt+cmd+t"
+    }, {
+      "command": "Quick Open",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Close",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Synchronize with Server",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Page Setup",
+      "shortcut": "cmd+shift+p"
+    }, {
+      "command": "Print",
+      "shortcut": "cmd+p"
+    }]
+  }, {
+    "title": "Edit menu",
+    "shortcuts": [{
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "cmd+shift+z"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste and Match Style",
+      "shortcut": "cmd+shift+opt+v"
+    }, {
+      "command": "Select All",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Deselect All",
+      "shortcut": "cmd+shift+a"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Edit Note",
+      "shortcut": "cmd+'"
+    }, {
+      "command": "Convert to Project",
+      "shortcut": "cmd+shift+1"
+    }, {
+      "command": "Mark reviewed",
+      "shortcut": "cmd+shift+r"
+    }, {
+      "command": "Set/Clear Flag",
+      "shortcut": "cmd+shift+l"
+    }]
+  }, {
+    "title": "Organize menu",
+    "shortcuts": [{
+      "command": "Clean up",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Add Inside",
+      "shortcut": "cmd+shift+]"
+    }, {
+      "command": "Add Outside",
+      "shortcut": "cmd+shift+["
+    }, {
+      "command": "Indent",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Outdent",
+      "shortcut": "cmd+["
+    }, {
+      "command": "Group",
+      "shortcut": "opt+cmd+g"
+    }, {
+      "command": "Ungroup",
+      "shortcut": "opt+cmd+u"
+    }]
+  }, {
+    "title": "View menu",
+    "shortcuts": [{
+      "command": "Expand all",
+      "shortcut": "cmd+ctrl+9"
+    }, {
+      "command": "Collapse all",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Show/Hide All Notes",
+      "shortcut": "cmd+ctrl+'"
+    }, {
+      "command": "Show/Hide Note",
+      "shortcut": "opt+cmd+'"
+    }, {
+      "command": "Show in Projects/Tags",
+      "shortcut": "opt+cmd+r"
+    }, {
+      "command": "Show/Hide Sidebar",
+      "shortcut": "opt+cmd+s"
+    }, {
+      "command": "Show/Hide Inspector",
+      "shortcut": "opt+cmd+i"
+    }, {
+      "command": "Go to Sidebar",
+      "shortcut": "opt+cmd+1"
+    }, {
+      "command": "Go to Outline",
+      "shortcut": "opt+cmd+2"
+    }, {
+      "command": "Go to Inspector",
+      "shortcut": "opt+cmd+3"
+    }, {
+      "command": "Show/Hide View Options",
+      "shortcut": "shift+cmd+v"
+    }]
+  }, {
+    "title": "Perspectives Menu",
+    "shortcuts": [{
+      "command": "Show Perspectives",
+      "shortcut": "ctrl+cmd+p"
+    }, {
+      "command": "Inbox",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Projects",
+      "shortcut": "cmd+2"
+    }, {
+      "command": "Tags",
+      "shortcut": "cmd+3"
+    }, {
+      "command": "Forecast",
+      "shortcut": "cmd+4"
+    }, {
+      "command": "Flagged",
+      "shortcut": "cmd+5"
+    }, {
+      "command": "Review",
+      "shortcut": "cmd+6"
+    }]
+  }, {
+    "title": "Formatting",
+    "shortcuts": [{
+      "command": "Copy Style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste Style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Clear Style",
+      "shortcut": "ctrl+cmd+del"
+    }, {
+      "command": "Show/Hide Fonts",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Show/Hide Colors",
+      "shortcut": "shift+cmd+c"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Bigger",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Smaller",
+      "shortcut": "cmd+-"
+    }]
+  }]
+}
