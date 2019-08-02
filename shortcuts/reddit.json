@@ -1,0 +1,61 @@
+{
+  "program": "Reddit",
+  "groups": [{
+    "title": "Navigation",
+    "shortcuts": [{
+      "command": "Show shortcuts",
+      "shortcut": "shift+?"
+    }, {
+      "command": "Next post or comment",
+      "shortcut": "j"
+    }, {
+      "command": "Previous post or comment",
+      "shortcut": "k"
+    }, {
+      "command": "Next post in lightbox",
+      "shortcut": "n"
+    }, {
+      "command": "Previous post or comment",
+      "shortcut": "p"
+    }, {
+      "command": "Open post",
+      "shortcut": "ret"
+    }, {
+      "command": "Go to post link",
+      "shortcut": "l"
+    }, {
+      "command": "Next post or comment",
+      "shortcut": "j"
+    }]
+  }, {
+    "title": "Action",
+    "shortcuts": [{
+      "command": "Upvote",
+      "shortcut": "a"
+    }, {
+      "command": "Downvote",
+      "shortcut": "z"
+    }, {
+      "command": "New post",
+      "shortcut": "c"
+    }, {
+      "command": "Reply to comment",
+      "shortcut": "r"
+    }, {
+      "command": "Submit comment/post",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Save",
+      "shortcut": "s"
+    }, {
+      "command": "Hide",
+      "shortcut": "h"
+    }, {
+      "command": "Open navigation",
+      "shortcut": "q"
+    }, {
+      "command": "Collapse/expand comment",
+      "shortcut": "ret"
+    }]
+  }]
+}
