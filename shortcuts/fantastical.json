@@ -19,13 +19,13 @@
       "shortcut": "cmd+r"
     }, {
       "command": "Quit",
-      "shortcut": "cmd+",
+      "shortcut": "cmd+q"
     }, {
       "command": "Preferences",
       "shortcut": "cmd+,"
     }, {
       "command": "Print",
-      "shortcut": "cmd+p,
+      "shortcut": "cmd+p"
     }, {
       "command": "Get info",
       "shortcut": "cmd+i"
@@ -58,7 +58,7 @@
       "shortcut": "cmd+e"
     }, {
       "command": "Delete item",
-      "shortcut": "cmd+del/del,
+      "shortcut": "cmd+del/del"
     }, {
       "command": "Show detected invitees (for new event)",
       "shortcut": "shift+cmd+i"
