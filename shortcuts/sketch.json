@@ -1,0 +1,601 @@
+{
+  "program": "Sketch",
+  "groups": [{
+    "title": "General Shortcuts",
+    "shortcuts": [{
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Paste over selection",
+      "shortcut": "shift+cmd+v"
+    }, {
+      "command": "Pan Canvas",
+      "shortcut": "space (then drag)"
+    }, {
+      "command": "New page",
+      "shortcut": "shift+cmd+n"
+    }, {
+      "command": "Previous page",
+      "shortcut": "fn+up"
+    }, {
+      "command": "Next page",
+      "shortcut": "fn+down"
+    }, {
+      "command": "Zoom in",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Show/hide rulers",
+      "shortcut": "ctrl+r"
+    }, {
+      "command": "Show/hide pixels",
+      "shortcut": "ctrl+p"
+    }, {
+      "command": "Show/hide pixel grid",
+      "shortcut": "ctrl+x"
+    }, {
+      "command": "Show/hide grid",
+      "shortcut": "ctrl+g"
+    }, {
+      "command": "Show/hide layout",
+      "shortcut": "ctrl+l"
+    }, {
+      "command": "Show/hide slices",
+      "shortcut": "ctrl+e"
+    }, {
+      "command": "Show/hide prototyping",
+      "shortcut": "ctrl+f"
+    }, {
+      "command": "Filter in Layer List",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Run custom plugin",
+      "shortcut": "ctrl+cmd+k"
+    }, {
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "shift+cmd+z"
+    }, {
+      "command": "New document",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Open document",
+      "shortcut": "cmd+o"
+    }, {
+      "command": "Close window",
+      "shortcut": "cmd+w"
+    }, {
+      "command": "Save document",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Duplicate document",
+      "shortcut": "shift+cmd+s"
+    }, {
+      "command": "Save document as…",
+      "shortcut": "opt+shift+cmd+s"
+    }, {
+      "command": "Page setup",
+      "shortcut": "shift+cmd+p"
+    }, {
+      "command": "Open Preferences window",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Hide Sketch",
+      "shortcut": "cmd+h"
+    }, {
+      "command": "Quit Sketch",
+      "shortcut": "cmd+q"
+    }, {
+      "command": "Open the Help menu",
+      "shortcut": "shift+cmd+?"
+    }, {
+      "command": "Open Preview window",
+      "shortcut": "cmd+p"
+    }]
+  }, {
+    "title": "Inserting Layers",
+    "shortcuts": [{
+      "command": "Rectangle",
+      "shortcut": "r"
+    }, {
+      "command": "Oval",
+      "shortcut": "o"
+    }, {
+      "command": "Line",
+      "shortcut": "l"
+    }, {
+      "command": "Rounded rectangle",
+      "shortcut": "u"
+    }, {
+      "command": "Vector tool",
+      "shortcut": "v"
+    }, {
+      "command": "Pencil tool",
+      "shortcut": "p"
+    }, {
+      "command": "Text tool",
+      "shortcut": "t"
+    }, {
+      "command": "Artboard tool",
+      "shortcut": "a"
+    }, {
+      "command": "Slice tool",
+      "shortcut": "s"
+    }, {
+      "command": "Hotspot tool",
+      "shortcut": "h"
+    }, {
+      "command": "When inserting a layer, draw shape from center",
+      "shortcut": "opt (then drag)"
+    }, {
+      "command": "When inserting a layer, lock ratio of shape",
+      "shortcut": "shift (then drag)"
+    }, {
+      "command": "Place newly drawn layer before confirming it",
+      "shortcut": "space  (then drag)"
+    }]
+  }, {
+    "title": "Selecting Layers",
+    "shortcuts": [{
+      "command": "Select layer",
+      "shortcut": "click"
+    }, {
+      "command": "Selects layer within drag bounds",
+      "shortcut": "opt (then drag)"
+    }, {
+      "command": "Select any layer",
+      "shortcut": "cmd (then click layer)"
+    }, {
+      "command": "Select an obscured layer",
+      "shortcut": "opt (then click layer)"
+    }, {
+      "command": "Select all",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Select all Artboards",
+      "shortcut": "shift+cmd+a"
+    }, {
+      "command": "Add layer to selection/deselect layer in Canvas",
+      "shortcut": "shift (then click)"
+    }, {
+      "command": "Add layer from group to selection in Canvas",
+      "shortcut": "shift+cmd (then click)"
+    }, {
+      "command": "Add layer to selection/deselect layer in Layer List",
+      "shortcut": "cmd (then click)"
+    }, {
+      "command": "Select a range of layers in Layer List",
+      "shortcut": "shift (then click)"
+    }, {
+      "command": "Select next Artboard",
+      "shortcut": "fn+right"
+    }, {
+      "command": "Select previous Artboard",
+      "shortcut": "fn+left"
+    }, {
+      "command": "Reveal selection in Layer List",
+      "shortcut": "shift+cmd+j"
+    }]
+  }, {
+    "title": "Moving and Resizing Layers",
+    "shortcuts": [{
+      "command": "Display distance between other layers",
+      "shortcut": "opt (then hover)"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "opt-drag"
+    }, {
+      "command": "Move layer along X/Y axis",
+      "shortcut": "shift-drag"
+    }, {
+      "command": "Move layer ignoring smart guides",
+      "shortcut": "cmd-drag"
+    }, {
+      "command": "Move an obscured layer",
+      "shortcut": "opt+cmd-drag"
+    }, {
+      "command": "Nudge layer any direction by 1 px*",
+      "shortcut": "up/down/left/right"
+    }, {
+      "command": "Nudge layer any direction by 10 px*",
+      "shortcut": "shift+up/down/left/right"
+    }, {
+      "command": "Scale layer",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Resize layer from center",
+      "shortcut": "opt (then resize)"
+    }, {
+      "command": "Preserve layer ratio",
+      "shortcut": "shift (then resize)"
+    }, {
+      "command": "Expand by 1 px",
+      "shortcut": "cmd+right/down"
+    }, {
+      "command": "Contract by 1 px",
+      "shortcut": "cmd+left/up"
+    }, {
+      "command": "Expand by 10 px",
+      "shortcut": "shift+cmd+right/down"
+    }, {
+      "command": "Contract by 10 px",
+      "shortcut": "shift+cmd+left/up"
+    }, {
+      "command": "Show distance to baseline/cap height on text layers",
+      "shortcut": "ctrl+opt (then hover)"
+    }]
+  }, {
+    "title": "Editing Layers",
+    "shortcuts": [{
+      "command": "Edit layer",
+      "shortcut": "ent"
+    }, {
+      "command": "Finish editing",
+      "shortcut": "esc"
+    }, {
+      "command": "Focus X position input field in the Inspector",
+      "shortcut": "opt+tab"
+    }, {
+      "command": "Delete layer",
+      "shortcut": "del"
+    }, {
+      "command": "Copy style",
+      "shortcut": "opt+cmd+c"
+    }, {
+      "command": "Paste style",
+      "shortcut": "opt+cmd+v"
+    }, {
+      "command": "Sync shared style",
+      "shortcut": "ctrl+s"
+    }, {
+      "command": "Reset shared style",
+      "shortcut": "opt+ctrl+s"
+    }, {
+      "command": "Add link to Artboard",
+      "shortcut": "w"
+    }, {
+      "command": "Toggle fill",
+      "shortcut": "f"
+    }, {
+      "command": "Toggle border",
+      "shortcut": "b"
+    }, {
+      "command": "Pick color",
+      "shortcut": "ctrl+c"
+    }, {
+      "command": "Edit layer opacity",
+      "shortcut": "0-9"
+    }, {
+      "command": "Transform shape",
+      "shortcut": "shift+cmd+t"
+    }, {
+      "command": "Rotate layer",
+      "shortcut": "shift+cmd+r"
+    }, {
+      "command": "Use as mask",
+      "shortcut": "ctrl+cmd+m"
+    }, {
+      "command": "Return to instance",
+      "shortcut": "cmd+esc"
+    }, {
+      "command": "Union multiple layers",
+      "shortcut": "opt+cmd+u"
+    }, {
+      "command": "Subtract multiple layers",
+      "shortcut": "opt+cmd+s"
+    }, {
+      "command": "Intersect multiple layers",
+      "shortcut": "opt+cmd+i"
+    }, {
+      "command": "Difference multiple layers",
+      "shortcut": "opt+cmd+x"
+    }]
+  }, {
+    "title": "Vector Editing",
+    "shortcuts": [{
+      "command": "Open/close path",
+      "shortcut": "opt+cmd+o"
+    }, {
+      "command": "Selects next point",
+      "shortcut": "tab"
+    }, {
+      "command": "Show all handle control points",
+      "shortcut": "opt"
+    }, {
+      "command": "Straight point type",
+      "shortcut": "1"
+    }, {
+      "command": "Mirrored point type",
+      "shortcut": "2"
+    }, {
+      "command": "Disconnected point type",
+      "shortcut": "3"
+    }, {
+      "command": "Asymmetric point type",
+      "shortcut": "4"
+    }, {
+      "command": "Move point along X/Y axis",
+      "shortcut": "shift (then drag vector point)"
+    }, {
+      "command": "Converts selected point to Disconnected",
+      "shortcut": "cmd (then drag handle control point)"
+    }, {
+      "command": "Place new point at a 45º angle",
+      "shortcut": "shift (then click when inserting points)"
+    }, {
+      "command": "Place new point between existing points",
+      "shortcut": "shift (then click path segment)"
+    }]
+  }, {
+    "title": "Text Editing",
+    "shortcuts": [{
+      "command": "Paste as rich text",
+      "shortcut": "opt+shift+cmd+v"
+    }, {
+      "command": "Change typeface",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Increase font size",
+      "shortcut": "opt+cmd++"
+    }, {
+      "command": "Decrease font size",
+      "shortcut": "opt+cmd+-"
+    }, {
+      "command": "Increase character spacing",
+      "shortcut": "ctrl+opt+l"
+    }, {
+      "command": "Decrease character spacing",
+      "shortcut": "ctrl+opt+t"
+    }, {
+      "command": "Align left",
+      "shortcut": "shift+cmd+{"
+    }, {
+      "command": "Align center",
+      "shortcut": "shift+cmd+|"
+    }, {
+      "command": "Align right",
+      "shortcut": "shift+cmd+}"
+    }, {
+      "command": "Emoji & symbols",
+      "shortcut": "opt+cmd+space"
+    }, {
+      "command": "Convert to outlines",
+      "shortcut": "shift+cmd+o"
+    }, {
+      "command": "Insert a line break",
+      "shortcut": "shift+ret"
+    }]
+  }, {
+    "title": "Arranging Layers",
+    "shortcuts": [{
+      "command": "Group",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Ungroup",
+      "shortcut": "shift+cmd+g"
+    }, {
+      "command": "Rename layer",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Select next layer in group",
+      "shortcut": "tab"
+    }, {
+      "command": "Select previous layer in group",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Selects layer inside group",
+      "shortcut": "ent"
+    }, {
+      "command": "Selects parent group",
+      "shortcut": "esc"
+    }, {
+      "command": "Bring forward",
+      "shortcut": "opt+cmd+up"
+    }, {
+      "command": "Bring to front",
+      "shortcut": "ctrl+opt+cmd+up"
+    }, {
+      "command": "Send backward",
+      "shortcut": "opt+cmd+down"
+    }, {
+      "command": "Send to back",
+      "shortcut": "ctrl+opt+cmd+down"
+    }, {
+      "command": "Move up (out of group/Artboard)",
+      "shortcut": "opt+shift+cmd+up"
+    }, {
+      "command": "Distribute horizontally",
+      "shortcut": "ctrl+cmd+h"
+    }, {
+      "command": "Distribute vertically",
+      "shortcut": "ctrl+cmd+v"
+    }, {
+      "command": "Align layer to Artboard",
+      "shortcut": "opt (then click align buttons)"
+    }, {
+      "command": "Hide/show layer",
+      "shortcut": "shift+cmd+h"
+    }, {
+      "command": "Lock/unlock layer",
+      "shortcut": "shift+cmd+l"
+    }]
+  }, {
+    "title": "Exporting Layers",
+    "shortcuts": [{
+      "command": "Export",
+      "shortcut": "shift+cmd+e"
+    }, {
+      "command": "Export selected layer(s)",
+      "shortcut": "cmd+e"
+    }]
+  }, {
+    "title": "Zoom and Focus",
+    "shortcuts": [{
+      "command": "Zoom to 100%",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Zoom to all elements on Canvas",
+      "shortcut": "cmd+1"
+    }, {
+      "command": "Zoom to selected layer(s)",
+      "shortcut": "cmd+2"
+    }, {
+      "command": "Center selected layer(s) in the Canvas",
+      "shortcut": "cmd+3"
+    }, {
+      "command": "Zoom to area",
+      "shortcut": "z (then drag)"
+    }, {
+      "command": "Zoom in",
+      "shortcut": "z (then click)"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "opt+z (then click)"
+    }, {
+      "command": "Temporarily zoom out to 100%",
+      "shortcut": "~"
+    }, {
+      "command": "Toggle full screen",
+      "shortcut": "ctrl+cmd+f"
+    }, {
+      "command": "Show/hide Layer List",
+      "shortcut": "opt+cmd+1"
+    }, {
+      "command": "Show/hide Inspector",
+      "shortcut": "opt+cmd+2"
+    }, {
+      "command": "Enter presentation mode",
+      "shortcut": "cmd+."
+    }, {
+      "command": "Show/hide Toolbar",
+      "shortcut": "opt+cmd+t"
+    }]
+  }, {
+    "title": "Text Field Helpers",
+    "shortcuts": [{
+      "command": "Focus Inspector",
+      "shortcut": "opt+tab"
+    }, {
+      "command": "Select next field",
+      "shortcut": "tab"
+    }, {
+      "command": "Select previous field",
+      "shortcut": "shift+tab"
+    }, {
+      "command": "Confirm change",
+      "shortcut": "ent"
+    }, {
+      "command": "Clear change",
+      "shortcut": "esc"
+    }, {
+      "command": "Increase value by 1",
+      "shortcut": "up"
+    }, {
+      "command": "Decrease value by 1",
+      "shortcut": "down"
+    }, {
+      "command": "Increase value by 10",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Decrease value by 10",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Increase value by 0.1",
+      "shortcut": "opt+up"
+    }, {
+      "command": "Decrease value by 0.1",
+      "shortcut": "opt+down"
+    }, {
+      "command": "Adjust value in increments of 10",
+      "shortcut": "shift (then click and drag label)"
+    }, {
+      "command": "Adjust value in increments of 0.1",
+      "shortcut": "opt (then click and drag label)"
+    }, {
+      "command": "Scale from the left (default)",
+      "shortcut": "l"
+    }, {
+      "command": "Scale from the right",
+      "shortcut": "r"
+    }, {
+      "command": "Scale from the top (default)",
+      "shortcut": "t"
+    }, {
+      "command": "Scale from the bottom",
+      "shortcut": "b"
+    }, {
+      "command": "Scale from the center / middle",
+      "shortcut": "c/m"
+    }, {
+      "command": "Add",
+      "shortcut": "+"
+    }, {
+      "command": "Subtract",
+      "shortcut": "-"
+    }, {
+      "command": "Multiply",
+      "shortcut": "*"
+    }, {
+      "command": "Divide",
+      "shortcut": "/"
+    }, {
+      "command": "Resize layer to a percentage of its parent group or Artboard",
+      "shortcut": "%"
+    }, {
+      "command": "Value spacer",
+      "shortcut": ";"
+    }]
+  }, {
+    "title": "Miscellaneous",
+    "shortcuts": [{
+      "command": "Launch Sketch with all plugins disabled",
+      "shortcut": "shift (while opening Sketch)"
+    }, {
+      "command": "Detach from Symbol",
+      "shortcut": "ctrl+cmd+d"
+    }, {
+      "command": "Detach all contents from Symbol",
+      "shortcut": "ctrl+opt+cmd+d"
+    }, {
+      "command": "Refresh Data",
+      "shortcut": "shift+cmd+d"
+    }, {
+      "command": "Run last-used plugin again",
+      "shortcut": "ctrl+cmd+r"
+    }, {
+      "command": "Rotate layer",
+      "shortcut": "cmd (then drag selection handle)"
+    }, {
+      "command": "Snap rotation to 15º increments",
+      "shortcut": "shift (then drag when rotating)"
+    }, {
+      "command": "With a gradient stop selected, position it between 0% and 100%",
+      "shortcut": "0-9"
+    }, {
+      "command": "Position selected gradient stop directly between two existing stops",
+      "shortcut": "="
+    }]
+  }]
+}
