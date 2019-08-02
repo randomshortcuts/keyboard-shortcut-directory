@@ -1,0 +1,142 @@
+{
+  "program": "Asana",
+  "groups": [{
+    "title": "My Tasks",
+    "shortcuts": [{
+      "command": "Mark as Today in your My Tasks",
+      "shortcut": "tab+y"
+    }, {
+      "command": "Mark as Upcoming in your My Tasks",
+      "shortcut": "tab+u"
+    }, {
+      "command": "Mark as Later in your My Tasks",
+      "shortcut": "tab+l"
+    }]
+  }, {
+    "title": "Inbox",
+    "shortcuts": [{
+      "command": "Move Up/Down",
+      "shortcut": "k/j"
+    }, {
+      "command": "Jump to Inbox tab",
+      "shortcut": "h"
+    }, {
+      "command": "Jump to Archive tab",
+      "shortcut": "s"
+    }, {
+      "command": "Follow or Unfollow",
+      "shortcut": "f"
+    }, {
+      "command": "Archive",
+      "shortcut": "i"
+    }, {
+      "command": "Move to Inbox",
+      "shortcut": "u"
+    }]
+  }, {
+    "title": "Task Actions",
+    "shortcuts": [{
+      "command": "New Task",
+      "shortcut": "↵"
+    }, {
+      "command": "Delete Selected Task(s)",
+      "shortcut": "tab+bksp"
+    }, {
+      "command": "Delete current task (when task name is empty)",
+      "shortcut": "bksp"
+    }, {
+      "command": "Complete Selected Task(s)",
+      "shortcut": "cmd+↵"
+    }, {
+      "command": "Move Up/Down",
+      "shortcut": "cmd+down"
+    }, {
+      "command": "Jump Up/Down to the next Section",
+      "shortcut": "cmd+shift+down"
+    }, {
+      "command": "Copy Selected Tasks",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Paste Tasks (One per line)",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Assign to Me",
+      "shortcut": "tab+m"
+    }, {
+      "command": "Access Home",
+      "shortcut": "tab+h"
+    }, {
+      "command": "Create a Section",
+      "shortcut": "tab+n"
+    }]
+  }, {
+    "title": "Navigation",
+    "shortcuts": [{
+      "command": "Navigate to My Tasks",
+      "shortcut": "tab+z"
+    }, {
+      "command": "Navigate to Inbox",
+      "shortcut": "tab+i"
+    }, {
+      "command": "Collapse Sidebar",
+      "shortcut": "tab+o"
+    }, {
+      "command": "Comment on Selected Task",
+      "shortcut": "tab+c"
+    }, {
+      "command": "Assign Selected Task",
+      "shortcut": "tab+a"
+    }, {
+      "command": "Set Due Date",
+      "shortcut": "tab+d"
+    }, {
+      "command": "Add Follower",
+      "shortcut": "tab+f"
+    }, {
+      "command": "Add a tag to the task",
+      "shortcut": "tab+t"
+    }, {
+      "command": "Focus Subtasks",
+      "shortcut": "tab+s"
+    }, {
+      "command": "Search for a project, tag, person, or task",
+      "shortcut": "tab+/"
+    }]
+  }, {
+    "title": "Selection",
+    "shortcuts": [{
+      "command": "Change Selection",
+      "shortcut": "up/down"
+    }, {
+      "command": "Select Range",
+      "shortcut": "shift (then click)"
+    }, {
+      "command": "Select Range",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Multi-select Individual Task",
+      "shortcut": "cmd (then click)"
+    }]
+  }, {
+    "title": "Application",
+    "shortcuts": [{
+      "command": "Show Keyboard Shortcuts",
+      "shortcut": "cmd+/"
+    }, {
+      "command": "Collapse the right pane",
+      "shortcut": "esc"
+    }, {
+      "command": "Enter Focus Mode",
+      "shortcut": "tab+x"
+    }, {
+      "command": "Quick Add",
+      "shortcut": "tab+q"
+    }, {
+      "command": "Post Comment (From comment field)",
+      "shortcut": "tab+↵"
+    }, {
+      "command": "What it sounds like",
+      "shortcut": "tab+b"
+    }]
+  }]
+}
