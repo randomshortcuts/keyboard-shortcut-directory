@@ -1,0 +1,100 @@
+{
+  "program": "Fantastical",
+  "groups": [{
+    "title": "General Shortcuts",
+    "shortcuts": [{
+      "command": "Open or close Fantastical",
+      "shortcut": "ctrl+opt+space"
+    }, {
+      "command": "Search",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Enter a new event",
+      "shortcut": "cmd+n"
+    }, {
+      "command": "Go to today",
+      "shortcut": "cmd+t"
+    }, {
+      "command": "Show or hide the Reminders list",
+      "shortcut": "cmd+r"
+    }, {
+      "command": "Quit",
+      "shortcut": "cmd+",
+    }, {
+      "command": "Preferences",
+      "shortcut": "cmd+,"
+    }, {
+      "command": "Print",
+      "shortcut": "cmd+p,
+    }, {
+      "command": "Get info",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Toggle between event/reminder for new item",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Toggle keeping mini window on top",
+      "shortcut": "ctrl+cmd+a"
+    }, {
+      "command": "Jump to next month",
+      "shortcut": "right"
+    }, {
+      "command": "Jump to previous month",
+      "shortcut": "left"
+    }, {
+      "command": "Jump to next day",
+      "shortcut": "shift+right"
+    }, {
+      "command": "Jump to previous day",
+      "shortcut": "shift+left"
+    }, {
+      "command": "Jump to next week",
+      "shortcut": "shift+down"
+    }, {
+      "command": "Jump to previous week",
+      "shortcut": "shift+up"
+    }, {
+      "command": "Show or hide details",
+      "shortcut": "cmd+e"
+    }, {
+      "command": "Delete item",
+      "shortcut": "cmd+del/del,
+    }, {
+      "command": "Show detected invitees (for new event)",
+      "shortcut": "shift+cmd+i"
+    }]
+  }, {
+    "title": "Day or Week View",
+    "shortcuts": [{
+      "command": "Move item to next day",
+      "shortcut": "ctrl+right"
+    }, {
+      "command": "Move item to previous day",
+      "shortcut": "ctrl+left"
+    }, {
+      "command": "Mvoe item forward 15 minutes",
+      "shortcut": "ctrl+down"
+    }, {
+      "command": "Move item backward 15 minutes",
+      "shortcut": "ctrl+up"
+    }, {
+      "command": "Move start of event forward 15 minutes",
+      "shortcut": "ctrl+opt+down"
+    }, {
+      "command": "Move start of event backward 15 minutes",
+      "shortcut": "ctrl+opt+up"
+    }, {
+      "command": "Move end of event forward 15 minutes",
+      "shortcut": "ctrl+shift+down"
+    }, {
+      "command": "Move end of event backward 15 minutes",
+      "shortcut": "cmd+shift+up"
+    }]
+  }, {
+    "title": "Searching",
+    "shortcuts": [{
+      "command": "Jump from the search field to first search result",
+      "shortcut": "cmd+down"
+    }]
+  }]
+}
