@@ -1,0 +1,196 @@
+{
+  "program": "Lucidchart",
+  "groups": [{
+    "title": "Editor",
+    "shortcuts": [{
+      "command": "Pan around the page",
+      "shortcut": "space (then drag)"
+    }, {
+      "command": "Zoom in",
+      "shortcut": "cmd++"
+    }, {
+      "command": "Zoom out",
+      "shortcut": "cmd+-"
+    }, {
+      "command": "Reset zoom to default",
+      "shortcut": "cmd+0"
+    }, {
+      "command": "Show or hide panels",
+      "shortcut": "opt+shift+f"
+    }, {
+      "command": "Next page",
+      "shortcut": "cmd+shift+>"
+    }, {
+      "command": "Previous page",
+      "shortcut": "cmd+shift+<"
+    }]
+  }, {
+    "title": "Canvas",
+    "shortcuts": [{
+      "command": "Move selected items",
+      "shortcut": "up/down/left/right"
+    }, {
+      "command": "Add or remove an object from selection",
+      "shortcut": "cmd (then click item)"
+    }, {
+      "command": "Select all",
+      "shortcut": "cmd+a"
+    }, {
+      "command": "Deselect all",
+      "shortcut": "esc"
+    }, {
+      "command": "Delete selection",
+      "shortcut": "del"
+    }, {
+      "command": "Edit text",
+      "shortcut": "F2"
+    }, {
+      "command": "Add comment",
+      "shortcut": "cmd+opt+m"
+    }, {
+      "command": "Duplicate",
+      "shortcut": "cmd+shift+d"
+    }, {
+      "command": "Cut",
+      "shortcut": "cmd+x"
+    }, {
+      "command": "Copy",
+      "shortcut": "cmd+c"
+    }, {
+      "command": "Paste",
+      "shortcut": "cmd+v"
+    }, {
+      "command": "Maintain aspect ratio",
+      "shortcut": "(hold) shift (then resize item)"
+    }, {
+      "command": "Resize item from center",
+      "shortcut": "(hold) opt (then resize item)"
+    }, {
+      "command": "Draw free-standing line",
+      "shortcut": "l"
+    }, {
+      "command": "Open Font Manager",
+      "shortcut": "f"
+    }, {
+      "command": "Open Shape Manager",
+      "shortcut": "m"
+    }, {
+      "command": "Undo",
+      "shortcut": "cmd+z"
+    }, {
+      "command": "Redo",
+      "shortcut": "cmd+y"
+    }, {
+      "command": "Group selection",
+      "shortcut": "cmd+g"
+    }, {
+      "command": "Ungroup selection",
+      "shortcut": "cmd+shift+g"
+    }, {
+      "command": "Add/Edit link",
+      "shortcut": "cmd+k"
+    }, {
+      "command": "Bring selected items to front layer",
+      "shortcut": "cmd+opt+]"
+    }, {
+      "command": "Send selected items to back most layer",
+      "shortcut": "cmd+opt+["
+    }, {
+      "command": "Bring selected items forward one layer",
+      "shortcut": "cmd+]"
+    }, {
+      "command": "Send selected items back one layer",
+      "shortcut": "cmd+["
+    }]
+  }, {
+    "title": "Text Editing",
+    "shortcuts": [{
+      "command": "Bold",
+      "shortcut": "cmd+b"
+    }, {
+      "command": "Italic",
+      "shortcut": "cmd+i"
+    }, {
+      "command": "Underline",
+      "shortcut": "cmd+u"
+    }, {
+      "command": "Line break",
+      "shortcut": "cmd+ret"
+    }, {
+      "command": "Carriage return",
+      "shortcut": "shift+ret"
+    }, {
+      "command": "Copy text style",
+      "shortcut": "cmd+opt+c"
+    }, {
+      "command": "Paste text style",
+      "shortcut": "cmd+opt+v"
+    }]
+  }, {
+    "title": "Find & Replace",
+    "shortcuts": [{
+      "command": "Open find and replace tool",
+      "shortcut": "cmd+f"
+    }, {
+      "command": "Navigate to next search result",
+      "shortcut": "f3"
+    }, {
+      "command": "Navigate to previous search result",
+      "shortcut": "shift+f3"
+    }]
+  }, {
+    "title": "File Operations",
+    "shortcuts": [{
+      "command": "Save",
+      "shortcut": "cmd+s"
+    }, {
+      "command": "Save as",
+      "shortcut": "cmd+shift+s"
+    }, {
+      "command": "Download/Export",
+      "shortcut": "cmd+d"
+    }, {
+      "command": "Embed published chart on another web page",
+      "shortcut": "cmd+shift+e"
+    }, {
+      "command": "Publish online",
+      "shortcut": "cmd+shift+p"
+    }]
+  }, {
+    "title": "Mind Maps",
+    "shortcuts": [{
+      "command": "Create child idea",
+      "shortcut": "tab"
+    }, {
+      "command": "Create sibling idea",
+      "shortcut": "ret"
+    }, {
+      "command": "Edit text",
+      "shortcut": "f2"
+    }, {
+      "command": "Navigate through map",
+      "shortcut": "up/down/left/right"
+    }, {
+      "command": "Toggle children",
+      "shortcut": "z"
+    }]
+  }, {
+    "title": "Presentation Mode",
+    "shortcuts": [{
+      "command": "Go to previous slide",
+      "shortcut": "left"
+    }, {
+      "command": "Go to next slide",
+      "shortcut": "right"
+    }]
+  }, {
+    "title": "Miscellaneous Shortcuts",
+    "shortcuts": [{
+      "command": "Open hotkey reference",
+      "shortcut": "f1"
+    }, {
+      "command": "Open feature find",
+      "shortcut": "ctrl+space"
+    }]
+  }]
+}
