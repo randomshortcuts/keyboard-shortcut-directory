@@ -216,13 +216,13 @@
   }, {
     "title": "Window",
     "shortcuts": [{
-      "command": "Show sidebar, note list and editor",
+      "command": "Show editor only",
       "shortcut": "ctrl+1"
     }, {
       "command": "Show note list and editor",
       "shortcut": "ctrl+2"
     }, {
-      "command": "Show editor only",
+      "command": "Show sidebar, note list and editor",
       "shortcut": "ctrl+3"
     }, {
       "command": "Show preferences",
