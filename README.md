@@ -4,7 +4,7 @@ A JSON directory of keyboard shortcuts, written in a consistent syntax.
 
 ### Why?
 
-Currently used to power [cmdspace.io](https://www.cmdspace.io).
+Currently used to power [randomshortcuts.com](https://www.randomshortcuts.com).
 
 ## Formatting
 
